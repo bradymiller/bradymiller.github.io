@@ -2,6 +2,6 @@
 layout: default
 title: Brady Miller
 ---
-### Home
+## Home
 
 This is a succinct website for Brady Miller.
