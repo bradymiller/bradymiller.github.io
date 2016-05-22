@@ -1,2 +1,6 @@
 name: Brady Miller
 markdown: kramdown
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
