@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Brady Miller
 ---
 ## About
 
