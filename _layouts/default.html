@@ -7,7 +7,7 @@
   </head>
   <body>
     <header>
-      <h1>Brady Miller</h1>
+      <h1>{{ site.name }}</h1>
     </header>
     <nav>
       <ul>
@@ -22,9 +22,9 @@
     </div><!-- /.container -->
     <footer>
       <ul>
-        <li><a href="mailto:brady.g.miller@gmail.com">Email</a> | <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x27DEF05B1A8A6D4F">PGP key</a></li>
-        <li><a href="https://github.com/bradymiller">GitHub</a></li>
-        <li><a href="https://www.linkedin.com/in/brady-miller-b807b61b">LinkedIn</a></li>
+        <li><a href="{{ site.email_link }}">Email</a> | <a href="{{ site.pgp_key_link }}">PGP key</a></li>
+        <li><a href="{{ site.github_link }}">GitHub</a></li>
+        <li><a href="{{ site.linkedin_link }}">LinkedIn</a></li>
       </ul>
     </footer>
   </body>
