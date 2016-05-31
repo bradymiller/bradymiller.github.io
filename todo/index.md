@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* EMPTY
+* empty
 
 ### OpenEMR Code Reviews
 1. Matrix InnoDB conversion (ongoing integration/testing by myself).
@@ -21,7 +21,7 @@ layout: default
 1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
 1. Sherwin prior auth form (issue has been brought up by Rod).
-1. Sherwin labs form (issued have been brought up by Terry and Arnab).
+1. Sherwin labs form (issues have been brought up by Terry and Arnab).
 
 ### OpenEMR Project
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
@@ -34,7 +34,7 @@ layout: default
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
 1. oemr.org website upgrade and migrate to github pages.
-1. Budget
+1. Budget.
 1. Fund-raising(options are grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
