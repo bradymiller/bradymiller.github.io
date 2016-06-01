@@ -4,10 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. ZH Healthcare Immunization for MU2 code review.
+empty
 
 ### OpenEMR Code Reviews
-1. ZH Healthcare Immunization for MU2.
 1. Matrix InnoDB conversion (ongoing integration/testing by myself).
 1. Ray eye form.
 1. Matrix custom assets management; loading of custom js/css into every script.
@@ -23,7 +22,7 @@ layout: default
 1. Sherwin prior auth form (issue has been brought up by Rod).
 1. Sherwin labs form (issues have been brought up by Terry and Arnab).
 
-### OpenEMR Project
+### OpenEMR Project Admin
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Migrate website to server that can support SSL.
 
@@ -45,3 +44,7 @@ layout: default
 1. Complete wiki planning page.
 1. Current budget is about 31 developer months plus $22,000 testing fee. 
 
+### OpenEMR Next Release
+1. Plan release after get Complete MU2 Certification
+1. New ubuntu dependencies: none for now
+1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
