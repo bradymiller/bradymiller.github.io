@@ -18,7 +18,6 @@ layout: default
 1. Terry HFCA printout.
 1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
-1. Kevin EDI2 (unclear if requested review yet).
 1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
 1. Sherwin prior auth form (issue has been brought up by Rod).
