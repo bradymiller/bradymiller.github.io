@@ -36,6 +36,7 @@ a:hover {
     font-size: 1.0em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
+    margin-bottom: 0;
 }
 .container p {
     font-size: 1.2em;
@@ -44,7 +45,7 @@ a:hover {
 }
 
 .container ul {
-    font-size: 1.0em;
+    font-size: 1.2em;
     margin-top: 0;
     color: #333;
 }
