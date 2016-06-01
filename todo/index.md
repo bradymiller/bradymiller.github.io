@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-empty
+* empty
 
 ### OpenEMR Code Reviews
 1. Matrix InnoDB conversion (ongoing integration/testing by myself).

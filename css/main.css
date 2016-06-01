@@ -23,25 +23,31 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+.container h1 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-h2 {
+.container h2 {
     font-size: 1.2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
-h3 {
+.container h3 {
     font-size: 1.0em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
-p {
+.container p {
     font-size: 1.2em;
     line-height: 1.1em;
     color: #333;
 }
+
+.container ul {
+    font-size: 1.0em;
+    margin-top: 0;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
