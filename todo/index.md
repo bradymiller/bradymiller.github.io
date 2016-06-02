@@ -26,6 +26,7 @@ layout: default
 ### OpenEMR Project Admin
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Migrate website to server that can support SSL.
+1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
 1. Discuss new OEMR logo at board meeting (probable cost of about $100).
