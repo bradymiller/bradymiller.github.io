@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix InnoDB conversion (ongoing integration/testing by myself).
+1. Sequex payments recurring appt related fixes.
 1. Ray eye form.
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. Terry mod of floating alerts.
