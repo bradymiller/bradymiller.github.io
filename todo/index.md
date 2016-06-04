@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix InnoDB conversion (ongoing integration/testing by myself).
+1. Terry duplicate appt bug fix.
 1. Sequex payments recurring appt related fixes.
 1. Matrix document image thumbnails.
 1. Ray eye form.
