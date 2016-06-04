@@ -19,3 +19,7 @@ layout: default
 * Internal Medicine Internship and Residency at University of California - San Francisco, CA. `2003-2006`
 * Doctor of Medicine at University of Texas - Southwestern Medical School, Dallas, TX. `1998-2003`
 * Bachelor of Science in Biochemistry at University of Washington, Seattle, WA. `1992-1997`
+
+### Professional Board Certification
+* Hematology, American Board of Internal Medicine, 2012.
+* Medical Oncology, American Board of Internal Medicine, 2010.
