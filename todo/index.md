@@ -4,14 +4,16 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+* Visolve MU2 CQM code review.
 
 ### OpenEMR Code Reviews
+1. Visolve MU2 CQM.
 1. Matrix InnoDB conversion (ongoing integration/testing by myself).
 1. Matrix globals fix(improving performance which is needed for the Innodb conversion).
 1. Terry duplicate appt bug fix.
 1. Sequex payments recurring appt related fixes.
 1. Matrix document image thumbnails.
+1. MAtrix data entry valdiation
 1. Ray eye form.
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. Terry mod of floating alerts.
