@@ -4,11 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+* Visolve MU2 CQM code review.
 
 ### OpenEMR Code Reviews
-1. Matrix InnoDB conversion (ongoing integration/testing by myself).
-1. Matrix globals fix(improving performance which is needed for the Innodb conversion).
+1. Visolve MU2 CQM.
+1. Robert icons and font-awesome.
 1. Terry duplicate appt bug fix.
 1. Sequex payments recurring appt related fixes.
 1. Matrix document image thumbnails.
@@ -33,14 +33,13 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. Discuss new OEMR logo at board meeting (probable cost of about $100).
-1. Discuss upgrading OpenEMR website (probably cost of $0-800).
+1. Roadmap for both OEMR organization and OpenEMR project
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
 1. oemr.org website upgrade and migrate to github pages.
 1. Budget.
-1. Fund-raising(options are grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
+1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
 1. Pass remaining items.
