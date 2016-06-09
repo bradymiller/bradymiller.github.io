@@ -33,7 +33,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. Roadmap for both OEMR organization and OpenEMR project
+1. Roadmap for both OEMR organization and OpenEMR project via Roadmap committee
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
