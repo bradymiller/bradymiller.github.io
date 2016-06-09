@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Visolve MU2 CQM.
-1. Robert icons and font-awesome.
 1. Terry duplicate appt bug fix.
 1. Sequex payments recurring appt related fixes.
 1. Matrix document image thumbnails.
@@ -22,6 +21,7 @@ layout: default
 1. Terry HFCA printout.
 1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
+1. Robert icons and font-awesome (awaiting community input).
 1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
 1. Sherwin prior auth form (issue has been brought up by Rod).
