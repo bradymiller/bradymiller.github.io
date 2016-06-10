@@ -4,10 +4,10 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Visolve MU2 CQM code review.
+* Visolve MU2 CQM code review(integration work by me is ongoing).
 
 ### OpenEMR Code Reviews
-1. Visolve MU2 CQM.
+1. Visolve MU2 CQM(integration work by me is ongoing).
 1. Terry duplicate appt bug fix.
 1. Sequex payments recurring appt related fixes.
 1. Matrix document image thumbnails.
