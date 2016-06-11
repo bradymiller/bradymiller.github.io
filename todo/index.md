@@ -4,12 +4,13 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Visolve MU2 CQM code review(integration work by me is ongoing).
+* Visolve MU2 CQM code review (awaiting community input).
 * ZH Healthcare MU2 Immunizations code review.
 
 ### OpenEMR Code Reviews
-1. Visolve MU2 CQM(integration work by me is ongoing).
+1. Visolve MU2 CQM (awaiting community input).
 1. ZH Healthcare MU2 Immunizations.
+1. Robert icons and font-awesome (awaiting community input).
 1. Sequex group appts in patient summary.
 1. Terry duplicate appt bug fix.
 1. Matrix document image thumbnails.
@@ -23,7 +24,6 @@ layout: default
 1. Terry HFCA printout.
 1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
-1. Robert icons and font-awesome (awaiting community input).
 1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
 1. Sherwin prior auth form (issue has been brought up by Rod).
