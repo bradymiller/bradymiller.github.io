@@ -8,8 +8,8 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Visolve MU2 CQM(integration work by me is ongoing).
+1. Sequex group appts in patient summary.
 1. Terry duplicate appt bug fix.
-1. Sequex payments recurring appt related fixes.
 1. Matrix document image thumbnails.
 1. Matrix data entry validation
 1. Ray eye form.
