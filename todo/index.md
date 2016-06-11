@@ -5,9 +5,11 @@ layout: default
 
 ### Expedited
 * Visolve MU2 CQM code review(integration work by me is ongoing).
+* ZH Healthcare MU2 Immunizations code review.
 
 ### OpenEMR Code Reviews
 1. Visolve MU2 CQM(integration work by me is ongoing).
+1. ZH Healthcare MU2 Immunizations.
 1. Sequex group appts in patient summary.
 1. Terry duplicate appt bug fix.
 1. Matrix document image thumbnails.
