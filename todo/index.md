@@ -4,12 +4,12 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Visolve MU2 CQM code review (awaiting community input).
 * ZH Healthcare MU2 Immunizations code review.
+* Visolve MU2 CQM code review (awaiting community input).
 
 ### OpenEMR Code Reviews
-1. Visolve MU2 CQM (awaiting community input).
 1. ZH Healthcare MU2 Immunizations.
+1. Visolve MU2 CQM (awaiting community input).
 1. Robert icons and font-awesome (awaiting community input).
 1. Sequex group appts in patient summary.
 1. Terry duplicate appt bug fix.
