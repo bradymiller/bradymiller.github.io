@@ -14,7 +14,7 @@ layout: default
 1. Terry duplicate appt bug fix.
 1. Matrix document image thumbnails.
 1. Matrix data entry validation.
-1. *Ray eye form.*{: style="color: red"}
+1. <span style="color: red">Ray eye form.</span>
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. Terry mod of floating alerts.
 1. Terry exclude insurance.
