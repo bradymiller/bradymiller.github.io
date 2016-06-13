@@ -4,12 +4,12 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* ZH Healthcare MU2 Immunizations code review (awaiting community input).
 * Visolve MU2 CQM code review (awaiting community input).
+* ZH Healthcare MU2 Immunizations code review (awaiting community input).
 
 ### OpenEMR Code Reviews
-1. ZH Healthcare MU2 Immunizations (awaiting community input).
 1. Visolve MU2 CQM (awaiting community input).
+1. ZH Healthcare MU2 Immunizations (awaiting community input).
 1. Robert icons and font-awesome (awaiting community input).
 1. Terry duplicate appt bug fix.
 1. Matrix document image thumbnails.
@@ -34,7 +34,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. Roadmap for both OEMR organization and OpenEMR project via Roadmap committee
+1. Roadmap for both OEMR organization and OpenEMR project via Roadmap committee (awaiting community input).
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
