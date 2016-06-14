@@ -5,12 +5,10 @@ layout: default
 
 ### Expedited
 * Visolve MU2 CDR code review.
-* Visolve MU2 CQM code review (awaiting community input).
 * ZH Healthcare MU2 Immunizations code review (awaiting community input).
 
 ### OpenEMR Code Reviews
 1. Visolve MU2 CDR.
-1. Visolve MU2 CQM (awaiting community input).
 1. ZH Healthcare MU2 Immunizations (awaiting community input).
 1. Robert icons and font-awesome (awaiting community input).
 1. Terry duplicate appt bug fix(and other fix in tracking report).
