@@ -15,6 +15,7 @@ layout: default
 1. Matrix document image thumbnails.
 1. Matrix data entry validation.
 1. <span style="color: red">Ray eye form.</span>
+1. Matrix php7 email obfuscator fix.
 1. Visolve support more than 3 entries in the Lists gui.
 1. MD Support onsite patient portal signon update.
 1. Matrix custom assets management; loading of custom js/css into every script.
