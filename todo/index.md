@@ -4,11 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Visolve MU2 CDR code review.
 * ZH Healthcare MU2 Immunizations code review (awaiting community input).
 
 ### OpenEMR Code Reviews
-1. Visolve MU2 CDR.
 1. ZH Healthcare MU2 Immunizations (awaiting community input).
 1. Visolve select number of blank items in lists gui.
 1. Terry duplicate appt bug fix(and other fix in tracking report).
