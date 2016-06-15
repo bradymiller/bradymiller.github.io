@@ -10,6 +10,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Visolve MU2 CDR.
 1. ZH Healthcare MU2 Immunizations (awaiting community input).
+1. Visolve select number of blank items in lists gui.
 1. Terry duplicate appt bug fix(and other fix in tracking report).
 1. Matrix document image thumbnails.
 1. Matrix data entry validation.
