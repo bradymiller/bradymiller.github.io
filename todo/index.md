@@ -27,6 +27,7 @@ layout: default
 1. Sherwin labs form (issues have been brought up by Terry and Arnab).
 
 ### OpenEMR Project Admin
+1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Migrate website to server that can support SSL.
 1. Upgrade wiki (mediawiki) to most recent version.
