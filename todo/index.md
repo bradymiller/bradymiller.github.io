@@ -9,6 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. ZH Healthcare MU2 Immunizations (awaiting community input).
 1. Terry duplicate appt bug fix(and other fix in tracking report).
+1. Robert style improvements.
 1. Matrix document image thumbnails.
 1. <span style="color: red">Ray eye form.</span>
 1. MD Support onsite patient portal signon update.
