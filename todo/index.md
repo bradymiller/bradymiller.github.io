@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. ZH Healthcare MU2 Immunizations (awaiting community input).
-1. Terry duplicate appt bug fix.
 1. Matrix document image thumbnails.
 1. <span style="color: red">Ray eye form.</span>
 1. MD Support onsite patient portal signon update.
@@ -20,6 +19,7 @@ layout: default
 1. Terry HFCA printout.
 1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
+1. Terry duplicate appt bug fix (waiting for some details on this bug and plan to help integrate this fix).
 1. Matrix data entry validation (<span style="color: green">assigned to Rod</span>).
 1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
