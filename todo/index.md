@@ -8,7 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. ZH Healthcare MU2 Immunizations (awaiting community input).
-1. Matrix document image thumbnails.
+1. Matrix document image thumbnails (ongoing review by me).
 1. <span style="color: red">Ray eye form.</span>
 1. MD Support onsite patient portal signon update.
 1. Matrix custom assets management; loading of custom js/css into every script.
