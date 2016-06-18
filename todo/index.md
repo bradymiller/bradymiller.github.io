@@ -10,6 +10,7 @@ layout: default
 1. ZH Healthcare MU2 Immunizations (awaiting community input).
 1. Matrix document image thumbnails (ongoing review by me).
 1. <span style="color: red">Ray eye form.</span>
+1. Visolve import lists.
 1. MD Support onsite patient portal signon update.
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. Terry mod of floating alerts.
