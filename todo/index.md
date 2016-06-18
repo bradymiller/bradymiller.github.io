@@ -9,11 +9,11 @@ layout: default
 ### OpenEMR Code Reviews
 1. ZH Healthcare MU2 Immunizations (integration in process).
 1. Matrix document image thumbnails (ongoing review by me).
+1. Matrix custom assets management; loading of custom js/css into every script.
 1. <span style="color: red">Ray eye form.</span>
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. Visolve import lists.
 1. MD Support onsite patient portal signon update.
-1. Matrix custom assets management; loading of custom js/css into every script.
 1. Terry mod of floating alerts.
 1. Terry exclude insurance.
 1. Visolve multi-provider bug fix.
