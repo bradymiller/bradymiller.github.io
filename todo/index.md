@@ -4,10 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* ZH Healthcare MU2 Immunizations code review (integration in process).
+* empty
 
 ### OpenEMR Code Reviews
-1. ZH Healthcare MU2 Immunizations (integration in process).
 1. Matrix document image thumbnails (ongoing review by me).
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. <span style="color: red">Ray eye form.</span>
