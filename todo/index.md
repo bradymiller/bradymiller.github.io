@@ -11,7 +11,6 @@ layout: default
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. <span style="color: red">Ray eye form.</span>
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
-1. Sherwin auto save.
 1. Visolve import lists.
 1. MD Support onsite patient portal signon update.
 1. Terry mod of floating alerts.
@@ -24,6 +23,7 @@ layout: default
 1. Matrix data entry validation (<span style="color: green">assigned to Rod</span>).
 1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
+1. Sherwin auto save (issue brought up by MD Support).
 1. Sherwin prior auth form (issue has been brought up by Rod).
 1. Sherwin labs form (issues have been brought up by Terry and Arnab).
 
