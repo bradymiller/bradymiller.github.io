@@ -11,6 +11,7 @@ layout: default
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. <span style="color: red">Ray eye form.</span>
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
+1. Sherwin auto save.
 1. Visolve import lists.
 1. MD Support onsite patient portal signon update.
 1. Terry mod of floating alerts.
