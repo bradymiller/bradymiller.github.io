@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix document image thumbnails (ongoing review by me).
+1. Matrix calendar holiday support.
 1. Matrix custom assets management; loading of custom js/css into every script.
 1. <span style="color: red">Ray eye form.</span>
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
