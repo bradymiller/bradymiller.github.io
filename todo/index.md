@@ -24,9 +24,9 @@ layout: default
 1. Matrix data entry validation (<span style="color: green">assigned to Rod</span>).
 1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
-1. Sherwin auto save (issues brought up by Brady and MD Support).
-1. Sherwin prior auth form (issue has been brought up by Rod).
-1. Sherwin labs form (issues have been brought up by Terry and Arnab).
+1. Sherwin auto save (pending issues by Brady and MD Support).
+1. Sherwin prior auth form (pending issue by Rod).
+1. Sherwin labs form (pending issues by Terry and Arnab).
 
 ### OpenEMR Project Admin
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
