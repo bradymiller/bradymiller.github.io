@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.</span>
+1. Matrix document thnumbnails.
 1. Robert styling improvements.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. Visolve import lists.
