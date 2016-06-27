@@ -8,7 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.</span>
-1. Matrix document thnumbnails.
+1. Matrix document thumbnails.
 1. Robert styling improvements.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. Visolve import lists.
@@ -35,6 +35,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
+1. Motion to approve up to $1000 for graphical designer to help with new OpenEMR website and new OpenEMR logo.
 1. Roadmap for both OEMR organization and OpenEMR project via Roadmap committee (awaiting community input).
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
