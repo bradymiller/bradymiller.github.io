@@ -36,6 +36,7 @@ layout: default
 
 ### OEMR Organization
 1. Motion to approve up to $1000 for graphical designer to help with new OpenEMR website and new OpenEMR logo.
+1. Get details on WENO proposal.
 1. Roadmap for both OEMR organization and OpenEMR project via Roadmap committee (awaiting community input).
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
