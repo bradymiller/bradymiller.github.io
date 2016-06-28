@@ -4,9 +4,10 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+* Visolve MU2 CQM code review.
 
 ### OpenEMR Code Reviews
+1. Visolve MU2 CQM.
 1. <span style="color: red">Ray eye form.</span>
 1. Matrix document thumbnails.
 1. Robert styling improvements.
