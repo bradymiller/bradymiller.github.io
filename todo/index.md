@@ -49,6 +49,7 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
+1. Expedite work on item G3.
 1. Pass remaining items.
 1. Current budget is about 7 hours testing * $175 ($1225) plus Visolve develop/testing fee of $3900. About $5125 total.
 
