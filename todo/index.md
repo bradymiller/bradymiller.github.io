@@ -38,7 +38,7 @@ layout: default
 1. Motion to approve $1000 for graphical designer to help with new OpenEMR website and new OpenEMR logo.
 1. Bring in all board members as members to allow bringing in new board members.
 1. Weno help and discuss proposals to get money into the organization(induct as board member at the following meeting).
-1. New agenda item to reach out to our registered agent in NC and to update our address with the USPS.
+1. New agenda item to update our address with the USPS.
 1. Roadmap for both OEMR organization and OpenEMR project via Roadmap committee (awaiting community input).
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
