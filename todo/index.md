@@ -9,6 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix document thumbnails.
 1. Robert styling improvements.
+1. Visolve deceased date bug fix.
 1. <span style="color: red">Ray eye form.</span>
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. Visolve import lists.
