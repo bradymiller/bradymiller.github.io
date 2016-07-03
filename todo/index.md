@@ -22,7 +22,6 @@ layout: default
 1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
 1. Matrix data entry validation (<span style="color: green">assigned to Rod</span>).
-1. Visolve layout buttons (waiting for theme fixes by Robert).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
 1. Sherwin auto save (pending issues by Brady and MD Support).
 1. Sherwin prior auth form (pending issue by Rod).
