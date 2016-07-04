@@ -7,6 +7,7 @@ layout: default
 * empty
 
 ### OpenEMR Code Reviews
+1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. <span style="color: red">Ray eye form.</span>
