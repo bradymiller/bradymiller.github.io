@@ -7,7 +7,6 @@ layout: default
 * empty
 
 ### OpenEMR Code Reviews
-1. Rod drawing.
 1. Visolve import lists.
 1. Scott login screen.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
