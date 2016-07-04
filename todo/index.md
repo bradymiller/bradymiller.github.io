@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Visolve import lists.
-1. Scott login screen.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. <span style="color: red">Ray eye form.</span>
 1. Kevin M. EDI module.
