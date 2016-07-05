@@ -7,10 +7,11 @@ layout: default
 * empty
 
 ### OpenEMR Code Reviews
+1. <span style="color: red">Ray eye form.</span>
+1. Ray tan style update.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
-1. <span style="color: red">Ray eye form.</span>
 1. Kevin M. EDI module.
 1. Matrix asset manager.
 1. MD Support onsite patient portal signon update.
