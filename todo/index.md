@@ -4,10 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* ZH Healthcare MU2 referral_fix code review.
+* empty
 
 ### OpenEMR Code Reviews
-1. ZH Healthcare MU2 referral_fix.
 1. <span style="color: red">Ray eye form.</span>
 1. Ray tan style update.
 1. Kevin M. EDI module.
