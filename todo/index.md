@@ -10,13 +10,13 @@ layout: default
 1. <span style="color: red">Ray eye form.</span>
 1. Matthew manual tests.
 1. Scott login gui clean up.
-1. Scott html_header_show() removal.
 1. Ray tan style update.
 1. Kevin M. EDI module.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. Matrix asset manager.
+1. Scott html_header_show() removal(this conflicts with above Matrix asset manager).
 1. MD Support onsite patient portal signon update.
 1. Terry mod of floating alerts.
 1. Terry exclude insurance.
