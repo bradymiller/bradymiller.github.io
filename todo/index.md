@@ -14,7 +14,6 @@ layout: default
 1. Visolve import lists.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
 1. Matrix asset manager.
-1. Scott html_header_show() removal(this conflicts with above Matrix asset manager).
 1. MD Support onsite patient portal signon update.
 1. Terry mod of floating alerts.
 1. Terry exclude insurance.
