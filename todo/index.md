@@ -7,7 +7,7 @@ layout: default
 * empty
 
 ### OpenEMR Code Reviews
-1. <span style="color: red">Ray eye form.</span>
+1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. Matrix LBF conditional multiselect fix.
 1. Ray tan style update.
 1. Kevin M. EDI module.
