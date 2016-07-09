@@ -5,6 +5,7 @@ layout: default
 
 ### Expedited
 * Visolve MU2 AMC code review
+* Announce and document Direct stuff in the pipeline
 
 ### OpenEMR Code Reviews
 1. Visolve MU2 AMC
