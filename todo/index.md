@@ -10,6 +10,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Visolve MU2 AMC
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
+1. Terry patient board improvements.
 1. Ray tan style update.
 1. Kevin M. EDI module.
 1. Visolve add rows lists and default on for the active box.
