@@ -11,6 +11,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. MU2 Visolve med/rx/cdr changes.
 1. MU2 Visolve summary of care changes.
+1. Roberto security fix.
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. Ray tan style update.
 1. Kevin M. EDI module.
