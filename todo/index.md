@@ -15,7 +15,6 @@ layout: default
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
-1. Matrix asset manager.
 1. MD Support onsite patient portal signon update.
 1. Terry mod of floating alerts.
 1. Terry exclude insurance.
@@ -24,7 +23,6 @@ layout: default
 1. Terry HFCA printout.
 1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
-1. Matrix data entry validation (<span style="color: green">assigned to Rod</span>).
 1. Terry patient portal app scheduling (check with Terry if ready for a review).
 1. Sherwin auto save (pending issues by Brady and MD Support).
 1. Sherwin prior auth form (pending issue by Rod).
