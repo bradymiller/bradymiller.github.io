@@ -9,7 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. Scott cleanup.
-1. Scott composer.
 1. Ray tan style update.
 1. Kevin M. EDI module.
 1. Visolve add rows lists and default on for the active box.
