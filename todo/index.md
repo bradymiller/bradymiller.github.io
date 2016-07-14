@@ -35,10 +35,10 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
+1. Discuss registration project on forums and placemark it on the active projects page.
 1. Motion to approve $1000 for graphical designer to help with new OpenEMR website and new OpenEMR logo.
-1. Bring in all board members as members to allow bringing in new board members.
+1. Bring in all board members as members(still a couple members left to do: T,L,S) to allow bringing in new board members.
 1. Weno help and discuss proposals to get money into the organization(induct as board member at the following meeting).
-1. New agenda item to update our address with the USPS.
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
