@@ -34,9 +34,9 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
+1. Weno proposal due diligence.
 1. Discuss registration project on forums and placemark it on the active projects page.
 1. Bring in all board members as members(still a couple members left to do: T,L,S) to allow bringing in new board members.
-1. Weno help and discuss proposals to get money into the organization.
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
