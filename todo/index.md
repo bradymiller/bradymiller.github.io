@@ -9,7 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. Scott path uppercase cleanup.
-1. Scott smarty composer import.
 1. Scott html2pdf composer import.
 1. Ray tan style update.
 1. Kevin M. EDI module.
