@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
-1. Matrix LBF conditions for multiple select bug fix.
 1. Scott adodb composer import.
 1. Scott html2pdf composer import.
 1. Scott path uppercase cleanup.
