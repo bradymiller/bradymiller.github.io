@@ -4,11 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Visolve MU2 AMC review.
+* Visolve MU2 AMC review times 2.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
-1. Visolve MU2 AMC review.
+1. Visolve MU2 AMC review times 2.
 1. Visolve calendar widget fix in add issue gui.
 1. Roberto security.
 1. Scott html2pdf composer import.
