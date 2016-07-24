@@ -43,8 +43,6 @@ layout: default
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
-1. migrate oemr website to the site on github pages.
-1. Migrate oemr.org domain name to OEMR organization.
 1. New OEMR logo(have budget of $100).
 1. Budget.
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
