@@ -41,6 +41,8 @@ layout: default
 
 ### OEMR Organization
 1. Complete revocation second request for information.
+1. Add next meeting discussion (propose ways to keep track of OpenEMR users and stay connected with them;
+this is to understand their functionality requirements, update them on security vulnerability etc.)
 1. Weno proposal due diligence.
 1. Discuss registration project on forums and placemark it on the active projects page.
 1. Bring in all board members as members(still a couple members left to do: T,L,S) to allow bringing in new board members.
