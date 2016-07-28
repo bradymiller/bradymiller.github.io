@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+* Revocation second request for information.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
