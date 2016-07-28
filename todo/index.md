@@ -10,6 +10,7 @@ layout: default
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. ZH MU2 auth fix.
 1. Roberto security fix.
+1. Matrix new feature validation.
 1. Ra. security fix.
 1. Matrix clinic holiday code.
 1. Scott html2pdf composer import.
