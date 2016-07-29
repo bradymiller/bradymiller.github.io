@@ -9,13 +9,13 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. ZH MU2 auth fix.
+1. 1. Kevin M. EDI module.(helping with integration)
 1. Matrix new feature validation.(pending next revision)
 1. Ra. security fix.
 1. Matrix clinic holiday code.(pending community response)
 1. Scott html2pdf composer import.
 1. Scott path uppercase cleanup.
 1. Ray tan style update.
-1. Kevin M. EDI module.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
