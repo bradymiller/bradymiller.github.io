@@ -27,7 +27,6 @@ layout: default
 1. Terry HFCA printout.
 1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
-1. Terry patient portal app scheduling (check with Terry if ready for a review).
 1. Sherwin auto save (pending issues by Brady and MD Support).
 1. Sherwin prior auth form (pending issue by Rod).
 1. Sherwin labs form (pending issues by Terry and Arnab).
