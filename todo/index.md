@@ -12,7 +12,6 @@ layout: default
 1. Kevin M. EDI module.(pending testing by Kevin M.; helping with integration)
 1. Matrix new feature validation.(pending next revision)
 1. Ra. security fix.
-1. Matrix clinic holiday code.(pending community response)
 1. Scott html2pdf composer import.
 1. Scott path uppercase cleanup.
 1. Ray tan style update.
