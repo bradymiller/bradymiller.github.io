@@ -10,7 +10,8 @@ layout: default
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. ZH MU2 auth fix.
 1. Kevin M. EDI module.(pending testing by Kevin M.; helping with integration)
-1. Matrix new feature validation.(pending next revision)
+1. Matrix new feature validation.
+1. Matrix Zend patient validation module.
 1. Ra. security fix.
 1. Scott html2pdf composer import.
 1. Scott path uppercase cleanup.
