@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
-1. ZH MU2 auth fix.(bring in the fix and request community to look at it)
 1. Kevin M. EDI module.(pending testing by Kevin M.; helping with integration)
 1. Matrix Zend patient validation module.
 1. Matrix new feature validation.(await next revision)
