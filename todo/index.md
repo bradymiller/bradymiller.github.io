@@ -10,8 +10,8 @@ layout: default
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. Srinivasa daily summary form.
 1. Kevin M. EDI module.(helping with integration)
-1. Matrix new feature validation.
-1. Matrix Zend patient validation module.
+1. Matrix new feature validation.(awaiting next revision)
+1. Matrix Zend patient validation module.(awaiting next revision)
 1. Ra. security fix.
 1. Scott html2pdf composer import.
 1. Scott path uppercase cleanup.
