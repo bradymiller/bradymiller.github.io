@@ -8,12 +8,12 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
+1. Scott html2pdf composer import.
+1. Matrix Zend patient validation module.(test out example)
 1. Srinivasa daily summary form.
 1. Kevin M. EDI module.(helping with integration)
 1. Matrix new feature validation.(awaiting next revision)
-1. Matrix Zend patient validation module.(awaiting next revision)
 1. Ra. security fix.
-1. Scott html2pdf composer import.
 1. Scott path uppercase cleanup.
 1. Ray tan style update.
 1. Visolve add rows lists and default on for the active box.
