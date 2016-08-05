@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
+1. Rod fee sheet.
 1. Scott html2pdf composer import.
 1. Matrix Zend patient validation module.(awaiting next revision)
 1. Srinivasa daily summary form.
