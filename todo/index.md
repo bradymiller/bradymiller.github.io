@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Complete revocation second request for information.
+* empty
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
@@ -40,7 +40,6 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. Complete revocation second request for information.
 1. Add next meeting discussion (propose ways to keep track of OpenEMR users and stay connected with them;
 this is to understand their functionality requirements, update them on security vulnerability etc.). Discuss registration project on forums and placemark it on the active projects page.
 1. Weno proposal due diligence.
