@@ -9,13 +9,13 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. Scott html2pdf composer import.
-1. Scott phpseclib composer import.
 1. Srinivasa daily summary form.
 1. Ian appt display sets.
+1. Rod fee sheet.
 1. Kevin M. EDI module.(helping with integration)
+1. Scott phpseclib composer import.(awaiting a tester to test it out)
 1. Matrix Zend patient validation module.(awaiting next revision)
 1. Matrix new feature validation.(awaiting next revision)
-1. Rod fee sheet.(awaiting next revision)
 1. Ra. security fix.
 1. Scott path uppercase cleanup.
 1. Ray tan style update.
