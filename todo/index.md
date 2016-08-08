@@ -10,7 +10,6 @@ layout: default
 1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
 1. Scott html2pdf composer import.
 1. Scott phpseclib composer import.
-1. Scott remove 2 items (adLDAP and json_decode wrapper)
 1. Srinivasa daily summary form.
 1. Ian appt display sets.
 1. Kevin M. EDI module.(helping with integration)
