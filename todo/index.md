@@ -9,8 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Visolve last MU2 code submission.
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Arnab/Wepp calendar appt search bug fix.
-1. Craig find available provider bug fix.
 1. Scott html2pdf composer import versus Scott mpdf transition and composer import.
 1. Srinivasa daily summary form.
 1. Kevin M. EDI module.(helping with integration)
