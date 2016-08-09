@@ -10,7 +10,7 @@ layout: default
 1. Visolve last MU2 code submission.
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matrix Zend patient validation module.(import the requested bower packages)
-1. Scott html2pdf composer import.
+1. Scott html2pdf composer import versus Scott mpdf transition and composer import.
 1. Srinivasa daily summary form.
 1. Kevin M. EDI module.(helping with integration)
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
