@@ -8,12 +8,12 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Visolve last MU2 code submission.
-1. <span style="color: red">Ray eye form.(first working on integrating the new packages)</span>
+1. <span style="color: red">Ray eye form.(now working on integration)</span>
+1. Matrix Zend patient validation module.(import the requested bower packages)
 1. Scott html2pdf composer import.
 1. Srinivasa daily summary form.
 1. Kevin M. EDI module.(helping with integration)
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
-1. Matrix Zend patient validation module.(awaiting next revision)
 1. Ian appt display sets.(awaiting next revision)
 1. Matrix new feature validation.(committed to codebase and awaiting final testing clearance by matrix)
 1. Ra. security fix.
