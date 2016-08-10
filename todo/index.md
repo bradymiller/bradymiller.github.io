@@ -9,8 +9,8 @@ layout: default
 ### OpenEMR Code Reviews
 1. Visolve last MU2 code submission.
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Srinivasa daily summary form.
 1. Kevin M. EDI module.(helping with integration)
+1. Srinivasa daily summary form.(Terry reviewing)
 1. Craig tab bug fix.(Rod reviewing)
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
 1. Scott html2pdf composer import versus Scott mpdf transition and composer import.(Scott is testing this)
