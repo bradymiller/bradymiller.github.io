@@ -4,10 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2 last code submission by Visolve.
+* empty
 
 ### OpenEMR Code Reviews
-1. Visolve last MU2 code submission.
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Kevin M. EDI module.(helping with integration)
 1. Srinivasa daily summary form.(Terry reviewing)
