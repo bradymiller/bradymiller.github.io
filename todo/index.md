@@ -15,7 +15,6 @@ layout: default
 1. Scott html2pdf composer import versus Scott mpdf transition and composer import.(Scott is testing this)
 1. Matrix Zend patient validation module.(awaiting next revision)
 1. Ian appt display sets.(awaiting next revision)
-1. Matrix new feature validation.(committed to codebase and awaiting final testing clearance by matrix)
 1. Ra. security fix.
 1. Scott path uppercase cleanup.
 1. Ray tan style update.
