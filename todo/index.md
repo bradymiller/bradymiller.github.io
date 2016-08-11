@@ -52,9 +52,9 @@ this is to understand their functionality requirements, update them on security 
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
-1. Expedite work on item G3(need volunteers; have 1 so far (R) ).
-1. Pass remaining items.
-1. Current budget is about 7 hours testing * $175 ($1225) plus Visolve develop/testing fee of $3900. About $5125 total.
+1. Complete last item G3(need volunteers; have 1 so far (R) ).
+1. Confirm no loose ends with Infogard.
+1. Current budget is Visolve develop/testing fee of $3900.
 
 ### MU3
 1. Complete wiki planning page.
