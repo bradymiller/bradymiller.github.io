@@ -8,8 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Craig tab bug fix.
-1. Craig provider array.
 1. Ian appt display sets.
 1. Kevin M. EDI module.(helping with integration)
 1. Srinivasa daily summary form.(Terry and community reviewing)
