@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Ian appt display sets.
 1. Craig new code editor.
 1. Kevin M. EDI module.(helping with integration)
 1. Scott portal sql library fix.(awaiting reply on revised fix)
