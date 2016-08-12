@@ -15,6 +15,7 @@ layout: default
 1. Srinivasa daily summary form.(Terry and community reviewing)
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
 1. Scott html2pdf composer import versus Scott mpdf transition and composer import.(Scott is testing this)
+1. Matrix Minor fixes in client side validation.(reverted this commit and awaiting fix before re-review)
 1. Matrix Zend patient validation module.(awaiting next revision)
 1. Ra. security fix.
 1. Scott path uppercase cleanup.
