@@ -8,7 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Craig new code editor.
+1. Appchecker stuff.
 1. Kevin M. EDI module.(helping with integration)
 1. Scott portal sql library fix.(awaiting reply on revised fix)
 1. Srinivasa daily summary form.(Terry and community reviewing)
