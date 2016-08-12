@@ -9,7 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Ian appt display sets.
-1. Craig new code viewer.
+1. Craig new code editor.
 1. Kevin M. EDI module.(helping with integration)
 1. Srinivasa daily summary form.(Terry and community reviewing)
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
@@ -41,9 +41,8 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. Add next meeting discussion (propose ways to keep track of OpenEMR users and stay connected with them;
-this is to understand their functionality requirements, update them on security vulnerability etc.). Discuss registration project on forums and placemark it on the active projects page.
-1. Weno proposal due diligence.
+1. Discuss registration project on forums and placemark it on the active projects page.
+1. Weno proposal due diligence and plan.
 1. Bring in all board members as members(still a couple members left to do: L,S) to allow bringing in new board members.
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
