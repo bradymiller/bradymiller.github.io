@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+* Clarify MU2 testing history with Infogard.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
@@ -54,8 +54,8 @@ layout: default
 
 ### MU2
 1. Complete last item G3(need volunteers; have 1 so far (R) ).
-1. Confirm no loose ends with Infogard.
-1. Current budget is Visolve develop/testing fee of $3900.
+1. Clarify MU2 testing history with Infogard.
+1. Current budget is Visolve develop/testing G3 item fee that is not yet negotiated.
 
 ### MU3
 1. Complete wiki planning page.
