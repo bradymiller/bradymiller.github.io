@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Matrix Minor fixes in client side validation.
 1. Craig try at js/css assets.
 1. Matthew manual testing.
 1. Appchecker stuff.
