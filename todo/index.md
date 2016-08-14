@@ -44,7 +44,7 @@ layout: default
 
 ### OEMR Organization
 1. Discuss registration project on forums and placemark it on the active projects page.
-1. Weno proposal due diligence and plan.
+1. Discess Weno project on forums and placemark it on the active projects page.
 1. Bring in all board members as members(still a couple members left to do: L,S) to allow bringing in new board members.
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
