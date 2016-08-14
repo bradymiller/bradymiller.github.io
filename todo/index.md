@@ -10,6 +10,7 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matthew manual testing.
 1. Matrix Zend patient validation module.
+1. Matrix validation to encounter form.
 1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Scott portal sql library fix.(awaiting reply on revised fix)
