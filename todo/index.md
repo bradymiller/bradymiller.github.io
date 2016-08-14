@@ -9,6 +9,8 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matthew manual testing.
+1. Ray tan style simply change name since it now uses icons(I will do this and also add to upgrade to change in case this is the current selection).
+1. Matrix Zend patient validation module.
 1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Scott portal sql library fix.(awaiting reply on revised fix)
@@ -16,10 +18,8 @@ layout: default
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
 1. Scott html2pdf composer import versus Scott mpdf transition and composer import.(Scott is testing this)
 1. Matrix Minor fixes in client side validation.(reverted this commit and awaiting fix before re-review)
-1. Matrix Zend patient validation module.(awaiting next revision)
 1. Ra. security fix.
 1. Scott path uppercase cleanup.
-1. Ray tan style update.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
 1. Terry duplicate appt bug fix (plan to help integrate this fix).
