@@ -9,7 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matthew manual testing.
-1. Ray tan style simply change name since it now uses icons(I will do this and also add to upgrade to change in case this is the current selection).
 1. Matrix Zend patient validation module.
 1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
