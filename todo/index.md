@@ -12,6 +12,7 @@ layout: default
 1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Scott portal sql library fix.(awaiting reply on revised fix)
+1. Craig Codes gui update.(Rod reviewing)
 1. Srinivasa daily summary form.(Terry and community reviewing)
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
 1. Scott html2pdf composer import versus Scott mpdf transition and composer import.(Scott is testing this)
