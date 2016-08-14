@@ -18,6 +18,7 @@ layout: default
 1. Matrix Minor fixes in client side validation.(reverted this commit and awaiting fix before re-review)
 1. Matrix validation to encounter form.(awaiting next revision)
 1. Matrix Zend patient validation module.(awaiting next revision)
+1. Matthew manual testing stuff.(awaiting reply from Matthew)
 1. Ra. security fix.
 1. Scott path uppercase cleanup.
 1. Visolve add rows lists and default on for the active box.
