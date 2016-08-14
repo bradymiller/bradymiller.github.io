@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
+1. Matrix Minor fixes in client side validation.
 1. Matthew manual testing.
 1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
@@ -16,7 +17,6 @@ layout: default
 1. Srinivasa daily summary form.(Terry and community reviewing)
 1. Scott phpseclib composer import.(awaiting a tester to test it out)
 1. Scott html2pdf composer import versus Scott mpdf transition and composer import.(Scott is testing this)
-1. Matrix Minor fixes in client side validation.(reverted this commit and awaiting fix before re-review)
 1. Matrix validation to encounter form.(awaiting next revision)
 1. Matrix Zend patient validation module.(awaiting next revision)
 1. Matthew manual testing stuff.(awaiting reply from Matthew)
