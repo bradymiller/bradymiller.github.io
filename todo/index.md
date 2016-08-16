@@ -53,8 +53,8 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
-1. Complete last item G3(need volunteers; have 2 so far (R,J) ).
-1. Clarify MU2 testing history with Infogard.
+1. Complete last item G3 (have 3 volunteers (R,J,J); now just waiting to get test ready).
+1. Clarify MU2 testing history with Infogard (may be a couple gaps to fill).
 1. Current budget is Visolve develop/testing G3 item fee that is not yet negotiated.
 
 ### MU3
