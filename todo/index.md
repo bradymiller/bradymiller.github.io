@@ -12,7 +12,7 @@ layout: default
 1. Scott ezpdf composer package (await Arnab testing).
 1. Scott phpmailer composer package (Scott tested rx and letter; will test others).
 1. Appchecker stuff.
-1. Matrix validation to encounter form.(completed integration work; awaiting Matrix feedback and then will get community feedback)
+1. Matrix validation to encounter form.(completed integration work; awaiting community feedback)
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Srinivasa daily summary form.(Terry and community reviewing)
