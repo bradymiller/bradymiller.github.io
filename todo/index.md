@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Scott phpmailer composer package (Scott tested rx and letter; will test others).
 1. Appchecker stuff.
 1. Matrix validation to encounter form.(completed integration work; awaiting community feedback)
 1. Matrix Zend patient validation module.(awaiting next revision)
