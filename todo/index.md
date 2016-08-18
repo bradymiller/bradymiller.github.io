@@ -54,7 +54,7 @@ layout: default
 ### MU2
 1. Complete last item G3 (have 3 volunteers (R,J,J); now just waiting to get test ready).
 1. Clarify MU2 testing history with Infogard (may be a couple gaps to fill).
-1. Current budget is Visolve develop/testing G3 item fee that is not yet negotiated.
+1. Current budget is Visolve develop/testing G3 item fee which is $1500.
 
 ### MU3
 1. Complete wiki planning page.
