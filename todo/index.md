@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Scott phpseclib composer import.(will be Scott's first commit into codebase)
 1. Matrix Zend patient validation module.
 1. Matrix validation to encounter form.(completed integration work; awaiting community feedback)
 1. Scott freeb removal.
