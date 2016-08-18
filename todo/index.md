@@ -4,6 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
+* G3 items to work on:
+** Figure out timezones of volunteers and 8/25-8/28, find out ideal times from volunteers during this.
+** Set up a demo that can be used for testing (take away a up for grabs demo).
 * Clarify MU2 testing history with Infogard.
 
 ### OpenEMR Code Reviews
