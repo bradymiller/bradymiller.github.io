@@ -8,13 +8,13 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Appchecker stuff.
+1. Scott phpseclib composer import.(will be Scott's first commit into codebase)
+1. Matrix Zend patient validation module.
 1. Matrix validation to encounter form.(completed integration work; awaiting community feedback)
-1. Matrix Zend patient validation module.(awaiting next revision)
+1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Srinivasa daily summary form.(Terry and community reviewing)
-1. Scott phpseclib composer import.(awaiting a tester to test it out; may need to just place it and see what happens in the future)
 1. Scott html2pdf (or not html2pdf) composer import versus Scott mpdf transition and composer import.(Scott is testing this)
 1. Matthew manual testing stuff.(awaiting more work from Matthew)
 1. Ra. security fix.
