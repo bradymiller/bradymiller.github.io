@@ -11,6 +11,7 @@ layout: default
 1. Scott phpseclib composer import.(will be Scott's first commit into codebase)
 1. Matrix Zend patient validation module.
 1. Matrix validation to encounter form.(completed integration work; awaiting community feedback)
+1. Scott freeb removal.
 1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
