@@ -4,19 +4,19 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* G3 items to work on: Send out email to volunteers for consent and paperwork, demographic details, their timezones and available times during 8/25-8/28.
+* G3 items to work on: In process of collecting paperwork and setting up testing times.
 * Increment OpenEMR version to 5.0.0 if community is ok with it.
 * Clarify MU2 testing history with Infogard.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matrix Zend patient validation module.(awaiting community input)
+1. Appchecker stuff.
 1. Scott freeb removal.(awaiting bug fixes)
 1. Scott legacy js removal.(awaiting testing by community of offsite portal)
-1. Appchecker stuff.
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
-1. Srinivasa daily summary form.(Terry and community reviewing)
+1. Srinivasa daily summary form.(community reviewing)
 1. Scott html2pdf (or not html2pdf) composer import versus Scott mpdf transition and composer import.(Scott is testing this)
 1. Matthew manual testing stuff.(awaiting more work from Matthew)
 1. Ra. security fix.
