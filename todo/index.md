@@ -5,6 +5,7 @@ layout: default
 
 ### Expedited
 * G3 items to work on: Figure out timezones of volunteers and 8/25-8/28, find out ideal times from volunteers during this.
+* Increment OpenEMR version to 5.0.0 if community is ok with it.
 * Clarify MU2 testing history with Infogard.
 
 ### OpenEMR Code Reviews
