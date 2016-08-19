@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* G3 items to work on: Figure out timezones of volunteers and 8/25-8/28, find out ideal times from volunteers during this.
+* G3 items to work on: Send out email to volunteers for consent and paperwork, demographic details, their timezones and available times during 8/25-8/28.
 * Increment OpenEMR version to 5.0.0 if community is ok with it.
 * Clarify MU2 testing history with Infogard.
 
