@@ -11,8 +11,8 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matrix Zend patient validation module.
-1. Scott freeb removal.
 1. Appchecker stuff.
+1. Scott freeb removal.(ready for codebase)
 1. Scott legacy js removal.(ready for codebase)
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
