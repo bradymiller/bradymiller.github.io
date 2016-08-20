@@ -5,15 +5,15 @@ layout: default
 
 ### Expedited
 * G3 items to work on: In process of collecting paperwork and setting up testing times.
-* Increment OpenEMR version to 5.0.0 if community is ok with it.
-* Clarify MU2 testing history with Infogard.
+* Increment OpenEMR version to 5.0.0 .
+* Clarify MU2 testing history with Infogard when M returns on 8/25.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Matrix Zend patient validation module.(awaiting community input)
+1. Matrix Zend patient validation module.
+1. Scott freeb removal.
 1. Appchecker stuff.
-1. Scott freeb removal.(awaiting bug fixes)
-1. Scott legacy js removal.(awaiting testing by community of offsite portal)
+1. Scott legacy js removal.(ready for codebase)
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Srinivasa daily summary form.(community reviewing)
