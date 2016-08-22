@@ -12,6 +12,7 @@ layout: default
 1. Matrix Zend patient validation module.(bring into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Matthew website.
 1. Craig legacy scripts removal.
+1. Craig js and css organization.
 1. Stephen ICD10 2016 set.
 1. Craig html2pdf removal.
 1. Appchecker stuff.
