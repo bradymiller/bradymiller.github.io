@@ -19,7 +19,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Srinivasa daily summary form.(community reviewing)
-1. Scott html2pdf (or not html2pdf) composer import versus Scott mpdf transition and composer import.(Scott is testing this)
 1. Matthew manual testing stuff.(awaiting more work from Matthew)
 1. Ra. security fix.
 1. Scott path uppercase cleanup.
