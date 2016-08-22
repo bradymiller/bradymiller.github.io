@@ -5,7 +5,6 @@ layout: default
 
 ### Expedited
 * G3 items to work on: In process of collecting paperwork and setting up testing times.
-* Increment OpenEMR version to 5.0.0 .
 * Clarify MU2 testing history with Infogard when M returns on 8/25.
 
 ### OpenEMR Code Reviews
