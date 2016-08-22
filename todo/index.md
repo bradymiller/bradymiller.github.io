@@ -9,7 +9,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Matrix Zend patient validation module.(bring into codebase)
+1. Matrix Zend patient validation module.(bring into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Matthew website.
 1. Craig legacy scripts removal.
 1. Stephen ICD10 2016 set.
