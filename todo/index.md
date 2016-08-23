@@ -10,12 +10,12 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matthew website.
+1. Stephen ICD10 2016 set.
 1. Scott html2pdf removal.
 1. Appchecker stuff.
 1. Scott legacy scripts removal.(my review complete; awaiting Rod's input)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
-1. Stephen ICD10 2016 set.(reviewed; awaiting response from Stephen)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Srinivasa daily summary form.(community reviewing)
