@@ -18,7 +18,7 @@ layout: default
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Sherwin encounter POS.(Rod reviewed; awaiting response from Sherwin)
-1. Srinivasa daily summary form.(community reviewing)
+1. Srinivasa daily summary form.(community reviewing; awaiting response from Srinivasa)
 1. Matthew manual testing stuff.(awaiting more work from Matthew)
 1. Ra. security fix.
 1. Scott path uppercase cleanup.
