@@ -18,6 +18,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
+1. Sherwin encounter POS.(Rod reviewed; awaiting response from Sherwin)
 1. Srinivasa daily summary form.(community reviewing)
 1. Matthew manual testing stuff.(awaiting more work from Matthew)
 1. Ra. security fix.
