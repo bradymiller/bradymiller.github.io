@@ -13,7 +13,6 @@ layout: default
 1. Stephen ICD10 2016 set.
 1. Scott html2pdf removal.
 1. Appchecker stuff.
-1. Scott legacy scripts removal.(my review complete; awaiting Rod's input)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
