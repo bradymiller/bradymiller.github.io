@@ -11,9 +11,9 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Stephen ICD10 2016 set.
 1. Scott html2pdf removal.
-1. Visolve 1500 pdf settings.
 1. MD Support sql upgrade fix for views. 
 1. Appchecker stuff.
+1. Visolve 1500 pdf settings.(reviewed; good feature and will integrate it, if needed)
 1. Scott assets cleanup in build.xml(ready to go into codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
