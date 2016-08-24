@@ -17,7 +17,6 @@ layout: default
 1. Scott assets cleanup in build.xml(ready to go into codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
-1. Matthew website.(awaiting response from Matthew)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Sherwin encounter POS.(Rod reviewed; awaiting response from Sherwin)
