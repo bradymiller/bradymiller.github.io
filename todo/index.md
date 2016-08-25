@@ -9,6 +9,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
+1. Terry statement updates.
 1. Scott html2pdf removal.
 1. MD Support sql upgrade fix for views. 
 1. Matrix user setting bug fix.(there is a systemic bug here that needs to be fixed rather than creating a work around)
