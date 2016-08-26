@@ -9,9 +9,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. MD Support sql upgrade fix for views. 
-1. MD Support style report fix.
-1. MD Support fax/scan menu add.
 1. Terry statement updates.
 1. Appchecker stuff.
 1. Ra. security fix.
