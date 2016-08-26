@@ -9,7 +9,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Matrix user setting bug fix.(there is a systemic bug here and we are working on a fix)
 1. MD Support sql upgrade fix for views. 
 1. MD Support style report fix.
 1. MD Support fax/scan menu add.
