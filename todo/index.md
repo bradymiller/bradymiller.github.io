@@ -11,6 +11,8 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Matrix user setting bug fix.(there is a systemic bug here and we are working on a fix)
 1. MD Support sql upgrade fix for views. 
+1. MD Support style report fix.
+1. MD Support fax/scan menu add.
 1. Terry statement updates.
 1. Appchecker stuff.
 1. Ra. security fix.
@@ -48,7 +50,7 @@ layout: default
 
 ### OEMR Organization
 1. Discuss registration project on forums and placemark it on the active projects page.
-1. Discess Weno project on forums and placemark it on the active projects page.
+1. Discuss Weno project on forums and placemark it on the active projects page.
 1. Bring in all board members as members(still a couple members left to do: L,S) to allow bringing in new board members.
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
