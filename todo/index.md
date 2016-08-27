@@ -10,7 +10,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
-1. Appchecker stuff.
 1. Sherwin labs form.
 1. Sherwin encounter POS.
 1. Srinivasa daily summary form. 
