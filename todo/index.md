@@ -12,7 +12,6 @@ layout: default
 1. Portal code check (due diligence).
 1. Sherwin labs form.
 1. Sherwin encounter POS.
-1. Srinivasa daily summary form. 
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
@@ -20,6 +19,7 @@ layout: default
 1. Scott assets cleanup in build.xml(ready to go into codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
+1. Srinivasa daily summary form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(reviewed; awaiting fixes)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
