@@ -10,6 +10,9 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Appchecker stuff.
+1. Sherwin labs form.
+1. Sherwin encounter POS.
+1. Srinivasa daily summary form. 
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
@@ -17,11 +20,9 @@ layout: default
 1. Scott assets cleanup in build.xml(ready to go into codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
-1. Sherwin encounter POS.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(reviewed; awaiting fixes)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
-1. Srinivasa daily summary form.(community reviewing; awaiting response from Srinivasa)
 1. Scott path uppercase cleanup.
 1. Terry duplicate appt bug fix (plan to help integrate this fix if have time).
 1. MD Support onsite patient portal signon update.
@@ -34,7 +35,6 @@ layout: default
 1. Art x10 4010 smackdown.
 1. Sherwin auto save (pending issues by Brady and MD Support).
 1. Sherwin prior auth form (pending issue by Rod).
-1. Sherwin labs form (pending issues by Terry and Arnab).
 
 ### OpenEMR Project Admin
 1. Convert github openemr account to an organization
