@@ -7,12 +7,12 @@ layout: default
 * 3rd request for information response for revocation
 * MU2 - G3 items to work on: in process of writing report.
 * MU2 - test A1.
-* Get the new website working.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. MD Support PrevSetting.
+1. Sherwin WENO Rx.
 1. Sherwin labs form.
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
