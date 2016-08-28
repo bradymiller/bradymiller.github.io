@@ -4,8 +4,10 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* G3 items to work on: In process of collecting paperwork and setting up testing times.
-* Clarify MU2 testing history with Infogard when M returns on 8/25.
+* MU2 - G3 items to work on: in process of writing report.
+* MU2 - test A1.
+* Infogard undergoing audit to ensure all other items are passed.
+* Get the new website working.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
@@ -35,6 +37,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
+1. Get the new website working.
 1. Convert github openemr account to an organization
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
@@ -53,9 +56,10 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
-1. Complete last item G3 (have 3 volunteers (R,J,J); now just waiting to get test ready).
-1. Clarify MU2 testing history with Infogard (may be a couple gaps to fill).
-1. Current budget is Visolve develop/testing G3 item fee which is $1500.
+1. G3 items to work on: in process of writing report.
+1. Test A1.
+1. Infogard undergoing audit to ensure all other items are passed.
+1. Current budget is Visolve develop/testing G3 item fee which is $1500 plus fee to test A1.
 
 ### MU3
 1. Complete wiki planning page.
