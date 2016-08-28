@@ -4,9 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
+* 3rd request for information response for revocation
 * MU2 - G3 items to work on: in process of writing report.
 * MU2 - test A1.
-* Infogard undergoing audit to ensure all other items are passed.
 * Get the new website working.
 
 ### OpenEMR Code Reviews
@@ -45,6 +45,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
+1. 3rd request for information response for revocation
 1. Discuss registration project on forums and placemark it on the active projects page.
 1. Discuss Weno project on forums and placemark it on the active projects page.
 1. Bring in all board members as members(still a couple members left to do: L,S) to allow bringing in new board members.
@@ -58,7 +59,6 @@ layout: default
 ### MU2
 1. G3 items to work on: in process of writing report.
 1. Test A1.
-1. Infogard undergoing audit to ensure all other items are passed.
 1. Current budget is Visolve develop/testing G3 item fee which is $1500 plus fee to test A1.
 
 ### MU3
