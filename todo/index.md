@@ -11,6 +11,10 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
+1. Matrix div wrapper add.
+1. Matrix calendar css bug fix.
+1. Ray tab layout improvements.
+1. Matrix recurrent week day appt pre-review.(quick review and await Ian's thoughts)
 1. MD Support PrevSetting.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
