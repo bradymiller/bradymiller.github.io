@@ -13,8 +13,6 @@ layout: default
 1. Portal code check (due diligence).
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
 1. Matrix multiple logos on login screen.
-1. Ray tab layout improvements.
-1. Matrix recurrent week day appt pre-review.(quick review and await Ian's thoughts)
 1. MD Support PrevSetting.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
@@ -24,6 +22,8 @@ layout: default
 1. Visolve 1500 pdf settings.(reviewed; good feature and I will integrate it, if necessary)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
+1. Matrix recurrent week day appt pre-review.(await Ian's thoughts)
+1. Ray tab layout improvements.(reviewed; awaiting next revison)
 1. Srinivasa daily summary form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(reviewed; awaiting fixes)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
