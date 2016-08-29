@@ -12,6 +12,7 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
+1. Matrix multiple logos on login screen.
 1. Ray tab layout improvements.
 1. Matrix recurrent week day appt pre-review.(quick review and await Ian's thoughts)
 1. MD Support PrevSetting.
