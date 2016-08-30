@@ -6,7 +6,7 @@ layout: default
 ### Expedited
 * 3rd request for information response for revocation
 * MU2 - G3 items to work on: in process of writing report.
-* MU2 - test A1.
+* MU2 - test A1 on 9/1.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
@@ -62,7 +62,7 @@ layout: default
 
 ### MU2
 1. G3 items to work on: in process of writing report.
-1. Test A1.
+1. Test A1 on 9/1.
 1. Current budget is Visolve develop/testing G3 item fee which is $1500 plus fee to test A1.
 
 ### MU3
