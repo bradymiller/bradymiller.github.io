@@ -12,6 +12,8 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
+1. Scott html2pdf removal.(test it)
+1. Srinivasa daily summary form.(fix the PR)
 1. Matrix multiple logos on login screen.
 1. MD Support PrevSetting.
 1. Matrix specified weekday recurrent appointment.
@@ -27,8 +29,7 @@ layout: default
 1. Matrix recurrent week day appt pre-review.(await Ian's thoughts)
 1. Matrix 455/456 calendar bug fixes.(reviewed; awaiting next revison)
 1. Ray tab layout improvements.(reviewed; awaiting next revison)
-1. Srinivasa daily summary form.(reviewed; awaiting next revision)
-1. Scott html2pdf removal.(reviewed; awaiting fixes)
+1. Scott html2pdf removal.(reviewed; awaiting testing and fixes)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Scott path uppercase cleanup.
