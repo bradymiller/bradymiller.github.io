@@ -12,7 +12,7 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. Scott html2pdf removal.(test it)
-1. Srinivasa daily summary form.(fix the PR)
+1. Srinivasa daily summary form.
 1. Ray tab layout improvements.
 1. Matrix multiple logos on login screen.
 1. MD Support PrevSetting.
