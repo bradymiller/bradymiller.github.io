@@ -13,6 +13,7 @@ layout: default
 1. Portal code check (due diligence).
 1. Scott html2pdf removal.(test it)
 1. Srinivasa daily summary form.(fix the PR)
+1. Ray tab layout improvements.
 1. Matrix multiple logos on login screen.
 1. MD Support PrevSetting.
 1. Matrix specified weekday recurrent appointment.
@@ -28,7 +29,6 @@ layout: default
 1. Matrix doc from 3rd party scanner/webcam.(possible license issues; awaiting clarification)
 1. Matrix recurrent week day appt pre-review.(await Ian's thoughts)
 1. Matrix 455/456 calendar bug fixes.(reviewed; awaiting next revison)
-1. Ray tab layout improvements.(reviewed; awaiting next revison)
 1. Scott html2pdf removal.(reviewed; awaiting testing and fixes)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
