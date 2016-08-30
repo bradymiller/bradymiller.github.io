@@ -14,6 +14,7 @@ layout: default
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
 1. Matrix multiple logos on login screen.
 1. MD Support PrevSetting.
+1. Matrix specified weekday recurrent appointment.
 1. Matrix doc from 3rd party scanner/webcam.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
