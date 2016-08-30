@@ -25,6 +25,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Matrix doc from 3rd party scanner/webcam.(possible license issues; awaiting clarification)
 1. Matrix recurrent week day appt pre-review.(await Ian's thoughts)
+1. Matrix 455/456 calendar bug fixes.(reviewed; awaiting next revison)
 1. Ray tab layout improvements.(reviewed; awaiting next revison)
 1. Srinivasa daily summary form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(reviewed; awaiting fixes)
