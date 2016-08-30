@@ -29,7 +29,6 @@ layout: default
 1. Matrix doc from 3rd party scanner/webcam.(possible license issues; awaiting clarification)
 1. Matrix recurrent week day appt pre-review.(await Ian's thoughts)
 1. Matrix 455/456 calendar bug fixes.(reviewed; awaiting next revison)
-1. Scott html2pdf removal.(reviewed; awaiting testing and fixes)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Scott path uppercase cleanup.
