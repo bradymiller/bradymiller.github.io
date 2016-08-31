@@ -27,6 +27,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Matrix doc from 3rd party scanner/webcam.(possible license issues; awaiting clarification)
 1. Matrix multiple logos on login screen.(reviewed; awaiting next revision)
+1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support
 1. Matrix specified weekday recurrent appointment.(awaiting Ian's input)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
