@@ -14,7 +14,6 @@ layout: default
 1. Scott html2pdf removal.(test it)
 1. Srinivasa daily summary form.
 1. Ray tab layout improvements.
-1. Matrix multiple logos on login screen.
 1. MD Support PrevSetting.
 1. Sam globals stuff.
 1. Sherwin WENO Rx.
@@ -27,6 +26,7 @@ layout: default
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Matrix doc from 3rd party scanner/webcam.(possible license issues; awaiting clarification)
+1. Matrix multiple logos on login screen.(reviewed; awaiting next revision)
 1. Matrix specified weekday recurrent appointment.(awaiting Ian's input)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
