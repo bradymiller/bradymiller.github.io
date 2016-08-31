@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 * 3rd request for information response for revocation
-* MU2 - G3 items to work on: in process of writing report.
+* MU2 - G3 items to work on: report turned in; awaiting response.
 * MU2 - test A1 on 9/1.
 
 ### OpenEMR Code Reviews
@@ -16,7 +16,6 @@ layout: default
 1. Ray tab layout improvements.
 1. Matrix multiple logos on login screen.
 1. MD Support PrevSetting.
-1. Matrix specified weekday recurrent appointment.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
 1. Ra. security fix.
@@ -27,8 +26,7 @@ layout: default
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. Matrix doc from 3rd party scanner/webcam.(possible license issues; awaiting clarification)
-1. Matrix recurrent week day appt pre-review.(await Ian's thoughts)
-1. Matrix 455/456 calendar bug fixes.(reviewed; awaiting next revison)
+1. Matrix specified weekday recurrent appointment.(awaiting Ian's input)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Scott path uppercase cleanup.
@@ -44,6 +42,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
+1. Migrate main repo to github and startusing tickets on github.
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Migrate website to server that can support SSL.
@@ -62,7 +61,7 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
-1. G3 items to work on: in process of writing report.
+1. G3 items to work on: report turned in; awaiting response.
 1. Test A1 on 9/1.
 1. Current budget is Visolve develop/testing G3 item fee which is $1500 plus fee to test A1.
 
