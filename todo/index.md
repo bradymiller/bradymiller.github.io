@@ -16,6 +16,7 @@ layout: default
 1. Ray tab layout improvements.
 1. Matrix multiple logos on login screen.
 1. MD Support PrevSetting.
+1. Sam globals stuff.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
 1. Ra. security fix.
