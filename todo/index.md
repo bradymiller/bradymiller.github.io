@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* 3rd request for information response for revocation
 * MU2 - G3 items to work on: report turned in; awaiting response.
 * MU2 - test A1 on 9/1.
 
@@ -44,14 +43,12 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
-1. Migrate main repo to github and startusing tickets on github.
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Migrate website to server that can support SSL.
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. 3rd request for information response for revocation
 1. Discuss registration project on forums and placemark it on the active projects page.
 1. Discuss Weno project on forums and placemark it on the active projects page.
 1. Bring in all board members as members(still a couple members left to do: L,S) to allow bringing in new board members.
