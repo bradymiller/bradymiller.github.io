@@ -11,9 +11,11 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. Scott html2pdf removal.(test it)
+1. Terry annotate form.
 1. Me insurance adjustment codes.
 1. Scott combination rx support.
-1. Scott schnellen form.
+1. Scott snellen form.
+1. MS Support patient report.
 1. Srinivasa daily summary form.
 1. Ray tab layout improvements.
 1. Sam globals stuff.
