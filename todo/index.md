@@ -11,7 +11,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
-1. Scott html2pdf removal.(test it)
 1. Matrix Recurrence widget.
 1. Me insurance adjustment codes.
 1. MD Support PrevSetting.
@@ -31,6 +30,7 @@ layout: default
 1. Scott combination rx support.(reviewed; awaiting next revision)
 1. Scott snellen form.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
+1. Scott html2pdf removal.(images not working on testing; awaiting a response)
 1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support
 1. Matrix specified weekday recurrent appointment.(awaiting Ian's input)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
