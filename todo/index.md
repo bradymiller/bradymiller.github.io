@@ -42,7 +42,6 @@ layout: default
 1. Visolve multi-provider bug fix.
 1. MD Support PE form.
 1. Terry HFCA printout.
-1. Sherwin document drag and drop.
 1. Art x10 4010 smackdown.
 1. Sherwin auto save (pending issues by Brady and MD Support).
 1. Sherwin prior auth form (pending issue by Rod).
