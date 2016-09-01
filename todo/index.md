@@ -11,7 +11,6 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. Scott html2pdf removal.(test it)
-1. Terry annotate form.
 1. Me insurance adjustment codes.
 1. Scott combination rx support.
 1. Scott snellen form.
@@ -28,6 +27,7 @@ layout: default
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
+1. Terry annotate form.(reviewed; awaiting next revision)
 1. MD Support PrevSetting.(reviewed; awaiting next revision)
 1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support
 1. Matrix specified weekday recurrent appointment.(awaiting Ian's input)
