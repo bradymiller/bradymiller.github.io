@@ -12,7 +12,7 @@ layout: default
 1. Portal code check (due diligence).
 1. Scott html2pdf removal.(test it)
 1. Me insurance adjustment codes.
-1. MD Support PrevSetting.(reviewed; awaiting next revision)
+1. MD Support PrevSetting.
 1. MS Support patient report.
 1. Srinivasa daily summary form.
 1. Ray tab layout improvements.
