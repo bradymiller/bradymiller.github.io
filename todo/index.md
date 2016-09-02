@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 * MU2 - Fill out paperwork.
-* MU2 - G3 items to work on: report turned in; awaiting response.
+* MU2 - G3 items to work on: report revision is pending.
 * MU2 - test A1 on 9/1.
 
 ### OpenEMR Code Reviews
@@ -14,7 +14,7 @@ layout: default
 1. Matrix Recurrence widget.
 1. Me insurance adjustment codes.
 1. MD Support PrevSetting.
-1. MS Support patient report.
+1. MD Support patient report.
 1. Srinivasa daily summary form.
 1. Ray tab layout improvements.
 1. Sam globals stuff.
@@ -27,11 +27,10 @@ layout: default
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
-1. Scott combination rx support.(reviewed; awaiting next revision)
 1. Scott snellen form.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
-1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support
+1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support)
 1. Matrix specified weekday recurrent appointment.(awaiting Ian's input)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
@@ -47,6 +46,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
+1. Website google analytics on main page (already in wiki).
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Migrate website to server that can support SSL.
@@ -65,7 +65,7 @@ layout: default
 
 ### MU2
 1. Fill out paperwork.
-1. G3 items to work on: report turned in; awaiting response.
+1. G3 items to work on: report revision is pending.
 1. Test A1 on 9/1.
 1. Current budget is Visolve develop/testing G3 item fee which is $1500 plus fee to test A1.
 
