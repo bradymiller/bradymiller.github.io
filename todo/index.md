@@ -11,14 +11,10 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
-1. Matrix Recurrence widget.
-1. Matrix validation additional forms.
 1. Me insurance adjustment codes.
 1. MD Support PrevSetting.
-1. MD Support patient report.
 1. Srinivasa daily summary form.
 1. Ray tab layout improvements.
-1. Sam globals stuff.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
 1. Ra. security fix.
@@ -28,6 +24,10 @@ layout: default
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
+1. Sam globals stuff.(reviewed; awaiting response)
+1. MD Support patient report.(reviewed; awaiting next revision)
+1. Matrix Recurrence widget.(reviewed; awaiting next revision)
+1. Matrix validation additional forms.(reviewed; awaiting next revision)
 1. Scott snellen form.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
