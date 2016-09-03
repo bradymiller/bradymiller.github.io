@@ -23,3 +23,11 @@ layout: default
 ### Professional Board Certification
 * Hematology, American Board of Internal Medicine, 2012.
 * Medical Oncology, American Board of Internal Medicine, 2010.
+
+### Professional Publications
+* Stergachis AB, Neph S, Reynolds A, Humbert R, Miller B, Paige SL, Vernot B, Cheng JB, Thurman RE, Sandstrom R, Haugen E, Heimfeld S, Murry CE, Akey JM, Stamatoyannopoulos JA. “Developmental fate and cellular maturity encoded in human regulatory DNA landscapes.” Cell 2013; 154(4): 888-903.
+*	Miller BG,  Stamatoyannopoulos JA. “Integrative Meta-Analysis of Differential Gene Expression in Acute Myeloid Leukemia.” PLoS ONE 2010; 5(3): e9466.
+*	Kwak YT, Guo J, Prajapati S, Park KJ, Surabhi RM, Miller B, Gehrig P, Gaynor RB. “Methylation of SPT5 regulates its interaction with RNA polymerase II and transcriptional elongation properties.” Molecular Cell 2003; 11(4):1055-66.
+*	Pertsemlidis A, Pande A, Miller B, Schilling P, Wei MH, Lerman MI, Minna JD, Garner HR. “Panorama: An Integrated Web-Based Sequence Analysis Tool and Its Role in Gene Discovery.” Genomics 2000; 70: 300-306.
+*	Young ET, Sloan J, Miller B, Li N, Riper K, Dombek KM. “Evolution of a glucose-regulated ADH gene in the genus Saccharomyces.” Gene 2000; 245: 299-309.
+
