@@ -28,7 +28,6 @@ layout: default
 1. MD Support patient report.(reviewed; awaiting next revision)
 1. Matrix Recurrence widget.(reviewed; awaiting next revision)
 1. Matrix validation additional forms.(reviewed; awaiting next revision)
-1. Scott snellen form.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
 1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support)
