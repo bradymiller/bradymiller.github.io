@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 * MU2 - Fill out paperwork.
-* MU2 - G3 items to work on: report revision is pending.
+* MU2 - G3 items to work on: report revision has been turned in and awaiting reply.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
@@ -65,7 +65,7 @@ layout: default
 
 ### MU2
 1. Fill out paperwork.
-1. G3 items to work on: report revision is pending.
+1. G3 items to work on: report revision has been turned in and awaiting reply.
 1. Current budget is Visolve develop/testing G3 item fee which is $1500 plus fee to test A1.
 
 ### MU3
