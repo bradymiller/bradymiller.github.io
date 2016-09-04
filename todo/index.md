@@ -10,6 +10,8 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
+1. Matrix Recurrence widget.
+1. Matrix specified weekday recurrent appointment.
 1. Me insurance adjustment codes.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
@@ -23,12 +25,10 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. MD Support patient report.(reviewed; awaiting next revision)
-1. Matrix Recurrence widget.(reviewed; awaiting next revision)
 1. Matrix validation additional forms.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
 1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support)
-1. Matrix specified weekday recurrent appointment.(awaiting Ian's input)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Scott path uppercase cleanup.
