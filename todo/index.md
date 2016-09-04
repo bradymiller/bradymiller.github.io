@@ -11,7 +11,7 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. Me insurance adjustment codes.
-1. MD Support PrevSetting.
+1. MD Support PrevSetting.(there is a bug in the tracker board prevnext mechanism; other stuff works)
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
 1. Ra. security fix.
