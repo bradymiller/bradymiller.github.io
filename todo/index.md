@@ -16,7 +16,6 @@ layout: default
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
-1. Ray login screen improvements.(awaiting community review)
 1. Ray tab layout improvements.(currently under heavy construction by Ray)
 1. Visolve 1500 pdf settings.(reviewed; good feature and I will integrate it, if necessary)
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
