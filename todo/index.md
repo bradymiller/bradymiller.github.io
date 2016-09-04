@@ -10,7 +10,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
-1. Matrix Recurrence widget.
 1. Matrix specified weekday recurrent appointment.
 1. Me insurance adjustment codes.
 1. Sherwin WENO Rx.
