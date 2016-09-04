@@ -12,7 +12,6 @@ layout: default
 1. Portal code check (due diligence).
 1. Me insurance adjustment codes.
 1. MD Support PrevSetting.
-1. Srinivasa daily summary form.
 1. Sherwin WENO Rx.
 1. Sherwin labs form.
 1. Ra. security fix.
