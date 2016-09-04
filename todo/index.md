@@ -11,7 +11,6 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. Portal code check (due diligence).
 1. Me insurance adjustment codes.
-1. Sam globals stuff.
 1. MD Support PrevSetting.
 1. Srinivasa daily summary form.
 1. Sherwin WENO Rx.
