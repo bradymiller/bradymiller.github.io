@@ -11,6 +11,7 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. <span style="color: red">Portal code and CCDA check.</span>
 1. Ray tab layout improvements.
+1. Matrix sorting lists improvements.
 1. Matrix validation additional forms.
 1. Sherwin WENO Rx.
 1. Me insurance adjustment codes.
@@ -24,7 +25,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix specified weekday recurrent appointment.(awaiting Ian's review)
-1. Matrix sorting lists improvements.(reviewed; awaiting next revision)
 1. MD Support patient report.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
