@@ -9,7 +9,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
-1. Portal code check (due diligence).
+1. <span style="color: red">Portal code and CCDA check.</span>
 1. Ray tab layout improvements.
 1. Matrix validation additional forms.
 1. Sherwin WENO Rx.
