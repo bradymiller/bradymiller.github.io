@@ -13,6 +13,7 @@ layout: default
 1. Ray tab layout improvements.
 1. Matrix sorting lists improvements.
 1. Matrix validation additional forms.
+1. Matrix lists default fix.
 1. Sherwin WENO Rx.
 1. Me insurance adjustment codes.
 1. Sherwin labs form.
