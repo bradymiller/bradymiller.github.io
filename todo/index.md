@@ -5,16 +5,12 @@ layout: default
 
 ### Expedited
 * MU2 - Turned in paperwork; awaiting reply to ensure ok.
-* MU2 - G3 items to work on: report revision has been turned in and awaiting reply.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. <span style="color: red">Portal code and CCDA check.</span>
-1. Ray tab layout improvements.
-1. Matrix sorting lists improvements.(awaiting input on my fix)
 1. Matrix validation additional forms.
 1. Sherwin WENO Rx.
-1. Me insurance adjustment codes.
 1. Sherwin labs form.
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
@@ -24,7 +20,7 @@ layout: default
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
-1. Matrix specified weekday recurrent appointment.(awaiting Ian's review)
+1. Matrix specified weekday recurrent appointment.(ongoing Ian review)
 1. MD Support patient report.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
@@ -62,8 +58,7 @@ layout: default
 
 ### MU2
 1. Turned in paperwork; awaiting reply to ensure ok.
-1. G3 items to work on: report revision has been turned in and awaiting reply.
-1. Current budget is Visolve develop/testing G3 item fee which is $1500 plus fee to test A1(awaiting quote from Visolve for this).
+1. Current budget is Visolve develop/testing G3/A1 item fee which is $1800.
 
 ### MU3
 1. Complete wiki planning page.
