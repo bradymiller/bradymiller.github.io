@@ -14,6 +14,7 @@ layout: default
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
+1. MD Support ignoreauth on labs thing.
 1. Visolve 1500 pdf settings.(reviewed; good feature and I will integrate it, if necessary)
 1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
