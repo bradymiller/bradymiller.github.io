@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2 - Turned in paperwork; awaiting reply to ensure ok.
+* MU2 - Turned in paperwork; awaiting "technical review".
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
@@ -17,7 +17,6 @@ layout: default
 1. Visolve import lists.
 1. MD Support ignoreauth on labs thing.
 1. Visolve 1500 pdf settings.(reviewed; good feature and I will integrate it, if necessary)
-1. Scott assets cleanup in build.xml(now in codebase; document process and update stuff on bower wiki page)
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
@@ -61,7 +60,7 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
-1. Turned in paperwork; awaiting reply to ensure ok.
+1. Turned in paperwork; awaiting "technical review".
 1. Current budget is Visolve develop/testing G3/A1 item fee which is $1800.
 
 ### MU3
