@@ -21,6 +21,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
+1. Matrix translation fixes.(reviewed; awaiting next revision)
 1. Scott composer standardize/centralize Zend and other related components.(reviewed; awaiting next revision)
 1. Matrix validation additional forms.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
