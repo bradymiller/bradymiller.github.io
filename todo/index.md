@@ -9,6 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. <span style="color: red">Portal code and CCDA project.(look up CCDA templates)</span>
+1. Scott composer standardize/centralize Zend and other related components.
 1. MD Support extend zero time.
 1. Sherwin labs form.
 1. Ra. security fix.
