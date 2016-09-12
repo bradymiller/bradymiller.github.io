@@ -22,7 +22,6 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
 1. Matrix validation additional forms.(reviewed; awaiting next revision)
-1. MD Support patient report.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision; also awaiting Scott input on Zend) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
