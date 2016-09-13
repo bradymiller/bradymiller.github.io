@@ -9,7 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. <span style="color: red">Portal code and CCDA project.(look up CCDA templates)</span>
-1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; check why vendor/doctrine/couchdb is empty and do extensive testing)
+1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
 1. MD Support extend zero time.
 1. Sherwin php7 fix in vitals form.
 1. Sherwin labs form.
