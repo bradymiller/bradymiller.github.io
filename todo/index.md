@@ -25,7 +25,7 @@ layout: default
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Matrix flow board improvements.(reviewed; awaiting next revision)
 1. MD Support js separate for custom report.(reviewed; awaiting next revision and awaiting Rod input)
-1. Sherwin WENO Rx.(reviewed; awaiting next revision; also awaiting Scott input on Zend) 
+1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
 1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
