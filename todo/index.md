@@ -12,7 +12,6 @@ layout: default
 1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
 1. Matrix validation additional forms.
 1. Matrix flow board improvements.
-1. Ian lists translation fix.
 1. Sherwin php7 fix in vitals form.
 1. MD Support js separate for custom report.
 1. MD Support extend zero time.
