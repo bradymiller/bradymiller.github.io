@@ -10,8 +10,12 @@ layout: default
 1. <span style="color: red">Ray eye form.(now working on integration)</span>
 1. <span style="color: red">Portal code and CCDA project.(look up CCDA templates)</span>
 1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
-1. MD Support extend zero time.
+1. Matrix validation additional forms.
+1. Matrix flow board improvements.
+1. Ian lists translation fix.
 1. Sherwin php7 fix in vitals form.
+1. MD Support js separate for custom report.
+1. MD Support extend zero time.
 1. Sherwin labs form.
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
@@ -22,8 +26,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
-1. Matrix translation fixes.(reviewed; awaiting next revision)
-1. Matrix validation additional forms.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision; also awaiting Scott input on Zend) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
