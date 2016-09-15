@@ -51,7 +51,7 @@ layout: default
 ### OEMR Organization
 1. Discuss registration project on forums and placemark it on the active projects page.
 1. Discuss Weno project on forums and placemark it on the active projects page.
-1. Bring in all board members as members(still a couple members left to do: L,S) to allow bringing in new board members.
+1. Bring in all board members as members(still 1 members left to do: L) to allow bringing in new board members.
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
@@ -61,7 +61,6 @@ layout: default
 
 ### MU2
 1. Turned in paperwork; awaiting "technical review".
-1. Current budget is Visolve develop/testing G3/A1 item fee which is $1800.
 
 ### MU3
 1. Complete wiki planning page.
