@@ -11,6 +11,7 @@ layout: default
 1. <span style="color: red">Portal code and CCDA project.(look up CCDA templates)</span>
 1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
 1. Sherwin php7 fix in vitals form.
+1. MD Support js separate for custom report.
 1. MD Support extend zero time.
 1. Sherwin labs form.
 1. Ra. security fix.
@@ -24,7 +25,6 @@ layout: default
 1. Matrix timeslot width bug.(awaiting fix)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Matrix flow board improvements.(reviewed; awaiting next revision)
-1. MD Support js separate for custom report.(reviewed; awaiting next revision and awaiting Rod input)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
 1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support)
