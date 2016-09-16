@@ -68,6 +68,6 @@ layout: default
 ### OpenEMR Next Release
 1. Plan release after get Complete MU2 Certification
 1. Need to rebuild development ubuntu package since removed the /library/freeb directory.
-1. In documentation for when upgrading to 4.3.1 or greater from a version less than 4.3.1, warn that it can take anywhere from 3 minutes to several hours (and will see a whitescreen until is is completed).
+1. In documentation for when upgrading to 5.0.0 or greater from a version less than 5.0.0, warn that it can take anywhere from 3 minutes to several hours (and will see a whitescreen until is is completed).
 1. New ubuntu dependencies: none for now
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
