@@ -12,6 +12,7 @@ layout: default
 1. Roberto security fix.(in process of clarifying)
 1. Ray encounter provider selector.(awaiting community review)
 1. Sherwin php7 fix in vitals form.(awaiting community review)
+1. MD Support top/bottom frame selection persistence.
 1. MD Support extend zero time.
 1. Sherwin labs form.
 1. Ra. security fix.
