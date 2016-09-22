@@ -11,7 +11,8 @@ layout: default
 1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
 1. Roberto security fix.(in process of clarifying)
 1. Ray encounter provider selector.(awaiting community review)
-1. Sherwin php7 fix in vitals form.(awaiting community review)
+1. Sherwin php7 fix in vitals form.
+1. MD Support top/bottom frame selection persistence.
 1. MD Support extend zero time.
 1. Sherwin labs form.
 1. Ra. security fix.
@@ -23,7 +24,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
-1. MD Support top/bottom frame selection persistence.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
