@@ -5,7 +5,6 @@ layout: default
 
 ### Expedited
 * MU2 - Turned in paperwork; awaiting "technical review".
-* Get background services to work in the tab layout.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
