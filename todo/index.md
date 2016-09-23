@@ -9,7 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
-1. Roberto security fix.(in process of clarifying)
+1. Roberto security fix.
 1. Ray encounter provider selector.(awaiting community review)
 1. MD Support extend zero time.
 1. Sherwin labs form.
