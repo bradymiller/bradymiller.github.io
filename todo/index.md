@@ -10,6 +10,7 @@ layout: default
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
 1. Ray encounter provider selector.(awaiting community review)
+1. Terry HFCA printout.
 1. MD Support extend zero time.
 1. Sherwin labs form.
 1. Ra. security fix.
@@ -33,7 +34,6 @@ layout: default
 1. Terry exclude insurance.
 1. Visolve multi-provider bug fix.
 1. MD Support PE form.
-1. Terry HFCA printout.
 1. Art x10 4010 smackdown.
 1. Sherwin auto save (pending issues by Brady and MD Support).
 1. Sherwin prior auth form (pending issue by Rod).
