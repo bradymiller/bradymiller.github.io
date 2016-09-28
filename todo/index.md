@@ -4,15 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2 - Turned in paperwork; awaiting "technical review".
+EMPTY
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
-1. Composer standardize/centralize Zend and other related components.(has been committed to codebase; perform extensive testing)
-1. Ray site id bug fix.
 1. Ray encounter provider selector.(awaiting community review)
-1. Rod active list flag support.
-1. MSSupport tab layout improvements.
 1. MDSupport/Robert calendar style/icon improvements.(pending Robert's code)
 1. Terry HFCA printout.
 1. MD Support extend zero time.
@@ -26,6 +22,9 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
+1. Ray site id bug fix.(awaiting Ray's response)
+1. Matrix 2 PR's to fix the validation bug.(reviewed; awaiting next revision)
+1. MSSupport tab layout improvements.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
@@ -61,7 +60,7 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing).
 
 ### MU2
-1. Turned in paperwork; awaiting "technical review".
+1. Complete the items flagged by the "Technical Review".
 
 ### MU3
 1. Complete wiki planning page.
