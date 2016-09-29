@@ -22,7 +22,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
-1. Ray site id bug fix.(awaiting Ray's response)
+1. Ray site id bug fix.(awaiting Ray's testing)
 1. Matrix 2 PR's to fix the validation bug.(reviewed; awaiting next revision)
 1. MSSupport tab layout improvements.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
