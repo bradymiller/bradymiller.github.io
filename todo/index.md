@@ -11,7 +11,6 @@ layout: default
 1. Ray encounter provider selector.(awaiting community review)
 1. MDSupport/Robert calendar style/icon improvements.(pending Robert's code)
 1. Sherwin drug-drug interaction code.
-1. Robert login screen changes.
 1. Terry HFCA printout.
 1. MD Support extend zero time.
 1. Sherwin labs form.
@@ -25,6 +24,7 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Robert login screen changes.(reviewed; awaiting next revision)
 1. MSSupport tab layout improvements.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
