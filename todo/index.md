@@ -10,6 +10,7 @@ layout: default
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Ray encounter provider selector.(awaiting community review)
 1. MDSupport/Robert calendar style/icon improvements.(pending Robert's code)
+1. Sherwin drug-drug interaction code.
 1. Robert login screen changes.
 1. Terry HFCA printout.
 1. MD Support extend zero time.
