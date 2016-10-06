@@ -13,6 +13,8 @@ layout: default
 1. Sherwin drug-drug interaction code.
 1. MD Support encounter form order display.
 1. Matrix patientvalidation module fix.
+1. Matrix bug fixes.
+1. Matric address book validation skeleton.
 1. Visolve calendar print fix.(needs to be on git first)
 1. Terry HFCA printout.
 1. MD Support extend zero time.
