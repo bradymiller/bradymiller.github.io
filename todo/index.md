@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Complete the MU2 items flagged by the "Technical Review".
+* Try out Robert's website changes.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
