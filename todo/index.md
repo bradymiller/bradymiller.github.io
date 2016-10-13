@@ -9,7 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Ray encounter provider selector.
-1. MDSupport/Robert calendar style/icon improvements.(extended it to week and month; PR submitted and awaiting community review)
 1. MD Support encounter form order display.
 1. Visolve calendar print fix.(needs to be on git first)
 1. Terry HFCA printout.
