@@ -5,9 +5,11 @@ layout: default
 
 ### Expedited
 * Complete the MU2 items flagged by the "Technical Review".
+* Visolve MU2 code.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
+1. Visolve MU2 code.
 1. Sherwin drug-drug interaction code.
 1. Ray encounter provider selector.
 1. MDSupport/Robert calendar style/icon improvements.(extended it to week and month; PR submitted and awaiting community review)
