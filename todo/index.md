@@ -5,11 +5,9 @@ layout: default
 
 ### Expedited
 * Try out Robert's website changes.
-* Review Visolve MU2 code.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
-1. Visolve MU2 code.
 1. Sherwin drug-drug interaction code.
 1. MD Support icons.(expand this)
 1. Ray encounter provider selector.
@@ -28,6 +26,7 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Visolve MU2 code.(reviewed; awaiting next revision)
 1. Robert login screen changes.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
