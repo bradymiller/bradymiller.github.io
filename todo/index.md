@@ -48,13 +48,11 @@ layout: default
 1. Website google analytics on main page (already in wiki).
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
-1. Migrate website to server that can support SSL.
+1. Migrate website to server(likely aws) that can support SSL.(also migrate automated server scripts, translations and git mirrors, to this server)
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. Discuss registration project on forums and placemark it on the active projects page.
-1. Discuss Weno project on forums and placemark it on the active projects page.
-1. Bring in all board members as members(still 1 members left to do: L) to allow bringing in new board members.
+1. Complete registration project.
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
@@ -67,7 +65,8 @@ layout: default
 
 ### MU3
 1. Complete wiki planning page.
-1. Current budget is about 31 developer months plus $22,000 testing fee. 
+1. Current budget is about 31 developer months plus $22,000 testing fee.
+1. Look into prioritizing CQM since may be required for 2017 reporting??
 
 ### OpenEMR Next Release
 1. Plan release after get Complete MU2 Certification
