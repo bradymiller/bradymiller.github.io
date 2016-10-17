@@ -4,12 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Try out Robert's website changes.
+* empty
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Sherwin drug-drug interaction code.
-1. MD Support icons.(expand this)
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
 1. Visolve calendar print fix.(needs to be on git first)
@@ -45,10 +44,11 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
+1. Updates to web page and logo (by Robert)
 1. Website google analytics on main page (already in wiki).
+1. Migrate website to server(likely aws) that can support SSL.(also migrate automated server scripts)
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
-1. Migrate website to server(likely aws) that can support SSL.(also migrate automated server scripts, translations and git mirrors, to this server)
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
