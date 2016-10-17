@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* purchase ssl certificate (that can support multiple domain/subdomains).
+* purchase ssl certificate (that can support wildcard domain/subdomain).
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
