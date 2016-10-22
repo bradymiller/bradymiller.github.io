@@ -9,6 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Sherwin drug-drug interaction code.
+1. Rishabh 2 fixes.
 1. Visolve address book.
 1. Visolve acl.
 1. Visolve html escape avoid in options list.(note on github, need to look through it)
