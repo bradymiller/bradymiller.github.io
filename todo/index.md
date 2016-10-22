@@ -12,6 +12,7 @@ layout: default
 1. Rishabh 2 fixes.
 1. Visolve address book.
 1. Visolve acl.
+1. Sherwin soap report fix.(not on github, minor though)
 1. Visolve html escape avoid in options list.(note on github, need to look through it)
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
