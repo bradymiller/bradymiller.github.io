@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
-1. Rishabh 2 fixes.
 1. Sherwin soap report fix.(not on github, minor though)
 1. Visolve html escape avoid in options list.(note on github, need to look through it)
 1. Ray encounter provider selector.
@@ -27,6 +26,7 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Rishabh 2 fixes.(reviewed; awaiting response)
 1. Visolve MU2 code.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Visolve acl.(reviewed; awaiting next revision)
