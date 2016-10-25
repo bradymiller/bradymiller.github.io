@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
+1. Robert login screen changes.(integration ongoing)
 1. Rishabh 2 fixes.
 1. Sherwin Insurance deactivate.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
@@ -30,7 +31,6 @@ layout: default
 1. Visolve MU2 code.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Visolve acl.(reviewed; awaiting next revision)
-1. Robert login screen changes.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
