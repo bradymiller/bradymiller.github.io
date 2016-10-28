@@ -8,8 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
-1. Robert login screen changes.(integration ongoing)
-1. Rishabh 2 fixes.
+1. Robert login screen changes.(awaiting community review)
 1. Sherwin Insurance deactivate.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. Ray encounter provider selector.
