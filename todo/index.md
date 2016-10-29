@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
-1. Robert login screen changes.(awaiting community review)
 1. Ray calendar time fix.(place it on github)
 1. Ray statements improvements.
 1. Sherwin Insurance deactivate.
