@@ -4,11 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+*  Website fix trademark issues.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
-1. Ray statements improvements.(not on github yet)
+1. Ray statements improvements.
 1. Sherwin Insurance deactivate.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. Ray encounter provider selector.
@@ -48,6 +48,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
+1. Website fix trademark issues.
 1. Website google analytics on main page (already in wiki).
 1. Migrate website to server(likely aws) that can support SSL(either in aws if use load balancer or vie 'Let's Encrypt' service); also migrating automated server scripts.
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
