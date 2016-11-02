@@ -39,7 +39,6 @@ layout: default
 1. Scott path uppercase cleanup.
 1. Terry duplicate appt bug fix (plan to help integrate this fix if have time).
 1. MD Support onsite patient portal signon update.
-1. Terry exclude insurance.
 1. Visolve multi-provider bug fix.
 1. MD Support PE form.
 1. Art x10 4010 smackdown.
