@@ -9,7 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Ray statements improvements.
-1. Sherwin Insurance deactivate.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
@@ -27,6 +26,7 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Matrix timeslot width bug.(awaiting fix)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Sherwin Insurance deactivate.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve MU2 code.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
@@ -64,7 +64,7 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
 
 ### MU2
-1. Complete the items flagged by the "Technical Review".
+1. Complete the items flagged by the "Technical Review" and then get that Full Certification.
 
 ### MU3
 1. Complete wiki planning page.
