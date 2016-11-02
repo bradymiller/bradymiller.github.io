@@ -4,10 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-*  empty
+*  Review Visolve MU2 code.
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
+1. Visolve MU2 code.
 1. Ray statements improvements.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. Ray encounter provider selector.
