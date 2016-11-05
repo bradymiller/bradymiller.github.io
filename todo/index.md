@@ -9,7 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Matrix bug fixes.
-1. Sherwin Insurance deactivate.(awaiting next revision commit)
 1. Sherwin update ROS form.
 1. Ray statements improvements.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
