@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
-1. Matrix bug fixes.
 1. Sherwin update ROS form.
 1. Ray statements improvements.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
@@ -27,6 +26,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Matrix bug fixes.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve MU2 code.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
