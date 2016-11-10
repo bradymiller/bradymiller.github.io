@@ -4,12 +4,12 @@ layout: default
 ## TODO lists
 
 ### Expedited
-*  OEMR website education and services.
+* empty
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Sherwin php fixes.
-1. Stephen php fix.
+1. Stephen php fix.(awaiting the github PR)
 1. Ray modifier fix.
 1. Ray statements improvements.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
@@ -58,7 +58,6 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. OEMR website education and services.
 1. Set up OEMR secrets (via M. email)
 1. Finalize registration project.
 1. Revocation (turned in by Treasurer; awaiting reply).
