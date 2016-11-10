@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+* OEMR meeting minutes and audio file
 
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
