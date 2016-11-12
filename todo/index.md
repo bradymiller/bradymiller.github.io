@@ -9,7 +9,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Sherwin php fixes.
-1. Stephen php fix.
 1. Ray modifier fix.
 1. Ray statements improvements.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
