@@ -7,7 +7,6 @@ layout: default
 * empty
 
 ### OpenEMR Code Reviews
-1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Ray statements improvements.
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
