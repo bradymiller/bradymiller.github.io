@@ -9,9 +9,9 @@ layout: default
 ### OpenEMR Code Reviews
 1. <span style="color: red">Portal code and CCDA project.(test out and look up CCDA templates)</span>
 1. Ray statements improvements.
-1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
+1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. Visolve calendar print fix.(needs to be on git first)
 1. Terry HFCA printout.
 1. MD Support extend zero time.
@@ -29,7 +29,6 @@ layout: default
 1. Matrix bug fixes.(reviewed; awaiting input on my tinylogo code; awaiting discussion regarding basename issue)
 1. Matrix document bug fixes.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
-1. Visolve MU2 code.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Visolve acl.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
@@ -61,9 +60,11 @@ layout: default
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
+1. Confirm up to date on North Carolina non profit status.
 1. New OEMR logo(have budget of $100).
 1. Budget.
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
+1. Discuss with board regarding settings aside funds for under-represented clinics and other charitable organizations.
 
 ### MU2
 1. Complete the items flagged by the "Technical Review" and then get that Full Certification.
