@@ -7,6 +7,11 @@ layout: default
 * empty
 
 ### OpenEMR Code Reviews
+1. Matrix calendaer print fix.
+1. Matrix address book fix.
+1. Matrix demographic hidden field fix.
+1. Matrix document bug fixes.
+1. Matrix vitals bug fix.
 1. Ray statements improvements.
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
@@ -26,7 +31,6 @@ layout: default
 1. Ray site id bug fix.(awaiting Ray's testing)
 1. Sherwin update ROS form.(reviewed; awaiting Robert's input regarding bootstrap)
 1. Matrix bug fixes.(reviewed; awaiting input on my tinylogo code; awaiting discussion regarding basename issue)
-1. Matrix document bug fixes.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Visolve acl.(reviewed; awaiting next revision)
