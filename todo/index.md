@@ -50,6 +50,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
+1. Continue security fixes.
 1. Fix most recent Certified Contributor entry and V entry.
 1. Website google analytics on main page (already in wiki).
 1. Migrate website to server(likely aws) that can support SSL(either in aws if use load balancer or vie 'Let's Encrypt' service); also migrating automated server scripts.
