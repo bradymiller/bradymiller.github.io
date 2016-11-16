@@ -27,7 +27,7 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
 1. Sherwin update ROS form.(reviewed; awaiting Robert's input regarding bootstrap)
-1. Matrix bug fixes.(reviewed; awaiting input on my tinylogo code; awaiting discussion regarding basename issue)
+1. Matrix bug fixes.(reviewed; awaiting discussion regarding basename issue)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Visolve acl.(reviewed; awaiting next revision)
