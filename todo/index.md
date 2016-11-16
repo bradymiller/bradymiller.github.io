@@ -7,10 +7,7 @@ layout: default
 * empty
 
 ### OpenEMR Code Reviews
-1. Matrix calendaer print fix.
-1. Matrix address book fix.
-1. Matrix demographic hidden field fix.
-1. Matrix document bug fixes.
+1. Matrix calendar print fix.
 1. Matrix vitals bug fix.
 1. Ray statements improvements.
 1. Ray encounter provider selector.
