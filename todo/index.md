@@ -10,7 +10,6 @@ layout: default
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
-1. Visolve calendar print fix.(needs to be on git first)
 1. Terry HFCA printout.
 1. MD Support extend zero time.
 1. Sherwin labs form.
@@ -24,11 +23,9 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
 1. Sherwin update ROS form.(reviewed; awaiting Robert's input regarding bootstrap)
-1. Matrix bug fixes.(reviewed; awaiting discussion regarding basename issue)
 1. Ray statements improvements.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
-1. Visolve acl.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
