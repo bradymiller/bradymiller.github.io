@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* empty
+* Calls(prpr. boot and menu db, s. billing)
 
 ### OpenEMR Code Reviews
 1. Ray encounter provider selector.
