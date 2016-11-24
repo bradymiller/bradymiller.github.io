@@ -4,9 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Calls(prpr. boot and menu db, s. billing)
+* Emails(pr. boot/menu)
+* Calls(s. billing)
 
 ### OpenEMR Code Reviews
+1. Matrix groups.
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
