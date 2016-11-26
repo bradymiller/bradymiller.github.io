@@ -8,8 +8,8 @@ layout: default
 * Calls(s. billing)
 
 ### OpenEMR Code Reviews
-1. Ray statements improvements.
-1. Matrix groups.
+1. Ray statements improvements.(reviewed; awaiting next revision. To expedite, I will test it while awaiting revision since the requested changes are minimal)
+1. Matrix groups.(ongoing review)
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
