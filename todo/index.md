@@ -10,6 +10,8 @@ layout: default
 ### OpenEMR Code Reviews
 1. Ray statements improvements.(reviewed; awaiting next revision. To expedite, I will test it while awaiting revision since the requested changes are minimal)
 1. Matrix groups.(ongoing review)
+1. MDSupport tabs improvement.
+1. Matrix CDR bug fix.
 1. MDSupport esign for special forms.
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
