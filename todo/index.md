@@ -4,6 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
+* MU2
 * Emails(pr. boot/menu)
 * Calls(s. billing)
 
