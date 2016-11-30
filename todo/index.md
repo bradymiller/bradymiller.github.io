@@ -11,7 +11,9 @@ layout: default
 ### OpenEMR Code Reviews
 1. Ray statements improvements.(reviewed; awaiting next revision. To expedite, I will test it while awaiting revision since the requested changes are minimal)
 1. Matrix groups.(ongoing review)
+1. Matrix date format fix.
 1. Matrix CDR bug fix.
+1. Matrix translation fix.
 1. MDSupport tabs improvement.(awaiting community input)
 1. Ray encounter provider selector.
 1. MD Support encounter form order display.
@@ -28,7 +30,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
-1. Matrix date format fix.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
