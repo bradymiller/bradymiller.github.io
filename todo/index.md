@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2
+* MU2(ensure get ZH code)
 * Emails(pr. boot/menu)
 * Calls(s. billing)
 
