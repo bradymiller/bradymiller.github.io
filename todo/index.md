@@ -11,10 +11,10 @@ layout: default
 ### OpenEMR Code Reviews
 1. Ray statements improvements.(reviewed; awaiting next revision. To expedite, I will test it while awaiting revision since the requested changes are minimal)
 1. Matrix groups.(ongoing review)
-1. MD support class for select list.
+1. MD support class for select list.(M to review)
 1. Matrix CDR bug fix.
 1. MDSupport tabs improvement.(awaiting community input)
-1. Ray encounter provider selector.
+1. Ray encounter provider selector.(R to review)
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. Terry HFCA printout.
