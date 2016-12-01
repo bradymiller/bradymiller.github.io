@@ -13,11 +13,10 @@ layout: default
 1. Matrix groups.(ongoing review)
 1. MD support class for select list.(M to review)
 1. Matrix CDR bug fix.
-1. MDSupport tabs improvement.(awaiting community input)
-1. Ray encounter provider selector.(R to review)
+1. MDSupport tabs improvement.(make a demo and get Ra input)
+1. Ray encounter provider selector.(Ro to review)
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
-1. Terry HFCA printout.
 1. MD Support extend zero time.
 1. Sherwin labs form.
 1. Ra. security fix.
