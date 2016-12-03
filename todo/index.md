@@ -9,7 +9,7 @@ layout: default
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
-1. Ray statements improvements.(reviewed; awaiting next revision. To expedite, I will test it while awaiting revision since the requested changes are minimal)
+1. Ray statements improvements.
 1. Matrix groups.(ongoing review)
 1. MD support class for select list.(M to review)
 1. Matrix CDR bug fix.
