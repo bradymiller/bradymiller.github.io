@@ -6,7 +6,7 @@ layout: default
 ### Expedited
 * MU2(ensure get ZH code)
 * Emails(pr. boot/menu)
-* Calls(s. billing)
+* Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
 1. Ray statements improvements.(reviewed; awaiting next revision. To expedite, I will test it while awaiting revision since the requested changes are minimal)
