@@ -11,7 +11,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
 1. George hello world fix.
-1. Matrix price history.
 1. MD support class for select list.(M to review)
 1. Matrix CDR bug fix.
 1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
@@ -29,6 +28,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Matrix price history.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
