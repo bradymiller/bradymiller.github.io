@@ -10,7 +10,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
-1. George hello world fix.
 1. MD support class for select list.(M to review)
 1. Matrix CDR bug fix.(waiting for vital rules testing)
 1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
