@@ -11,6 +11,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
 1. MD support class for select list.(M to review)
+1. MD Support Net_SFTP fix.(awaiting testing by MDSupport; if bring in, need to change author to MDSupport)
 1. Matrix CDR bug fix.(waiting for vital rules testing)
 1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
 1. MD Support encounter form order display.
