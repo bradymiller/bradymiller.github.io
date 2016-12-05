@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2(ensure get ZH code)
+* MU2(WCAG report and ensure get ZH code)
 * Emails(pr. boot/menu)
 * Calls(s. billing, FHIR)
 
@@ -12,9 +12,8 @@ layout: default
 1. Matrix groups.(ongoing review)
 1. George hello world fix.
 1. MD support class for select list.(M to review)
-1. Matrix CDR bug fix.
+1. Matrix CDR bug fix.(waiting for vital rules testing)
 1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
-1. Ray encounter provider selector.(Ro to review)
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. MD Support extend zero time.
@@ -28,6 +27,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Matrix price history.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
