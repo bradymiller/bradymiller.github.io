@@ -10,9 +10,8 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
+1. Matrix price history.
 1. MD support class for select list.(M to review)
-1. MD Support Net_SFTP fix.(awaiting testing by MDSupport; if bring in, need to change author to MDSupport)
-1. Matrix CDR bug fix.(waiting for vital rules testing)
 1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
@@ -28,7 +27,6 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
-1. Matrix price history.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
