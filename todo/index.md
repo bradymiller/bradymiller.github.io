@@ -11,13 +11,13 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
 1. Sherwin bug fix.
+1. Sherwin labs form.
 1. Matrix price history.
 1. MD support class for select list.(M to review)
 1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. MD Support extend zero time.
-1. Sherwin labs form.
 1. Ra. security fix.
 1. Visolve add rows lists and default on for the active box.
 1. Visolve import lists.
