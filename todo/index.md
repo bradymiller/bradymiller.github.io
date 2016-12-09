@@ -10,7 +10,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
-1. Sherwin bug fix.
 1. Sherwin labs form.
 1. MD support class for select list.(M to review)
 1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
