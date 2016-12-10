@@ -24,7 +24,7 @@ layout: default
 1. Matrix Zend patient validation module.(already committed into codebase; need to get the modify demographics 'edit' zend module popup to work smoothly and remove the 'closeBeforeOpening=1')
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
-1. Ray site id bug fix.(awaiting Ray's testing)
+1. Ray site id bug fix.(awaiting Ray's testing )
 1. Matrix minor fixes.(awaiting Ray's testing)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
