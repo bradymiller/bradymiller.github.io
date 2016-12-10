@@ -4,15 +4,15 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2(WCAG report and ensure get ZH code)
+* MU2(ensure get ZH code)
 * Emails(pr. boot/menu)
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
 1. Sherwin labs form.
-1. MD support class for select list.(M to review)
-1. MDSupport tabs improvement.(made a demo and waiting for Ra input)
+1. MD Support class for select list.(M to review)
+1. MD Support tabs improvement.(made a demo and waiting for Ra input)
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
 1. MD Support extend zero time.
