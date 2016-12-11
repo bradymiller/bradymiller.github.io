@@ -12,7 +12,6 @@ layout: default
 1. Matrix groups.(ongoing review)
 1. MD Support menu re-organization.
 1. Sherwin labs form.
-1. MD Support class for select list.(M to review)
 1. MD Support tabs improvement.(made a demo and waiting for Ra input)
 1. MD Support encounter form order display.
 1. Visolve html escape avoid in options list.(not on github, need to look through it)
@@ -27,6 +26,7 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing )
 1. Matrix minor fixes.(awaiting Ray's testing)
+1. MD Support class for select list.(M review ongoing)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
