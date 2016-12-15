@@ -5,12 +5,10 @@ layout: default
 
 ### Expedited
 * MU2(ensure get ZH code)
-* Emails(pr. boot/menu)
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
-1. Marix recurrence bug fix.
 1. MD Support menu re-organization.
 1. Sherwin labs form.
 1. MD Support tabs improvement.(made a demo and waiting for Ra input)
@@ -55,18 +53,19 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
+1. Add MACRA,MU,MIPS,PQRS to Education.
 1. Set up OEMR secrets (via M. email)
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
-1. Confirm up to date on North Carolina non profit status.
 1. New OEMR logo(have budget of $100).
 1. Budget.
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
 1. Discuss with board regarding settings aside funds for under-represented clinics and other charitable organizations.
 
 ### MU2
-1. Complete the items flagged by the "Technical Review" and then get that Full Certification.
+1. Ensure get ZH code.
+2. Awaiting testing body review.
 
 ### MU3
 1. Complete wiki planning page.
