@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2(ensure get ZH code)
+* MU2(ZH code in review)
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
@@ -24,6 +24,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing )
+1. ZH MU2 code.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
