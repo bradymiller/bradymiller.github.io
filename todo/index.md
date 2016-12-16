@@ -65,7 +65,7 @@ layout: default
 1. Discuss with board regarding settings aside funds for under-represented clinics and other charitable organizations.
 
 ### MU2
-1. Ensure get ZH code.
+1. ZH code(in review).
 2. Awaiting testing body review.
 
 ### MU3
