@@ -67,6 +67,7 @@ layout: default
 ### MU2
 1. ZH code(in review).
 2. Awaiting testing body review.
+3. Update acknowledgments with needed verbage.
 
 ### MU3
 1. Complete wiki planning page.
