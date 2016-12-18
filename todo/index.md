@@ -9,7 +9,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
-1. MD Support globals editing.
 1. MD Support alternate labs view/print.
 1. Ray menu impovements.
 1. MD Support menu re-organization.
