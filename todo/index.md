@@ -9,6 +9,8 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
+1. Matrix translation fixes.
+1. Matrix dated reminder message size fix.
 1. MD Support alternate labs view/print.
 1. Ray menu impovements.
 1. MD Support menu re-organization.
@@ -26,7 +28,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing )
-1. Matrix dated reminder message size fix.(reviewed by MD Support; awaiting next revision)
 1. ZH MU2 code.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
