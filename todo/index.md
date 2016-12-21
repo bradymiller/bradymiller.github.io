@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2(ZH code review)
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
@@ -69,9 +68,8 @@ layout: default
 1. Discuss with board regarding settings aside funds for under-represented clinics and other charitable organizations.
 
 ### MU2
-1. ZH code(in review).
-2. Awaiting testing body review.
-3. Update acknowledgments with needed verbage.
+1. Awaiting testing body review.
+1. Update acknowledgments with needed verbage.
 
 ### MU3
 1. Complete wiki planning page.
