@@ -9,7 +9,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. ZH MU2 code.(reviewed; awaiting next revision)
 1. Matrix groups.(ongoing review)
-1. Matrix translation fixes.
+1. MD Support service providers improvements.
 1. MD Support alternate labs view/print.
 1. Ray menu impovements.
 1. MD Support menu re-organization.
