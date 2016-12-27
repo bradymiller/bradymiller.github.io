@@ -8,7 +8,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix groups.(ongoing review)
-1. Roberto SNOMED US support.
 1. MD Support service providers improvements.
 1. Ray menu improvements.
 1. MD Support menu re-organization.
