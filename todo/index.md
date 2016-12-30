@@ -7,6 +7,7 @@ layout: default
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
+1. Matrix collections for pt that owe.
 1. MD Support service providers improvements.
 1. Ray menu improvements.
 1. MD Support menu re-organization.
