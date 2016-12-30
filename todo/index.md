@@ -7,7 +7,6 @@ layout: default
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
-1. Matrix collections for pt that owe.
 1. MD Support service providers improvements.
 1. Ray menu improvements.
 1. MD Support menu re-organization.
@@ -25,6 +24,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Matrix collections for pt that owe.(reviewed; awaiting next revision)
 1. Sherwin immunization auto-suggest.(reviewed; awaiting next revision)
 1. Matrix groups.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
