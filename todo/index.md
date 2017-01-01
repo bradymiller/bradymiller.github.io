@@ -8,6 +8,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. MD Support service providers improvements.
+1. MD Support update document class to check for relocated documents folder.
 1. Ray menu improvements.
 1. MD Support menu re-organization.
 1. Sherwin labs form.
