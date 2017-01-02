@@ -7,6 +7,8 @@ layout: default
 * Calls(s. billing, FHIR)
 
 ### OpenEMR Code Reviews
+1. MD Support CDR improvement (https://sourceforge.net/p/openemr/code-review/263/)
+1. Matrix CDR date improvement.
 1. MD Support service providers improvements.
 1. MD Support update document class to check for relocated documents folder.
 1. Ray menu improvements.
