@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 * Calls(s. billing, FHIR)
 * Menu work
+* MU3 barometer
 
 ### OpenEMR Code Reviews
 1. Matrix collections for pt that owe.
