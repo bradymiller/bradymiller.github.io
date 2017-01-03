@@ -5,9 +5,9 @@ layout: default
 
 ### Expedited
 * Calls(s. billing, FHIR)
+* Menu work
 
 ### OpenEMR Code Reviews
-1. MD Support CDR improvement using wildcards.
 1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
