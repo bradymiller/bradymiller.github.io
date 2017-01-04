@@ -12,7 +12,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix collections for pt that owe.
 1. MD Support update document class to check for relocated documents folder.
-1. Sherwin immunization auto-suggest.
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
 1. MD Support menu re-organization.
