@@ -54,6 +54,7 @@ layout: default
 1. Fix most recent Certified Contributor entry and V entry.
 1. Website google analytics on main page (already in wiki).
 1. Migrate website to server(likely aws) that can support SSL(either in aws if use load balancer or vie 'Let's Encrypt' service); also migrating automated server scripts.
+1. Fix demo farm by adding --link to the rsync command.
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Upgrade wiki (mediawiki) to most recent version.
@@ -80,7 +81,7 @@ layout: default
 
 ### OpenEMR Next Release
 1. Plan release after get Complete MU2 Certification
-1. Need to rebuild development ubuntu package since removed the /library/freeb directory.
+1. Need to rebuild development ubuntu package since removed the /library/freeb directory.(also need to add --link to the rsync command)
 1. In documentation for when upgrading to 5.0.0 or greater from a version less than 5.0.0, warn that it can take anywhere from 3 minutes to several hours (and will see a whitescreen until is is completed).
 1. New ubuntu dependencies: none for now
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
