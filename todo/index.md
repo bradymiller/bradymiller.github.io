@@ -9,7 +9,6 @@ layout: default
 * MU3 barometer
 
 ### OpenEMR Code Reviews
-1. MD Support reorganize patient/encounter information.
 1. Jerry portal.
 1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
