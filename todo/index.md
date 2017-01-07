@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Session bug fixes
 * Calls(s. billing, FHIR)
 * Menu work
 * MU3 barometer
