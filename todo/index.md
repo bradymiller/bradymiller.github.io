@@ -64,6 +64,7 @@ layout: default
 
 ### OEMR Organization
 1. Add MACRA,MU,MIPS,PQRS to Education.
+1. Join OSI.
 1. Set up OEMR secrets (via M. email)
 1. Revocation (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
