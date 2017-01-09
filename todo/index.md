@@ -4,13 +4,12 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Jerry patient portal.
+* Test Jerry patient portal.
 * Calls(s. billing, FHIR)
 * Menu work
 * MU3 barometer
 
 ### OpenEMR Code Reviews
-1. Jerry patient portal.
 1. MD Support update document class to check for relocated documents folder.
 1. Matthew doctrine work.
 1. MD Support service providers improvements.(R to review)
