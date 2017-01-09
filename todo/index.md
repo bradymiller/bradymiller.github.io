@@ -4,13 +4,13 @@ layout: default
 ## TODO lists
 
 ### Expedited
+* Jerry patient portal.
 * Calls(s. billing, FHIR)
 * Menu work
 * MU3 barometer
 
 ### OpenEMR Code Reviews
-1. MD Support close menu after click.
-1. Jerry portal.
+1. Jerry patient portal.
 1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
