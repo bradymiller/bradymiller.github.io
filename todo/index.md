@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 * Jerry patient portal.
-* Calls(s. billing, FHIR)
+* Calls(s. billing, labs, FHIR)
 * Menu work
 * MU3 barometer
 
