@@ -11,6 +11,8 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
+1. Matrix list off option.
+1. Matrix groups.
 1. Matthew doctrine work.
 1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
@@ -30,7 +32,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
-1. Matrix groups.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
