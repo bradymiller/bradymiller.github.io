@@ -4,10 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Jerry patient portal.
 * Calls(s. billing, labs, FHIR;HIMS)
-* Menu work
-* MU3 barometer
+* MU2
+* Upgrade demo farm
 
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
@@ -50,6 +49,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
+1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Need to add --link to the rsync command for demo scripts; note demos may of died after doing this, so need to do trial first)
 1. Continue security fixes.
 1. Fix most recent Certified Contributor entry and V entry.
@@ -57,7 +57,6 @@ layout: default
 1. Migrate website to server(likely aws) that can support SSL(either in aws if use load balancer or vie 'Let's Encrypt' service); also migrating automated server scripts.
 1. For composer, research if will need to use --copy-links rather than --link to ensure vendor/bin softlinks work on windows(copy-links copies the actual file rathe than the link to the file)(also need to ensure --link doesn't break anything since it may of broken the demo scripts).
 1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
-1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
@@ -73,7 +72,7 @@ layout: default
 1. Discuss with board regarding settings aside funds for under-represented clinics and other charitable organizations.
 
 ### MU2
-1. Awaiting testing body review.
+1. Address testing body review issues and then resubmit application.
 1. Update acknowledgments with needed verbage.
 
 ### MU3
