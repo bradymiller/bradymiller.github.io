@@ -4,13 +4,14 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Calls(s. billing, labs, FHIR;HIMS)
+* Calls(s. billing, labs, FHIR)
 * MU2
 * Upgrade demo farm
 
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
 1. Matrix groups.
+1. Roberto rf2 snomed.
 1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
