@@ -62,6 +62,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
+1. Motion to remove f from standard member(f requested this).
 1. Add MACRA,MU,MIPS,PQRS to Education.
 1. Join OSI.
 1. Set up OEMR secrets (via M. email)
