@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 * Calls(s. billing, labs, FHIR)
-* MU2(2011->2014 form complete)
+* MU2 get it done
 * Upgrade demo farm
 
 ### OpenEMR Code Reviews
