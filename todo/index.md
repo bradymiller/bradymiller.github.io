@@ -30,6 +30,7 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Matrix global to allow edit All recurrent appt.(reviewed; awaiting next revision)
 1. Matthew php/browser compatibility check.(reviewed; awaiting next revision)
 1. Matrix zend multidatabase access.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
