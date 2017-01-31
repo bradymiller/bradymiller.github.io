@@ -88,5 +88,5 @@ layout: default
 1. Plan release after get Complete MU2 Certification
 1. Need to rebuild development ubuntu package since removed the /library/freeb directory.(also need to add --link to the rsync command; ensure --link doesn't break anything since it may of broken the demo scripts)
 1. In documentation for when upgrading to 5.0.0 or greater from a version less than 5.0.0, warn that it can take anywhere from 3 minutes to several hours (and will see a whitescreen until is is completed).
-1. New ubuntu dependencies: none for now
+1. New ubuntu dependencies(for 5.0.1, NOT 5.0.0): php-ldap
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
