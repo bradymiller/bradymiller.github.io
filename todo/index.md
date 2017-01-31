@@ -11,7 +11,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
 1. Matrix groups.
-1. Matrix zend multidatabase access.
 1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
