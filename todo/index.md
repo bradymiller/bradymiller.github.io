@@ -5,13 +5,12 @@ layout: default
 
 ### Expedited
 * Calls(s. billing, labs, FHIR)
-* MU2 get it done(ccda fixes)
+* MU2 get it done
 * Upgrade demo farm
 
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
 1. Matrix groups.
-1. Matthew and Sherwin doctrine product registration.
 1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -30,6 +29,8 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
+1. Matthew and Sherwin doctrine product registration.(work in progress)
+1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Matrix active directory.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
 1. Matthew php/browser compatibility check.(reviewed; awaiting next revision)
