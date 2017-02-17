@@ -4,15 +4,13 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Revocation protest
 * Calls(s. billing, labs, FHIR)
 * Upgrade demo farm
 
 ### OpenEMR Code Reviews
-1. Jerry patient portal.
 1. Matrix groups.
+1. Jerry patient portal.
 1. MD Support ros display update.
-1. MD Support update document class to check for relocated documents folder.
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
 1. MD Support menu re-organization.
@@ -69,16 +67,13 @@ layout: default
 1. Add MACRA,MU,MIPS,PQRS to Education.
 1. Join OSI.
 1. Set up OEMR secrets (via M. email)
-1. Revocation (turned in by Treasurer; awaiting reply).
+1. Revocation protest (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
 1. New OEMR logo(have budget of $100).
 1. Budget.
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
 1. Discuss with board regarding settings aside funds for under-represented clinics and other charitable organizations.
-
-### MU2
-1. Await official notification and then place wordage on website.
 
 ### MU3
 1. Complete wiki planning page.
