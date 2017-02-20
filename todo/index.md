@@ -10,6 +10,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix groups.
 1. Jerry patient portal.
+1. Matthew php/browser compatibility check.
 1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -32,7 +33,6 @@ layout: default
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Matrix active directory.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
-1. Matthew php/browser compatibility check.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
