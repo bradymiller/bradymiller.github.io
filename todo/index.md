@@ -4,8 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Calls(s. billing, labs, FHIR)
+* 5.0.0 patch 1 release
 * Upgrade demo farm
+* Calls(s. billing, labs, FHIR)
 
 ### OpenEMR Code Reviews
 1. Matrix groups.
