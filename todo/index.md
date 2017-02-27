@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 * Upgrade demo farm
 * Calls(s. billing, labs, FHIR)
+* Jerry CCDA (get mirth cred)
 
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
