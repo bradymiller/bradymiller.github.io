@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 * Upgrade demo farm
 * Calls(s. billing, labs, FHIR)
+* groups datatables xl
 * Jerry CCDA (get mirth cred)
 
 ### OpenEMR Code Reviews
