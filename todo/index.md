@@ -11,6 +11,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
 1. Jerry CCDA
+1. MAtrix translation apostrophe.
 1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -30,7 +31,6 @@ layout: default
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
 1. Matrix debt filter.(awaiting response to R)
-1. MAtrix translation apostrophe.(awaiting response to B)
 1. Matthew and Sherwin doctrine product registration.(work in progress)
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Matrix active directory.(reviewed; awaiting next revision)
