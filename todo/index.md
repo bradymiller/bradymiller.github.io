@@ -84,5 +84,5 @@ layout: default
 
 ### OpenEMR Next Release
 1. Issue - (for development and 5.0.1 ubuntu package also need to add --link to the rsync command; ensure --link doesn't break anything since it may of broken the demo scripts)
-1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing)
+1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing). Also will likely need nodejs (currently testing).
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
