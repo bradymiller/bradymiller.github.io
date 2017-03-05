@@ -11,7 +11,8 @@ layout: default
 ### OpenEMR Code Reviews
 1. Jerry patient portal.
 1. Jerry CCDA
-1. MAtrix translation apostrophe.
+1. Matrix translation apostrophe.
+1. Matrix rtl patient vitals.
 1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
