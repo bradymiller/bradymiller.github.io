@@ -33,7 +33,6 @@ layout: default
 1. Matrix debt filter.(awaiting response to R)
 1. Matthew and Sherwin doctrine product registration.(work in progress)
 1. Matthew and Sherwin doctrine facilities.(work in progress)
-1. Matrix rtl disclosure fix.(reviewed; awaiting next revision)
 1. Matrix active directory.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
