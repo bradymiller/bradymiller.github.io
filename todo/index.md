@@ -34,6 +34,7 @@ layout: default
 1. Matthew and Sherwin doctrine product registration.(work in progress)
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Matrix active directory.(reviewed; awaiting next revision)
+1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
