@@ -12,7 +12,8 @@ layout: default
 1. Jerry patient portal.
 1. Jerry CCDA
 1. Roberto rf2 snomed.
-1. Matrix file white list.
+1. Matrix billing fix.
+1. Matrix lists fix.
 1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -35,6 +36,7 @@ layout: default
 1. Matthew and Sherwin doctrine product registration.(work in progress)
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Matrix sort pubpid.(awaiting reply to my question)
+1. Matrix file white list.(awaiting reply to my question)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
