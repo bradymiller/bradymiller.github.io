@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 * Upgrade demo farm
-* Calls(s. billing, labs, FHIR)
+* Calls(s. billing, labs)
 * groups datatables xl
 
 ### OpenEMR Code Reviews
