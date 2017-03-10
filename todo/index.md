@@ -12,8 +12,6 @@ layout: default
 1. Jerry patient portal.
 1. Jerry CCDA
 1. Roberto rf2 snomed.
-1. Matrix billing fix.
-1. Matrix lists fix.
 1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -32,7 +30,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
-1. Matrix debt filter.(awaiting response to R)
 1. Matthew and Sherwin doctrine product registration.(work in progress)
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Matrix sort pubpid.(awaiting reply to my question)
