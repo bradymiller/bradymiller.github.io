@@ -12,7 +12,8 @@ layout: default
 1. Jerry patient portal.
 1. Jerry CCDA
 1. Roberto rf2 snomed.
-1. Stephen sql-upgrade fix.
+1. Stephen sql-upgrade fix.(assigned to M)
+1. Jeffrey docker.
 1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
