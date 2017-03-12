@@ -59,6 +59,7 @@ layout: default
 ### OpenEMR Project Admin
 1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
 1. Need to add --link to the rsync command for demo scripts; note demos may of died after doing this, so need to do trial first)
+1. For packages also need to figure out if need to deal with links in composer bin (like the --link issue in demos)
 1. Continue security fixes.
 1. Fix most recent Certified Contributor entry and V entry.
 1. Website google analytics on main page (already in wiki).
