@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Upgrade demo farm
+* Upgrade demo farm(fix sql import with root pass and rollout when testing well on main devel demo)
 * Calls(s. billing, labs)
 * groups datatables xl
 
