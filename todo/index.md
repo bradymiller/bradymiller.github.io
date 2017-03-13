@@ -4,8 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Upgrade demo farm(fix sql import with root pass and rollout when testing well on main devel demo)
+* Upgrade demo farm(fix sql import with root pass and rollout when get it testing well on main devel demo)
 * Calls(s. billing, labs)
+* Security fixes
 * groups datatables xl
 
 ### OpenEMR Code Reviews
@@ -13,7 +14,6 @@ layout: default
 1. Jerry CCDA
 1. Roberto rf2 snomed.
 1. Stephen sql-upgrade fix.(assigned to M)
-1. Jeffrey docker.
 1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -34,7 +34,7 @@ layout: default
 1. Ray site id bug fix.(awaiting Ray's testing)
 1. Matthew and Sherwin doctrine product registration.(work in progress)
 1. Matthew and Sherwin doctrine facilities.(work in progress)
-1. Sherwin portal invoice.(work in progress)
+1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Sherwin WENO.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
@@ -73,6 +73,7 @@ layout: default
 1. Add MACRA,MU,MIPS,PQRS to Education.
 1. Join OSI.
 1. Set up OEMR secrets (via M. email)
+1. Find a lawyer for revocation issues
 1. Revocation protest (turned in by Treasurer; awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
