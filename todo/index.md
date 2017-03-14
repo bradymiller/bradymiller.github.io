@@ -36,7 +36,7 @@ layout: default
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
-1. Matrix.(date formatting in group list screen)
+1. Matrix date formatting in group list screen.(reviewed; awaiting next revision)
 1. Sherwin WENO.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
@@ -59,7 +59,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
-1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04.
+1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04. (rollout after tests well on main development demo)
 1. Need to add --link to the rsync command for demo scripts; note demos may of died after doing this, so need to do trial first)
 1. For packages also need to figure out if need to deal with links in composer bin (like the --link issue in demos)
 1. Continue security fixes.
