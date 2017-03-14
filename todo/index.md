@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Upgrade demo farm(fix sql import with root pass and rollout when get it testing well on main devel demo)
+* Upgrade demo farm(rollout after testing well on main devel demo)
 * Calls(s. billing, labs)
 * Security fixes
 * groups datatables xl
@@ -36,6 +36,7 @@ layout: default
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
+1. Matrix.(date formatting in group list screen)
 1. Sherwin WENO.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
