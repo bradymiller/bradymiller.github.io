@@ -10,7 +10,6 @@ layout: default
 * groups datatables xl
 
 ### OpenEMR Code Reviews
-1. Jerry patient portal.
 1. Jerry CCDA
 1. Roberto rf2 snomed.
 1. Matrix delete security.(need to figure out a adequate solution)
