@@ -12,7 +12,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Jerry CCDA
 1. Roberto rf2 snomed.
-1. Rod LBF image fix.(accepted)
 1. Matrix delete security.(need to figure out a adequate solution)
 1. Stephen sql-upgrade fix.(assigned to M)
 1. MD Support ros display update.(M to review)
