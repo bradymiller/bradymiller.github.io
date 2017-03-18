@@ -5,14 +5,12 @@ layout: default
 
 ### Expedited
 * Upgrade demo farm(rollout after testing well on main devel demo)
-* Calls(s. billing, labs)
 * Security fixes
 * groups datatables xl
 
 ### OpenEMR Code Reviews
 1. Jerry CCDA
 1. Roberto rf2 snomed.
-1. Daniel pdf report fix.
 1. Matrix delete security.(need to figure out a adequate solution)
 1. Stephen sql-upgrade fix.(assigned to M)
 1. MD Support ros display update.(M to review)
@@ -59,7 +57,7 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
-1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04. (rollout after tests well on main development demo)
+1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04. (rollout after testing well on main development demo)
 1. Need to add --link to the rsync command for demo scripts; note demos may of died after doing this, so need to do trial first)
 1. For packages also need to figure out if need to deal with links in composer bin (like the --link issue in demos)
 1. Continue security fixes.
