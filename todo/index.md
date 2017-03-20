@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 * Upgrade demo farm(rollout after testing well on main devel demo)
 * Security fixes
+* patch
 
 ### OpenEMR Code Reviews
 1. Jerry CCDA
