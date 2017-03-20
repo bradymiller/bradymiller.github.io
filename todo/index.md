@@ -4,6 +4,8 @@ layout: default
 ## TODO lists
 
 ### Expedited
+* MU2 quarterly attestation form
+* oemr bank card mail
 * Upgrade demo farm(rollout after testing well on main devel demo)
 * Security fixes
 * patch
