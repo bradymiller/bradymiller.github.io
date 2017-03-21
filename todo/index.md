@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 * MU2 quarterly attestation form
 * oemr bank card mail
+* change 5.0 demo restart to 6am est
 * Upgrade demo farm(rollout after testing well on main devel demo)
 * Security fixes
 * patch
