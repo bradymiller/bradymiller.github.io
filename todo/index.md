@@ -4,17 +4,16 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* MU2 quarterly attestation form
-* oemr bank card mail
+* oemr bank card (mail it out)
 * Upgrade demo farm(rollout after testing well on main devel demo)
-* Security fixes
+* Security fixes (graphing issue)
 * patch
 
 ### OpenEMR Code Reviews
-1. Jerry CCDA
-1. Stephen sql-upgrade fix.
-1. Rod access controls.
-1. Matrix new zend aco.(R to review)
+1. Jerry CCDA.(ongoing work)
+1. Stephen sql-upgrade fix.(M to review)
+1. Rod access controls.(accepted on review)
+1. Matrix new zend aco.(R reviewing)
 1. Matrix ko fix.(awaiting confirmation that alternate fix in codebase worked; then will close the PR)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
