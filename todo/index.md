@@ -6,7 +6,7 @@ layout: default
 ### Expedited
 * oemr bank card (mail it out)
 * Upgrade demo farm(rollout after testing well on main devel demo)
-* Security fixes (graphing issue)
+* Security fixes (2/3 done; still graphing issue)
 * patch
 
 ### OpenEMR Code Reviews
