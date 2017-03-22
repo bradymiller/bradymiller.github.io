@@ -16,7 +16,6 @@ layout: default
 1. Rod access controls.
 1. Matrix new zend aco.(R to review)
 1. Matrix ko fix.(awaiting confirmation that alternate fix in codebase worked; then will close the PR)
-1. MD Support ros display update.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
 1. MD Support menu re-organization.
