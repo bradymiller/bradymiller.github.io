@@ -30,7 +30,6 @@ layout: default
 1. Kevin M. EDI module.(already committed into codebase, but need to go through each script and incorporate html escaping)
 1. MD Support PrevSetting.(already committed into codebase, but awaiting fix by MD Support)
 1. Ray site id bug fix.(awaiting Ray's testing)
-1. Matthew and Sherwin doctrine product registration.(work in progress)
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
