@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* oemr bank card (mail it out)
 * Upgrade demo farm(rollout after testing well on main devel demo)
 * Security fixes (2/3 done; still graphing issue)
 * patch
