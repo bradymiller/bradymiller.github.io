@@ -11,7 +11,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Jerry CCDA.(ongoing work)
 1. Stephen sql-upgrade fix.(M to review)
-1. Matrix ko fix.(awaiting confirmation that alternate fix in codebase worked; then will close the PR)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
 1. MD Support menu re-organization.
