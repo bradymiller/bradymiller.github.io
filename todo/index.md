@@ -9,7 +9,6 @@ layout: default
 * patch
 
 ### OpenEMR Code Reviews
-1. Jerry CCDA.(ongoing work)
 1. Sherwin WENO Rx.
 1. Matrix to patient in messages remove.(if agree with my plan, then I will do it)
 1. Stephen address with city selector.(M to review)
