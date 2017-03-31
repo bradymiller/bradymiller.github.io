@@ -10,6 +10,8 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Jerry CCDA.(ongoing work)
+1. Sherwin WENO Rx.
+1. Matrix to patient in messages remove.(if agree with my plan, then I will do it)
 1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -43,7 +45,6 @@ layout: default
 1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
-1. Sherwin WENO Rx.(reviewed; awaiting next revision) 
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
 1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
