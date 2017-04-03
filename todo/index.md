@@ -13,7 +13,6 @@ layout: default
 1. Matrix acl groups.
 1. Matrix session fix.
 1. Robert autoloader fix.
-1. Matrix to patient in messages remove.(if agree with my plan, then I will do it)
 1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
