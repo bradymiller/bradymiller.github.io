@@ -11,10 +11,11 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Sherwin WENO Rx.
+1. Sherwin drag/drop docs.
+1. MD Support gp relations upgrade.
 1. Matrix acl groups.
 1. Matrix session fix.
 1. Robert autoloader fix.
-1. Robert tabs css fix.
 1. Robert demographics gui improve.
 1. Robert procedure order form to bootstrap.
 1. Stephen sql-upgrade fix.(M to review)
