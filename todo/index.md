@@ -10,7 +10,9 @@ layout: default
 * new x-o package
 
 ### OpenEMR Code Reviews
+1. Matrix acl groups.
 1. MD Support gp relations upgrade.
+1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -32,10 +34,8 @@ layout: default
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
-1. Matrix acl groups.(reviewed by R and me; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Sherwin drag/drop docs.(reviewed; awaiting next revision)
-1. Robert autoloader fix.(reviewed; awaiting next revision)
 1. Robert demographics gui improve.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
