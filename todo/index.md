@@ -11,6 +11,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. MD Support gp relations upgrade.
+1. Robert practice settings ui improve.
 1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
