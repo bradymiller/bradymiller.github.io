@@ -8,6 +8,7 @@ layout: default
 * Security fixes (2/3 done; still graphing issue)
 * patch
 * new x-o package
+* minutes 3/8/17
 
 ### OpenEMR Code Reviews
 1. MD Support gp relations upgrade.(R is reviewing)
