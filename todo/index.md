@@ -11,7 +11,7 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
-1. Sherwin drag/drop docs.
+1. Sherwin drag/drop docs.(need to test to complete review if nobody else tests it)
 1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
