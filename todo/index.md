@@ -12,7 +12,6 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Stephen ICD10 fix.
-1. Stephen add mod to past encounter billing view.
 1. Sherwin drag/drop docs.
 1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
