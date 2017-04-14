@@ -7,7 +7,7 @@ layout: default
 * Upgrade demo farm(rollout after testing well on main devel demo)
 * Security fixes (2/3 done; still graphing issue)
 * patch
-* new x-o package
+* new x-o package (enable curl, mysql settings optimize)
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
