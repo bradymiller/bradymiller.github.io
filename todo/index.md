@@ -35,7 +35,6 @@ layout: default
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Stephen ICD10 fix.(reviewed; awaiting next revision)
-1. Robert practice settings ui improve.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Matrix acl groups.(reviewed; awaiting next revision)
