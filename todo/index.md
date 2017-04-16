@@ -10,7 +10,6 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
-1. Jerry portal fixes.
 1. Sherwin drag/drop docs.(R reviewing)
 1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
