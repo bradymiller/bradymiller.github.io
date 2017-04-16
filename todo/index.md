@@ -10,6 +10,7 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
+1. Jerry portal fixes.
 1. Sherwin drag/drop docs.(R reviewing)
 1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
@@ -33,8 +34,6 @@ layout: default
 1. Matthew and Sherwin doctrine facilities.(work in progress)
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
-1. Jerry portal fixes.(reviewed; awaiting next revision)
-1. Stephen ICD10 fix.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Matrix acl groups.(reviewed; awaiting next revision)
