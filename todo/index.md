@@ -14,6 +14,7 @@ layout: default
 1. Matthew faciliy doctrine (R and O to review).
 1. Robert auto fixed code.
 1. Rishabh drag/drop tabs.
+1. Sherwin WENO Rx.
 1. Sherwin drag/drop docs.
 1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
@@ -40,7 +41,6 @@ layout: default
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
-1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
