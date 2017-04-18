@@ -10,7 +10,11 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
-1. Sherwin drag/drop docs.(R reviewing)
+1. Matrix acl groups.
+1. Matthew faciliy doctrine (R and O to review).
+1. Robert auto fixed code.
+1. Rishabh drag/drop tabs.
+1. Sherwin drag/drop docs.
 1. Stephen osx support.
 1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
@@ -35,13 +39,11 @@ layout: default
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
-1. Matrix acl groups.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
-1. Rishabh drag/drop tabs.(reviewed; awaiting next revision)
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
