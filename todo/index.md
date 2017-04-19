@@ -13,7 +13,7 @@ layout: default
 1. Matrix acl groups.
 1. Matthew faciliy doctrine (R and O to review).
 1. Robert auto fixed code.
-1. Rishabh drag/drop tabs.
+1. Rishabh tabs improvements.
 1. Sherwin WENO Rx.
 1. Sherwin drag/drop docs.
 1. Stephen osx support.
