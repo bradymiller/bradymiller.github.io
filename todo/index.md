@@ -12,7 +12,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix acl groups.
 1. Robert demographics ui improve.
-1. Robert procedure order form to bootstrap.
 1. Rishabh tabs improvements.
 1. Sherwin WENO Rx.
 1. Sherwin drag/drop docs.
@@ -42,6 +41,7 @@ layout: default
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
+1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
