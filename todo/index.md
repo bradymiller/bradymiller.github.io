@@ -11,7 +11,8 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Matrix acl groups.
-1. Matthew faciliy doctrine (R and O to review).
+1. Victor chart doctrine (M to review)
+1. Matthew facility doctrine (R and O to review).
 1. Robert auto fixed code.
 1. Rishabh tabs improvements.
 1. Sherwin WENO Rx.
