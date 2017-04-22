@@ -11,6 +11,8 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
+1. Arnab statements filename patientname.
+1. Sherwin drag/drop docs.
 1. Rishabh tabs improvements.
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
@@ -39,7 +41,6 @@ layout: default
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
-1. Sherwin drag/drop docs.(reviewed; awaiting next revision)
 1. Matrix acl groups.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
