@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* patch (revert v pdf and new fixes)
 * Upgrade demo farm(rollout after testing well on main devel demo)
 * Security fixes (2/3 done; still graphing issue)
 * new x-o package (bring in Jerry's registration bug fix, mysql settings optimize)
