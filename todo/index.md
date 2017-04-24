@@ -9,7 +9,7 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
-1. Matrix acl groups.
+1. Matrix acl groups.(waiting for couple minor changes before pursue testing and merging into codebase)
 1. Arnab statements filename patientname.
 1. Sherwin drag/drop docs.
 1. Rishabh tabs improvements.
