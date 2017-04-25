@@ -11,7 +11,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Matrix acl groups.(waiting for couple minor changes before pursue testing and merging into codebase)
 1. Arnab statements filename patientname.
-1. Sherwin drag/drop docs.
 1. Rishabh tabs improvements.
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
