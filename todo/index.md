@@ -10,6 +10,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Sherwin WENO Rx.
+1. Jerry several things.
 1. Arnab statements filename patientname.
 1. Rishabh tabs improvements.
 1. Stephen osx support.
