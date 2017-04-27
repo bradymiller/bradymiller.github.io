@@ -9,8 +9,6 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
-1. Sherwin WENO Rx.
-1. Jerry several things.
 1. Arnab statements filename patientname.
 1. Rishabh tabs improvements.
 1. Stephen osx support.
@@ -39,6 +37,8 @@ layout: default
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
+1. Sherwin WENO Rx.(reviewed; awaiting next revision)
+1. Jerry several things.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
