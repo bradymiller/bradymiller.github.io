@@ -9,7 +9,7 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
-1. Robert encounter menu.
+1. Ranganath modern styling (email).
 1. Arnab statements filename patientname.
 1. Rishabh tabs improvements.
 1. Stephen osx support.
@@ -40,6 +40,7 @@ layout: default
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Jerry several things.(reviewed; awaiting next revision)
+1. Robert encounter menu.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
