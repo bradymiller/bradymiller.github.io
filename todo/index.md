@@ -9,6 +9,8 @@ layout: default
 * minutes 3/8/17
 
 ### OpenEMR Code Reviews
+1. Alfonso shell scripts (email)
+1. Alfonso demographics (email).
 1. Ranganath modern styling (email).
 1. Arnab statements filename patientname.
 1. Rishabh tabs improvements.
