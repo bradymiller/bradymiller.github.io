@@ -14,7 +14,6 @@ layout: default
 1. Ranganath modern styling (email).
 1. Jerry several things.
 1. Robert encounter menu.
-1. Matthew facility doctrine.
 1. Robert Amendments.
 1. Arnab statements filename patientname.
 1. Rishabh tabs improvements.
@@ -43,6 +42,7 @@ layout: default
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
+1. Matthew facility doctrine.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
