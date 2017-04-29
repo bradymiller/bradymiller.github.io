@@ -12,12 +12,15 @@ layout: default
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Ranganath modern styling (email).
+1. Jerry several things.
+1. Robert encounter menu.
+1. Matthew facility doctrine.
+1. Robert Amendments.
 1. Arnab statements filename patientname.
 1. Rishabh tabs improvements.
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
 1. Victor chart doctrine (M to review)
-1. Matthew facility doctrine (R and O to review).
 1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
@@ -41,8 +44,6 @@ layout: default
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
-1. Jerry several things.(reviewed; awaiting next revision)
-1. Robert encounter menu.(reviewed; awaiting next revision)
 1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
