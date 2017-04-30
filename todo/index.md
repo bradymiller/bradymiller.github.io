@@ -11,11 +11,11 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
-1. Ranganath modern styling (email).
+1. Ranganath modern styling.
 1. Jerry several things.
+1. Arnab statements filename patientname.(test why sql bindg mech broke and see if utf8 char stuff by matrix better)
 1. Robert encounter menu.
 1. Robert Amendments.
-1. Arnab statements filename patientname.
 1. Rishabh tabs improvements.
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
