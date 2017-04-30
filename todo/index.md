@@ -7,6 +7,7 @@ layout: default
 * Upgrade demo farm(rollout after testing well on main devel demo)
 * Security fixes (2/3 done; still graphing issue)
 * minutes 3/8/17
+* sql-upgrade fix.(in codebase. test extensively:b05e2c979eb482ebafda555e8b5fdb591cce7a5e )
 
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
@@ -20,7 +21,6 @@ layout: default
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
 1. Victor chart doctrine (M to review)
-1. Stephen sql-upgrade fix.(M to review)
 1. MD Support service providers improvements.(R to review)
 1. Ray menu improvements.
 1. MD Support menu re-organization.
