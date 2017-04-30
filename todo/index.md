@@ -13,7 +13,6 @@ layout: default
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Ranganath modern styling.
-1. Arnab statements filename patientname.(test why sql bindg mech broke and see if utf8 char stuff by matrix better)
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
