@@ -13,7 +13,6 @@ layout: default
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Ranganath modern styling.
-1. Jerry several things.
 1. Arnab statements filename patientname.(test why sql bindg mech broke and see if utf8 char stuff by matrix better)
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
@@ -40,6 +39,7 @@ layout: default
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
+1. Jerry several things.(reviewed; awaiting next revision)
 1. Robert Amendments.(reviewed; awaiting next revision)
 1. Robert encounter menu.(reviewed; awaiting next revision)
 1. Matthew facility doctrine.(reviewed; awaiting next revision)
