@@ -12,7 +12,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
-1. Jerry several things.
 1. Ranganath modern styling.
 1. Robert encounter menu.
 1. Rishabh tabs improvements.(M reviewing)
