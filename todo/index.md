@@ -12,6 +12,8 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
+1. Matrix encounter acl fix.
+1. Sherwin max record fix.
 1. Ranganath modern styling.
 1. Robert encounter menu.
 1. Rishabh tabs improvements.(M reviewing)
