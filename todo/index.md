@@ -12,7 +12,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
-1. Sherwin max pid thing.
 1. Matrix encounter acl fix.
 1. Ranganath modern styling.
 1. Rishabh tabs improvements.(M reviewing)
@@ -39,6 +38,7 @@ layout: default
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
+1. Sherwin max pid thing.(reviewed; awaiting next revision)
 1. Robert Amendments.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
