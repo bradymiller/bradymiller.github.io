@@ -13,9 +13,7 @@ layout: default
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Matrix encounter acl fix.
-1. Sherwin max record fix.
 1. Ranganath modern styling.
-1. Robert encounter menu.
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
@@ -42,7 +40,6 @@ layout: default
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Robert Amendments.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
-1. Robert procedure order form to bootstrap.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. Roberto rf2 snomed.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
