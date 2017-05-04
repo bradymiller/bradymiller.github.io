@@ -12,6 +12,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
+1. Sherwin max pid thing.
 1. Matrix encounter acl fix.
 1. Ranganath modern styling.
 1. Rishabh tabs improvements.(M reviewing)
