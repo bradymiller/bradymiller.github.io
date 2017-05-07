@@ -11,6 +11,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
+1. Roberto rf2 snomed.
 1. Ranganath modern styling (also fee sheet recently added; pending incorporate in master until fix current fee sheet styling bugs).
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
@@ -40,7 +41,6 @@ layout: default
 1. Robert Amendments.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
-1. Roberto rf2 snomed.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
 1. Sherwin update ROS form.(reviewed; awaiting next revision)
