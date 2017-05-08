@@ -11,6 +11,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
+1. Visolve doc fix.(waiting for the PR request)
 1. Roberto rf2 snomed.
 1. Ranganath modern styling (also fee sheet recently added; pending incorporate in master until fix current fee sheet styling bugs).
 1. Rishabh tabs improvements.(M reviewing)
