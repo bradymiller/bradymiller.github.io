@@ -76,6 +76,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
+1. Add SG also as a regular member.
 1. Add MACRA,MU,MIPS,PQRS to Education.
 1. Join OSI.
 1. Set up OEMR secrets (via M. email)
