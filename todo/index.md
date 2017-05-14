@@ -12,7 +12,6 @@ layout: default
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
-1. Robert central ui improvements.
 1. Roberto rf2 snomed.
 1. Ranganath modern styling (also fee sheet recently added; pending incorporate in master until fix current fee sheet styling bugs).
 1. Rishabh tabs improvements.(M reviewing)
@@ -40,6 +39,7 @@ layout: default
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Robert user ui improvements.(reviewed; awaiting next revision)
+1. Robert central ui improvements.(reviewed; awaiting next revision)
 1. Robert Amendments.(reviewed; awaiting next revision)
 1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
