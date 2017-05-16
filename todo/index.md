@@ -11,7 +11,6 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
-1. Robert header asset class.
 1. Visolve gender stuff.
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
 1. Roberto rf2 snomed.
@@ -40,6 +39,8 @@ layout: default
 1. Sherwin portal invoice.(work in progress; may not pursue because of the new portal)
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
+1. Robert header asset class.(reviewed; awaiting next revision)
+1. Venkat email statement.(reviewed; awaiting next revision)
 1. Robert user ui improvements.(reviewed; awaiting next revision)
 1. Robert central ui improvements.(reviewed; awaiting next revision)
 1. Robert Amendments.(reviewed; awaiting next revision)
