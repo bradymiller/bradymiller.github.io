@@ -11,6 +11,7 @@ layout: default
 ### OpenEMR Code Reviews
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
+1. Sherwin WENO Rx.
 1. Visolve gender stuff.
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
 1. Roberto rf2 snomed.
@@ -44,7 +45,6 @@ layout: default
 1. Robert user ui improvements.(reviewed; awaiting next revision)
 1. Robert central ui improvements.(reviewed; awaiting next revision)
 1. Robert Amendments.(reviewed; awaiting next revision)
-1. Sherwin WENO Rx.(reviewed; awaiting next revision)
 1. Robert demographics ui improve.(reviewed; awaiting next revision)
 1. A1Gard procedure activity.(reviewed; awaiting next revision)
 1. Ray encounter provider selector.(reviewed; awaiting next revision)
