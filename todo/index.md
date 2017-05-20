@@ -41,7 +41,6 @@ layout: default
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Robert header asset class.(reviewed; awaiting next revision)
-1. Venkat email statement.(reviewed; awaiting next revision)
 1. Robert user ui improvements.(reviewed; awaiting next revision)
 1. Robert central ui improvements.(reviewed; awaiting next revision)
 1. Robert Amendments.(reviewed; awaiting next revision)
