@@ -15,7 +15,8 @@ layout: default
 1. Visolve gender stuff.
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
 1. Roberto rf2 snomed.
-1. Ranganath modern styling (also fee sheet recently added; pending incorporate in master until fix current fee sheet styling bugs).
+1. Robert bootstrap (lots of good stuff).
+1. Ranganath modern styling (lots of good stuff).
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
