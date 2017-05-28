@@ -9,6 +9,7 @@ layout: default
 * sql-upgrade fix.(in codebase. test extensively:b05e2c979eb482ebafda555e8b5fdb591cce7a5e )
 
 ### OpenEMR Code Reviews
+1. Ranganath modern styling (lots of good stuff).
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Sherwin WENO Rx.
@@ -16,7 +17,6 @@ layout: default
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
 1. Roberto rf2 snomed.
 1. Robert bootstrap (lots of good stuff).
-1. Ranganath modern styling (lots of good stuff).
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
 1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
