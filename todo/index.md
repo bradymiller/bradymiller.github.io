@@ -10,6 +10,8 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Ranganath modern styling (lots of good stuff).
+1. MDSupport datetimepicker mechanism.
+1. Roberto export script bootstrap.
 1. venambati statement combined pdf fix.
 1. Sherwin bootstrap dictation form.
 1. Alfonso shell scripts (email)
@@ -44,7 +46,6 @@ layout: default
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Robert timeline.(work in progress)
-1. Roberto bootstrap.(reviewed; awaiting next revision)
 1. Venkat billing fix.(reviewed; awaiting next revision)
 1. Robert user ui improvements.(reviewed; awaiting next revision)
 1. Robert central ui improvements.(reviewed; awaiting next revision)
