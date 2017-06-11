@@ -10,7 +10,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Ranganath modern styling (lots of good stuff).
-1. venambati billing combined pdf fix.
+1. venambati statement combined pdf fix.
 1. Sherwin bootstrap dictation form.
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
