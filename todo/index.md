@@ -10,15 +10,16 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Ranganath modern styling (lots of good stuff).
-1. MDSupport datetimepicker mechanism.
-1. venambati statement combined pdf fix.
+1. Sherwin WENO Rx.
 1. Sherwin bootstrap dictation form.
+1. Roberto bootstrap education screen.
+1. venambati statement combined pdf fix.
+1. Roberto rf2 snomed.
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
-1. Sherwin WENO Rx.
 1. Visolve gender stuff.
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
-1. Roberto rf2 snomed.
+1. MDSupport datetimepicker mechanism.
 1. Robert bootstrap (lots of good stuff).
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
