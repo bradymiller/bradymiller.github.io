@@ -9,6 +9,7 @@ layout: default
 * sql-upgrade fix.(in codebase. test extensively:b05e2c979eb482ebafda555e8b5fdb591cce7a5e )
 
 ### OpenEMR Code Reviews
+1. Ray medex.
 1. Ranganath modern styling (lots of good stuff).
 1. MD Support patient tracker upgrade.
 1. Sherwin WENO Rx.
