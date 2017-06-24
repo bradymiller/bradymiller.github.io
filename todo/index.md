@@ -10,6 +10,7 @@ layout: default
 
 ### OpenEMR Code Reviews
 1. Ranganath modern styling (lots of good stuff).
+1. MD Support patient tracker upgrade.
 1. Sherwin WENO Rx.
 1. Sherwin bootstrap dictation form.
 1. Roberto bootstrap education screen.
@@ -46,6 +47,7 @@ layout: default
 1. Matrix sort pubpid.(awaiting reply to my question)
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Robert timeline.(work in progress)
+1. Robert default encounter category.(work in progress)
 1. Roberto import bootstrap.(reviewed; awaiting next revision)
 1. Venkat billing fix.(reviewed; awaiting next revision)
 1. Robert user ui improvements.(reviewed; awaiting next revision)
