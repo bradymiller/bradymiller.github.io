@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 * Upgrade demo farm(rollout after testing well on main devel demo)
-* Security fixes (2/3 done; still graphing issue which is not in main codebase) (0/4 done) (0/? done)
+* Security fixes (2/4 done)
 * sql-upgrade fix.(in codebase. test extensively:b05e2c979eb482ebafda555e8b5fdb591cce7a5e )
 
 ### OpenEMR Code Reviews
