@@ -11,17 +11,15 @@ layout: default
 ### OpenEMR Code Reviews
 1. Ray medex.
 1. Ranganath modern styling (lots of good stuff).
-1. MD Support patient tracker upgrade.
+1. MD Support datetime picker improvements.
 1. Sherwin WENO Rx.
 1. Sherwin bootstrap dictation form.
-1. Roberto bootstrap education screen.
 1. venambati statement combined pdf fix.
 1. Roberto rf2 snomed.
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Visolve gender stuff.
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
-1. MDSupport datetimepicker mechanism.
 1. Robert bootstrap (lots of good stuff).
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
@@ -49,7 +47,6 @@ layout: default
 1. Arnab and Jerry xmlformgen pdf fix.(work in progress)
 1. Robert timeline.(work in progress)
 1. Robert default encounter category.(work in progress)
-1. Roberto import bootstrap.(reviewed; awaiting next revision)
 1. Venkat billing fix.(reviewed; awaiting next revision)
 1. Robert user ui improvements.(reviewed; awaiting next revision)
 1. Robert central ui improvements.(reviewed; awaiting next revision)
@@ -61,7 +58,6 @@ layout: default
 1. Visolve address book.(reviewed; awaiting next revision)
 1. Terry annotate form.(reviewed; awaiting next revision)
 1. Scott html2pdf removal.(images not working on testing; awaiting a response)
-1. MD Support lef_nav arrow to hide/show.(reviewed; awaiting next revision and response from MD Support)
 1. Scott js and css organization.(reviewed; awaiting response from Scott)
 1. Craig Codes gui update.(Rod reviewed; awaiting response from Craig)
 1. Scott path uppercase cleanup.
