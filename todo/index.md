@@ -4,29 +4,22 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Security fixes (2/4 done)
+* Security fixes (3/5 done)(release xampp/openemr package with most recent patch)
 * sql-upgrade fix.(in codebase. test extensively:b05e2c979eb482ebafda555e8b5fdb591cce7a5e )
 
 ### OpenEMR Code Reviews
 1. Ray medex.
-1. Ranganath modern styling (lots of good stuff).
-1. MD Support datetime picker improvements.
-1. Sherwin WENO Rx.
-1. Sherwin bootstrap dictation form.
+1. Ranganath modern styling.
+1. Sherwin WYSIWYG editor for dictation form.
 1. venambati statement combined pdf fix.
 1. Roberto rf2 snomed.
 1. Alfonso shell scripts (email)
 1. Alfonso demographics (email).
 1. Visolve gender stuff.
 1. Sherwin max pid thing.(R plans to confirm the original bug first before bringing into codebase)
-1. Robert bootstrap (lots of good stuff).
 1. Rishabh tabs improvements.(M reviewing)
 1. Stephen osx support.
-1. Robert auto fixed code.(work in progress; need to identify the 3rd party scripts so ignore them)
-1. Victor chart doctrine (M to review)
 1. MD Support service providers improvements.(R to review)
-1. Ray menu improvements.
-1. MD Support menu re-organization.
 1. Sherwin labs form.
 1. MD Support tabs improvement.(made a demo and waiting for Ra input)
 1. MD Support encounter form order display.
@@ -69,25 +62,19 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
-1. Upgrade demo farm from Ubuntu 12.04 to 14.04/16.04. (rollout after testing well on main development demo)
-1. remove need for demo ports via reverse proxy
 1. Need to add --link to the rsync command for demo scripts; note demos may of died after doing this, so need to do trial first)
 1. For packages also need to figure out if need to deal with links in composer bin (like the --link issue in demos)
 1. Continue security fixes.
 1. Fix most recent Certified Contributor entry and V entry.
-1. Website google analytics on main page (already in wiki).
-1. Migrate website to server(likely aws) that can support SSL(either in aws if use load balancer or vie 'Let's Encrypt' service); also migrating automated server scripts.
+1. Migrate website to server(likely aws) that can support SSL(either in aws if use load balancer or vie 'Let's Encrypt' service).
 1. For composer, research if will need to use --copy-links rather than --link to ensure vendor/bin softlinks work on windows(copy-links copies the actual file rathe than the link to the file)(also need to ensure --link doesn't break anything since it may of broken the demo scripts).
-1. Fix demo farm to not start apache until the entire install is done.(note no longer need to start apache earlier since the appliance serving the development translations is not pulling the translations from itself anymore)
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
-1. Add SG also as a regular member.
 1. Add MACRA,MU,MIPS,PQRS to Education.
 1. Join OSI.
 1. Set up OEMR secrets (via M. email)
 1. Find a lawyer for revocation issues
-1. Revocation protest (turned in by Treasurer; has been forwarded to appeals and awaiting reply).
 1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
 1. Confirm registered agent and USPS address change.
 1. New OEMR logo(have budget of $100).
