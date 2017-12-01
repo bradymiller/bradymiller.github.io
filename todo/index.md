@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Security fixes (3/5 done)(release xampp/openemr package with most recent patch)
+* Security fixes (4/5 done)
 * sql-upgrade fix.(in codebase. test extensively:b05e2c979eb482ebafda555e8b5fdb591cce7a5e )
 
 ### OpenEMR Code Reviews
