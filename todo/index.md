@@ -7,7 +7,6 @@ layout: default
 * sql-upgrade fix.(in codebase. test extensively:b05e2c979eb482ebafda555e8b5fdb591cce7a5e )
 
 ### OpenEMR Code Reviews
-1. Ray medex.
 1. Ranganath modern styling.
 1. Sherwin WYSIWYG editor for dictation form.
 1. venambati statement combined pdf fix.
@@ -63,9 +62,6 @@ layout: default
 ### OpenEMR Project Admin
 1. Need to add --link to the rsync command for demo scripts; note demos may of died after doing this, so need to do trial first)
 1. For packages also need to figure out if need to deal with links in composer bin (like the --link issue in demos)
-1. Continue security fixes.
-1. Fix most recent Certified Contributor entry and V entry.
-1. Migrate website to server(likely aws) that can support SSL(either in aws if use load balancer or vie 'Let's Encrypt' service).
 1. For composer, research if will need to use --copy-links rather than --link to ensure vendor/bin softlinks work on windows(copy-links copies the actual file rathe than the link to the file)(also need to ensure --link doesn't break anything since it may of broken the demo scripts).
 1. Upgrade wiki (mediawiki) to most recent version.
 
@@ -73,17 +69,13 @@ layout: default
 1. Add MACRA,MU,MIPS,PQRS to Education.
 1. Join OSI.
 1. Set up OEMR secrets (via M. email)
-1. Find a lawyer for revocation issues
-1. Taxes (2015 turned in by Treasurer, although likely not needed until revocation complete).
-1. Confirm registered agent and USPS address change.
 1. New OEMR logo(have budget of $100).
 1. Budget.
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
-1. Discuss with board regarding settings aside funds for under-represented clinics and other charitable organizations.
 
 ### OpenEMR Next Release
-1. Issue - (for development and 5.0.1 ubuntu package also need to add --link to the rsync command; ensure --link doesn't break anything since it may of broken the demo scripts)
-1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing). Also will likely need nodejs (currently testing).
+1. Issue - (for development and 5.0.1 ubuntu package also may need to add --link to the rsync command; ensure --link doesn't break anything since it may of broken the demo scripts)
+1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing). Also may likely need nodejs (currently testing). REMOVE php-mcrypt from PHP7 packages! And ensure php-openssl is supported out of box in ubuntu php5/7 packages; also need to ensure supported in 5.0.0/dev dockers and demo farm dockers.
 1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
 1. New ubuntu and xampp php settings to change to(for 5.0.1): max_input_time = -1 , memory_limit = 512M
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
