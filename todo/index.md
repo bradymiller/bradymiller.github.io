@@ -75,7 +75,7 @@ layout: default
 
 ### OpenEMR Next Release
 1. Issue - (for development and 5.0.1 ubuntu package also may need to add --link to the rsync command; ensure --link doesn't break anything since it may of broken the demo scripts)
-1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing). Also may likely need nodejs (currently testing). REMOVE php-mcrypt from PHP7 packages! And ensure php-openssl is supported out of box in ubuntu php5/7 packages; also need to ensure supported in 5.0.0/dev dockers and demo farm dockers.
+1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing). Also may likely need nodejs (currently testing). REMOVE php-mcrypt from PHP7 packages!; also remove from 5.0.1/dev docker and docker farm.
 1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
 1. New ubuntu and xampp php settings to change to(for 5.0.1): max_input_time = -1 , memory_limit = 512M
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
