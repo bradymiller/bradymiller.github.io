@@ -76,7 +76,7 @@ layout: default
 ### OpenEMR Next Release
 1. Issue - (for development and 5.0.1 ubuntu package also may need to add --link to the rsync command; ensure --link doesn't break anything since it may of broken the demo scripts)
 1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing). Also may likely need nodejs (currently testing). ENSURED REMOVED php-mcrypt from PHP7 packages!
-1. Remove php-mycrypt from pertinent docker farm (newest alpine and ubuntu 18.04). Ensure php-openssl working in ubuntu packages, all dockers (add to all alpines in docker farm and ensure works out of box in ubuntus), and in xampp package.(test log encryption and doc encryption to ensure it's working on all platforms)
+1. Ensure php-openssl working in ubuntu packages, all dockers (official dockers (except 5.0.0), all alpines in docker farm and ensure works out of box in ubuntus, especially 18.04), and in xampp package.(test log encryption and doc encryption to ensure it's working on all platforms)
 1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
 1. New ubuntu and xampp php settings to change to(for 5.0.1): max_input_time = -1 , memory_limit = 512M
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
