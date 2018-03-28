@@ -60,9 +60,6 @@ layout: default
 1. Sherwin prior auth form (pending issue by Rod).
 
 ### OpenEMR Project Admin
-1. Need to add --link to the rsync command for demo scripts; note demos may of died after doing this, so need to do trial first)
-1. For packages also need to figure out if need to deal with links in composer bin (like the --link issue in demos)
-1. For composer, research if will need to use --copy-links rather than --link to ensure vendor/bin softlinks work on windows(copy-links copies the actual file rathe than the link to the file)(also need to ensure --link doesn't break anything since it may of broken the demo scripts).
 1. Upgrade wiki (mediawiki) to most recent version.
 
 ### OEMR Organization
@@ -74,7 +71,6 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
 
 ### OpenEMR Next Release
-1. Issue - (for development and 5.0.1 ubuntu package also may need to add --link to the rsync command; ensure --link doesn't break anything since it may of broken the demo scripts)
 1. New ubuntu dependencies(for 5.0.1): php-ldap (this is already in the development package (version 7) for testing). Also may likely need nodejs (currently testing). ENSURED REMOVED php-mcrypt from PHP7 packages!
 1. Ensure php-openssl working in ubuntu packages, all dockers (official dockers (except 5.0.0), all alpines in docker farm and ensure works out of box in ubuntus, especially 18.04), and in xampp package.(test log encryption and doc encryption to ensure it's working on all platforms)
 1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
