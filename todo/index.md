@@ -21,7 +21,6 @@ layout: default
 1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
 
 ### OpenEMR Next Release
-1. Ensure php-openssl working in ubuntu packages, all dockers (official dockers (except 5.0.0), all alpines in docker farm and ensure works out of box in ubuntus, especially 18.04), and in xampp package.(test log encryption and doc encryption to ensure it's working on all platforms). demo farm docker 16.04, 18.04, 3.7 on 5.0.1 passed; ...
-1. New ubuntu and xampp php settings to change to(for 5.0.1): max_input_time = -1 (done in ubuntu and need to test) , memory_limit = 512M (done in ubuntu and need to test)
+1. Ensure php-openssl working xampp package.(test log encryption and doc encryption to ensure it's working on all platforms).
 1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
