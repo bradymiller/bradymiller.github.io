@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Release 5.0.1
+* Release 5.0.1 with patch 1
 
 ### OpenEMR Code Reviews
 1. https://github.com/openemr/openemr/pulls
