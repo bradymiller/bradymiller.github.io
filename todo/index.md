@@ -10,6 +10,10 @@ layout: default
 ### OpenEMR Code Reviews
 1. https://github.com/openemr/openemr/pulls
 
+### OpenEMR Issues
+[5.0.1](https://github.com/openemr/openemr/milestone/4)
+[5.0.2](https://github.com/openemr/openemr/milestone/2)
+
 ### OpenEMR Project Admin
 1. Upgrade wiki (mediawiki) to most recent version.(R working on)
 
