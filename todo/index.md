@@ -5,7 +5,6 @@ layout: default
 
 ### Expedited
 * Release 5.0.1 with patch 1 (only xampp package is left to do)
-* Patch 2
 
 ### OpenEMR Code Reviews
 1. https://github.com/openemr/openemr/pulls
