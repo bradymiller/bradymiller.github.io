@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 * Release 5.0.1 with patch 1 (only xampp package is left to do)
 * Developer docker readme (bring back prior and make edits) and blog post.
+* Cloud everything PR/Blog
 
 ### OpenEMR Code Reviews
 1. https://github.com/openemr/openemr/pulls
