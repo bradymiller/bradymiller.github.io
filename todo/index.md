@@ -18,12 +18,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.(R working on)
 
 ### OEMR Organization
-1. Add MACRA,MU,MIPS,PQRS to Education.
-1. Join OSI.
-1. Set up OEMR secrets (via M. email)
-1. New OEMR logo(have budget of $100).
-1. Budget.
-1. Fund-raising(options are donations grants, crowd-sourcing etc; d/w L regarding crowd-sourcing and many more).
+1. Restrucuring
 
 ### OpenEMR Next Release
 1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
