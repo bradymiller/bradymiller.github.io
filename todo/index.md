@@ -18,7 +18,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.(R working on)
 
 ### OEMR Organization
-1. Restrucuring
+1. Restructuring
 
 ### OpenEMR Next Release
 1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
