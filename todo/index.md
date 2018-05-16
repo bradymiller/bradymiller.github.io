@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Release 5.0.1 with patch 1 (only xampp package is left to do)
+* Release 5.0.1 patch 3 (mysql8 fixes and will rebuild packages)
 * Cloud everything PR/Blog
 
 ### OpenEMR Code Reviews
