@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Release 5.0.1 patch 3 (mysql8 fixes(ensure test ok on all 4 database configurations) and will rebuild packages)
+* Release 5.0.1 patch 3 (mysql8 fixes(ensure test ok on all 4 database configurations) and will rebuild packages; awaiting times to see if get a fix for session issues)
 * Cloud everything PR/Blog
 
 ### OpenEMR Code Reviews
