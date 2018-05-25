@@ -4,9 +4,8 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* mysql8 make new user bug fix
-* session bug fix
-* Release 5.0.1 patch 3 (mysql8 fixes(ensure test ok on all 4 database configurations and localhost) and will rebuild packages; awaiting times to get fix for above mysql 8 user and the session issues)
+* CAMOS escaping bugs
+* Release 5.0.1 patch 3
 * Cloud everything PR/Blog
 * couchdb ssl
 
