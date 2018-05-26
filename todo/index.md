@@ -8,6 +8,7 @@ layout: default
 * Release 5.0.1 patch 3
 * Cloud everything PR/Blog
 * couchdb ssl
+* snomed rf2
 
 ### OpenEMR Code Reviews
 1. https://github.com/openemr/openemr/pulls
