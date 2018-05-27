@@ -6,7 +6,7 @@ layout: default
 ### Expedited
 * Release patch 3 for 5.0.1
 * Cloud everything PR/Blog
-* Release 5.0.1.3 packages
+* Release 5.0.1.3 packages (docker, tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
 * CAMOS escaping bugs
 * couchdb ssl
 * snomed rf2
