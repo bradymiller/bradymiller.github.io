@@ -4,15 +4,16 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Release patch 3 for 5.0.1
-* Cloud everything PR/Blog
-* Release 5.0.1.3 packages (docker, tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
-* snomed rf2
-* CAMOS escaping bugs
-* couchdb ssl
-* phpunit
-* MIPS research
-* MU3 research
+1. Release patch 3 for 5.0.1
+1. Cloud everything PR/Blog
+1. Release 5.0.1.3 packages (docker, tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
+1. snomed rf2
+1. CAMOS escaping bugs
+1. couchdb ssl
+1. apache 2.2 updates
+1. phpunit
+1. MIPS research
+1. MU3 research
 
 
 ### OpenEMR Code Reviews
