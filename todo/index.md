@@ -4,8 +4,9 @@ layout: default
 ## TODO lists
 
 ### Expedited
-* Release 5.0.1 patch 3
+* Release patch 3 for 5.0.1
 * Cloud everything PR/Blog
+* Release 5.0.1.3 packages
 * CAMOS escaping bugs
 * couchdb ssl
 * snomed rf2
