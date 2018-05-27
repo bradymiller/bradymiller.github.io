@@ -7,10 +7,13 @@ layout: default
 * Release patch 3 for 5.0.1
 * Cloud everything PR/Blog
 * Release 5.0.1.3 packages (docker, tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
+* snomed rf2
 * CAMOS escaping bugs
 * couchdb ssl
-* snomed rf2
 * phpunit
+* MIPS research
+* MU3 research
+
 
 ### OpenEMR Code Reviews
 1. https://github.com/openemr/openemr/pulls
