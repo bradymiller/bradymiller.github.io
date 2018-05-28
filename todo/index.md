@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. Release patch 3 for 5.0.1 (after squash the mysql new user bug)
+1. Release patch 3 for 5.0.1
 1. Cloud everything PR/Blog
 1. Release 5.0.1.3 packages (docker, tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
 1. snomed rf2
