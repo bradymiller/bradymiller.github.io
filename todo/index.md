@@ -4,9 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. Release patch 3 for 5.0.1
-1. Cloud everything PR/Blog
-1. Release 5.0.1.3 packages (docker, tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
+1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
 1. snomed rf2
 1. CAMOS escaping bugs
 1. couchdb ssl
