@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. Rebuild all dockers
 1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
 1. snomed rf2
 1. CAMOS escaping bugs
