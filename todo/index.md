@@ -15,7 +15,7 @@ layout: default
 
 
 ### OpenEMR Code Reviews
-1. https://github.com/openemr/openemr/pulls
+1. [Pull Requests](https://github.com/openemr/openemr/pulls)
 
 ### OpenEMR Issues
 * [High Priority](https://github.com/openemr/openemr/milestone/2)
