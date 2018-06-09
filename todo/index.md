@@ -10,7 +10,6 @@ layout: default
 1. couchdb ssl
 1. apache 2.2 updates
 1. phpunit
-1. add working nginx/php-fpm dockers to docker dev environment
 1. MIPS research
 1. MU3 research
 
