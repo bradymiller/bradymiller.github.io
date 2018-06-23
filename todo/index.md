@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
 1. Finalize nginx/php-fpm solution and get the demo docker-compose working
+1. Add hylafax docker
 1. snomed rf2
 1. CAMOS escaping bugs
 1. couchdb ssl
