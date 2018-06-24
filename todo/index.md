@@ -6,6 +6,7 @@ layout: default
 ### Expedited
 1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix
+1. swarms away (nginx*3 and php-fpm*3)
 1. Add hylafax docker
 1. snomed rf2
 1. CAMOS escaping bugs
