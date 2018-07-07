@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. fill out mu2 sheet
 1. PR for google cloud launcher
 1. fill out infogard sheet for pricing
 1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
