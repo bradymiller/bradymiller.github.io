@@ -4,6 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
+1. security fixes
 1. Blog post for google cloud launcher
 1. fill out infogard sheet for pricing
 1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
