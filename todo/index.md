@@ -4,11 +4,11 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. security fixes
-1. Will not add node and/or nodejs on 5.0.2 dockers (and remove from flex dockers when new system in place)
+1. security fixes and release patch 4
+1. Release 5.0.1.4 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace, google launcher)
+1. Will not add node and/or nodejs on 5.0.2 dockers (and remove from flex dockers when the new package system is in place); this is because composer will offer the node service.
 1. Blog post for google cloud launcher
 1. fill out infogard sheet for pricing
-1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix
 1. snomed rf2
 1. CAMOS escaping bugs
