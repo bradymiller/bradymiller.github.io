@@ -5,7 +5,7 @@ layout: default
 
 ### Expedited
 1. security fixes
-1. Fix demos (some of one and six are not working)
+1. Add node and/or nodejs on 5.0.2 dockers
 1. Blog post for google cloud launcher
 1. fill out infogard sheet for pricing
 1. Release 5.0.1.3 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace)
