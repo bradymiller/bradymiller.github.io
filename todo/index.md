@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. Release 5.0.1.4 packages (docker(DONE), tar, zip, ubuntu, xampp, appliance, express/standard aws marketplace, google launcher)
+1. Release 5.0.1.4 packages (docker(DONE), tar(DONE), zip(DONE), ubuntu, xampp, appliance, express/standard aws marketplace, google launcher)
 1. composer/npm build infrastructure (all that is left is ubuntu demo farm dockers and then the ubuntu deb development package)
 1. Blog post for google cloud launcher
 1. fill out infogard sheet for pricing
