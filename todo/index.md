@@ -10,6 +10,7 @@ layout: default
 1. Blog post for google cloud launcher
 1. fill out infogard sheet for pricing
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix
+1. docker demo farm option to randomly choose a theme
 1. snomed rf2
 1. CAMOS escaping bugs
 1. couchdb ssl
