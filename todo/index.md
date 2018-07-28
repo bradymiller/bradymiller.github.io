@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. Release 5.0.1.4 packages (docker(DONE), tar(DONE), zip(DONE), ubuntu, xampp, appliance(DONE), express(DONE)/standard aws marketplace, google launcher)
+1. Release 5.0.1.4 packages (docker(DONE), tar(DONE), zip(DONE), ubuntu(DONE), xampp, appliance(DONE), express(DONE)/standard aws marketplace, google launcher)
 1. Remove sql_patch.php files from the official dockers.
 1. composer/npm build infrastructure (all that is left is ubuntu demo farm dockers and then the ubuntu deb development package)
 1. Blog post for google cloud launcher
