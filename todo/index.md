@@ -9,7 +9,7 @@ layout: default
 1. composer/npm build infrastructure (all that is left is ubuntu demo farm dockers and then the ubuntu deb development package)
 1. Blog post for google cloud launcher
 1. fill out infogard sheet for pricing
-1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix
+1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix (after do this, can then update the 5.0.1 docker to support swarm)
 1. docker demo farm option to randomly choose a theme
 1. snomed rf2
 1. CAMOS escaping bugs
