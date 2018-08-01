@@ -5,7 +5,6 @@ layout: default
 
 ### Expedited
 1. Release 5.0.1.4 packages (docker(DONE), tar(DONE), zip(DONE), ubuntu(DONE), xampp(TESTING PACKAGE), appliance(DONE), express(DONE)/standard(SUBMITTED) aws marketplace, google launcher(SUBMITTED))
-1. Remove sql_patch.php files from the official dockers.
 1. CSRF exploits analysis, plan, and then implement.
 1. composer/npm build infrastructure (all that is left is ubuntu demo farm dockers and then the ubuntu deb development package)
 1. Blog post for google cloud launcher
