@@ -4,12 +4,13 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. blog post
+1. security *2
+1. fill out infogard sheet for pricing
+1. blog post (awaiting r input)
 1. new translators
 1. CSRF exploits analysis, plan, and then implement.
 1. composer/npm build infrastructure (all that is left is ubuntu demo farm dockers and then the ubuntu deb development package)
 1. Blog post for google cloud launcher
-1. fill out infogard sheet for pricing
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix (after do this, can then update the 5.0.1 docker to support swarm)
 1. snomed rf2
 1. CAMOS escaping bugs
