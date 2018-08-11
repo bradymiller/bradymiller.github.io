@@ -4,6 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
+1. remove admin.php from the docker
 1. security *2
 1. fill out infogard sheet for pricing
 1. blog post (awaiting r input)
