@@ -5,6 +5,7 @@ layout: default
 
 ### Expedited
 1. remove admin.php from the docker
+1. make whitelist docs default (add standard entries and fix whitescreen bug)
 1. security *2 (on 1 at si entry)
 1. fill out infogard sheet for pricing
 1. blog post (awaiting r input)
