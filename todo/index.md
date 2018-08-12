@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. remove admin.php from the docker
 1. security *2 (ck done; other at si entry)
 1. Release patch 5 and build 5.0.1.5 packages
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
