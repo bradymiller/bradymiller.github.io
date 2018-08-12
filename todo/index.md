@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. security *2 (ck done; other at si entry)
+1. security *3 (ck done; other at si entry; csrf w/ manage_site...)
 1. Release patch 5 and build 5.0.1.5 packages
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
 1. CSRF implement ongoing.
