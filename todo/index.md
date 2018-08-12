@@ -8,7 +8,7 @@ layout: default
 1. security *2 (ck done; other at si entry)
 1. Release patch 5 and build 5.0.1.5 packages
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
-1. CSRF exploits analysis, plan, and then implement.
+1. CSRF implement ongoing.
 1. fill out infogard sheet for pricing
 1. blog post (awaiting r input)
 1. new translators
