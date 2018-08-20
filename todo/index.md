@@ -4,8 +4,7 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. security *3 (l done; ck done; other only si entry left)
-1. Release patch 5 and build 5.0.1.5 packages
+1. Build and release 5.0.1.5 packages
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
 1. CSRF implementation ongoing (bringing into 5.0.1 patches also).
 1. fill out infogard sheet for pricing
