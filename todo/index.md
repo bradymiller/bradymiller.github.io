@@ -6,7 +6,7 @@ layout: default
 ### Expedited
 1. Build and release 5.0.1.5 packages
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
-1. CSRF implementation ongoing (bringing into 5.0.1 patches also).
+1. CSRF implementation ongoing.
 1. fill out infogard sheet for pricing
 1. blog post (awaiting r input)
 1. new translators
