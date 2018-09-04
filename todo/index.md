@@ -4,8 +4,8 @@ layout: default
 ## TODO lists
 
 ### Expedited
-1. Build and release 5.0.1.5 packages
-1. CAMOS escaping bugs
+1. Patch 6
+1. Build and release 5.0.1.6 packages
 1. blog post by r
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
 1. CSRF implementation ongoing.
