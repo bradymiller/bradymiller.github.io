@@ -7,6 +7,7 @@ layout: default
 1. Patch 6
 1. Build and release 5.0.1.6 packages
 1. blog post by r
+1. oe-blue-button-generate
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
 1. CSRF implementation ongoing.
 1. fill out infogard sheet for pricing
