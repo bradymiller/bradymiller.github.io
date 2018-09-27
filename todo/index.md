@@ -5,11 +5,10 @@ layout: default
 
 ### Expedited
 1. Build and release 5.0.1.6 packages
+1. new translators
 1. oe-blue-button-generate
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
 1. CSRF implementation ongoing.
-1. fill out infogard sheet for pricing
-1. new translators
 1. Blog post for google cloud launcher
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix (after do this, can then update the 5.0.1 docker to support swarm)
 1. snomed rf2
