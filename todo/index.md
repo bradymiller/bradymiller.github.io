@@ -17,6 +17,7 @@ layout: default
 1. MU3 research
 
 ### Scheduled items to do
+1. When php 7.3 dockers are available, update the insane dev environment.
 1. When Alpine 3.9 is released. Update 5.0.2 docker and flex dockers. Upgrade dev npm version to 10 and update npm version used in ubuntu 18.04 demo farm docker to 10.
 
 ### OpenEMR Code Reviews
