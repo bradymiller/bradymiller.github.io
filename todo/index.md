@@ -16,6 +16,8 @@ layout: default
 1. MIPS research
 1. MU3 research
 
+### Scheduled items to do
+1. When Alpine 3.9 is released. Update 5.0.2 docker and flex dockers. Upgrade dev npm version to 10 and update npm version used in ubuntu 18.04 demo farm docker to 10.
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
