@@ -3,6 +3,10 @@ layout: default
 ---
 ## TODO lists
 
+### STAT
+1. request end year donations
+1. request donations for mu3
+
 ### Expedited
 1. oe-blue-button-generate
 1. make whitelist docs default (add standard entries and fix whitescreen bug)
