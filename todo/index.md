@@ -18,8 +18,7 @@ layout: default
 
 ### Scheduled items to do
 1. When Alpine 3.9 is released. Update 5.0.2 docker and flex dockers. Upgrade dev npm/nodejs version to 10 and update npm/nodejs version used in ubuntu 18.04 demo farm docker to 10 (note this version is for nodejs and the npm version will be different).
-2. Now that require PHP 7, should change openssl_random_pseudo_bytes() calls to random_bytes() calls. Need to do a bit more research before doing this, though.
-3. When we only support PHP 7.2+, then can change encryption stuff in openemr to libsodium.
+2. When we only support PHP 7.2+, then can change encryption stuff in openemr to libsodium.
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
