@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/bradymiller
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.bradymd.com
+  * I am bradymiller (https://keybase.io/bradymiller) on keybase.
+  * I have a public key ASBmqyjfvRwj9JsYFTfwuCov8Vwp6Lwuwa-g_C1c69MBjAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200c2abd77e919d626c0469e2836e9539b912716808590b8e0f664d341e300cadb0a",
+      "host": "keybase.io",
+      "kid": "012066ab28dfbd1c23f49b181537f0b82a2ff15c29e8bc2ec1afa0fc2d5cebd3018c0a",
+      "uid": "955d44871f235cb48b933bd49a74c219",
+      "username": "bradymiller"
+    },
+    "merkle_root": {
+      "ctime": 1546170147,
+      "hash": "0bbc062d75f4ff447afa520dae4df8d1e58bfae3902887d123255a12c605754ba7a7c60c8e2d86b02de4053f5ca0f706ec5b1e5daa6ae8a8c99285fb7386c9e3",
+      "hash_meta": "8d5d07e9d684080dbbd423f93b46b39eeec97c2abdec1e237e5c11097a5ed116",
+      "seqno": 4209779
+    },
+    "service": {
+      "entropy": "Ao16ZvZvXIR85wQL/1BzNY6e",
+      "hostname": "www.bradymd.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.0"
+  },
+  "ctime": 1546170162,
+  "expire_in": 504576000,
+  "prev": "2f8d8f83d784781c5abbaf7b19c47a0482ca3c048e695dbf7d0fd808b776edcd",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZqso370cI/SbGBU38LgqL/FcKei8LsGvoPwtXOvTAYwKp3BheWxvYWTESpcCCMQgL42Pg9eEeBxau697GcR6BILKPASOaV2/fQ/YCLd27c3EIIwhvqKQn8kgZHiej2y70Uwzb+C6tPHvK8XztBmTwcA6AgHCo3NpZ8RAkkSZiGCrsYCBeKSXPBBVZ3DDuEIE4XgYs0NVW8nwhK3YL9rtxK8C3aFLlF6urAC6M4FTVOMW/OCA32O1+Sk5C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKeFdjF/ilaF0gkRajjXrxf4wp+qFKLXadeBHEohYauZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bradymiller
+
+==================================================================
+
