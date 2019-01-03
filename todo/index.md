@@ -5,6 +5,7 @@ layout: default
 
 ### STAT
 1. request donations for mu3
+2. Ensure the recent setup.php changed don't break multisite (will have required fields that are hidden by css).
 
 ### Expedited
 1. oe-blue-button-generate
