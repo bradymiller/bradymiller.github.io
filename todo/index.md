@@ -4,9 +4,8 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Ensure quarterly attestation
-1. request donations for mu3
 1. Ensure the recent setup.php changed don't break multisite (will have required fields that are hidden by css).
+1. request donations for mu3
 
 ### Expedited
 1. oe-blue-button-generate
