@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. send D link for optimal escaping examples
 1. gsoc
 1. request donations for mu3
 
