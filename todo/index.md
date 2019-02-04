@@ -6,6 +6,7 @@ layout: default
 ### STAT
 1. gsoc
 1. request donations for mu3
+1. alpine 3.9 upgrade (done in main dockers; need to do in demo farm to replace 3.8 use)
 
 ### Expedited
 1. oe-blue-button-generate
@@ -15,7 +16,7 @@ layout: default
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix (after do this, can then update the 5.0.1 docker to support swarm)
 1. snomed rf2
 1. couchdb ssl
-1. apache 2.2 updates
+1. apache 2.2 updates (see how done in openemr-devops repo)
 1. phpunit
 1. MIPS research
 1. MU3 research
