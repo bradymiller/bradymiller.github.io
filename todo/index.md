@@ -4,8 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. gsoc
-1. alpine 3.9 upgrade (done in main dockers; need to do in demo farm to replace 3.8 use) and update to apache 2 syntax in demo farm, ubuntu packages, and setup instructions.
+1. update to apache 2 syntax in demo farm, ubuntu packages, and setup instructions (copy from devops).
 1. request donations for mu3
 
 ### Expedited
