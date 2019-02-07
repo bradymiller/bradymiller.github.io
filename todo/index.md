@@ -20,7 +20,7 @@ layout: default
 1. MU3 research
 
 ### Scheduled items to do
-1. Alpine 3.9 has been releaded, so Update 5.0.2 docker and flex dockers. Upgrade dev npm/nodejs version to 10 and update npm/nodejs version used in ubuntu 18.04 demo farm docker to 10 (note this version is for nodejs and the npm version will be different).
+empty
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
