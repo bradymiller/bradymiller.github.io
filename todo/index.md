@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. update to apache 2 syntax in demo farm, ubuntu packages, and setup instructions (copy from devops).
+1. update to apache 2 syntax in ubuntu packages and setup instructions (copy from devops or demo farm).
 1. request donations for mu3
 
 ### Expedited
