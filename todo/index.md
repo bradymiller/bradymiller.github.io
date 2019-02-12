@@ -4,7 +4,6 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. remove the ubuntu development package
 1. request donations for mu3
 
 ### Expedited
