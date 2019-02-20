@@ -36,5 +36,4 @@ empty
 1. Restructuring
 
 ### OpenEMR Next Release
-1. Removed ubuntu perl dependencies, so will need to build a new version development ubuntu package at some point. In this package could also stream line the clone with the `--depth 1` setting.
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
