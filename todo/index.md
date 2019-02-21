@@ -5,6 +5,7 @@ layout: default
 
 ### STAT
 1. request donations for mu3
+2. ensure imagemagick is working on dockers
 
 ### Expedited
 1. oe-blue-button-generate
