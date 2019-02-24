@@ -8,7 +8,6 @@ layout: default
 2. Issues (patient portal report to mPDF and get working; fix patient portal session issue likely with the secure php setting; provide more guidance on the file whitelisting issue)
 3. Meeting minutes and email back the fix online rx issue
 4. get uptodate on matrix code reviews
-5. review security blog entry
 
 ### Expedited
 1. oe-blue-button-generate
