@@ -5,6 +5,8 @@ layout: default
 
 ### STAT
 1. request donations for mu3
+2. Issues (patient portal report to mPDF and get working; fix patient portal session issue likely with the secure php setting; provide more guidance on the file whitelisting issue)
+3. Meeting minutes and email back the fix online rx issue
 
 ### Expedited
 1. oe-blue-button-generate
