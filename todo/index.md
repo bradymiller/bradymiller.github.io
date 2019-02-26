@@ -6,7 +6,7 @@ layout: default
 ### STAT
 1. request donations for mu3
 2. Issues (patient portal report to mPDF and get working; fix patient portal session issue likely with the secure php setting)
-3. (bypass the need for the mime_content_type() function in whitelisting(could also get support in alpine with php7-fileinfo and note this is part of common php7 package in ubuntu; so thinking best to support by adding php7-fileinfo); also note weird placement of whitelisting which will break all dicom stuff if it's turned on)
+3. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
 
 ### Expedited
 1. oe-blue-button-generate
