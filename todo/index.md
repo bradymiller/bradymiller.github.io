@@ -10,7 +10,6 @@ layout: default
 
 ### Expedited
 1. oe-blue-button-generate
-1. make whitelist docs default (add standard entries and fix whitescreen bug)
 1. CSRF implementation ongoing.
 1. Blog post for google cloud launcher
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix (after do this, can then update the 5.0.1 docker to support swarm)
