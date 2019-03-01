@@ -5,7 +5,7 @@ layout: default
 
 ### STAT
 1. request donations for mu3
-2. Issues (patient portal report to mPDF and get working; fix patient portal session issue likely with the secure php setting)
+2. Issues (patient portal report to mPDF and get working(Issue was created); fix patient portal session issue likely with the secure php setting)
 3. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
 
 ### Expedited
