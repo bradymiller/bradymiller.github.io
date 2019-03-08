@@ -38,4 +38,4 @@ empty
 
 ### OpenEMR Next Release
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
-2. Upgrade (move edi,era,letter_templates,procedure_results to inside documents)
+2. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents)
