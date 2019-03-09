@@ -12,7 +12,6 @@ layout: default
 1. oe-blue-button-generate
 1. CSRF implementation ongoing.
 1. Blog post for google cloud launcher
-1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix (after do this, can then update the 5.0.1 docker to support swarm)
 1. snomed rf2
 1. couchdb ssl
 1. phpunit
@@ -37,5 +36,6 @@ empty
 1. Restructuring
 
 ### OpenEMR Next Release
+1. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents); test mechanism in ubuntu package; add and test mechanism to docker.
+1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix.
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
-2. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents)
