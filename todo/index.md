@@ -36,6 +36,6 @@ empty
 1. Restructuring
 
 ### OpenEMR Next Release
-1. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents); test mechanism in ubuntu package; add and test mechanism to docker.
+1. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents); test mechanism in ubuntu package; add and test mechanism to docker; update the apache config in flex dockers and demo farm after 5.0.2 release.
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix.
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
