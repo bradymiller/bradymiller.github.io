@@ -7,12 +7,13 @@ layout: default
 1. request donations for mu3
 2. Issues (patient portal report to mPDF and get working(Issue was created); fix patient portal session issue likely with the secure php setting)
 3. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
+4. remove agpl
+5. snomed rf2
 
 ### Expedited
 1. oe-blue-button-generate
 1. CSRF implementation ongoing.
 1. Blog post for google cloud launcher
-1. snomed rf2
 1. couchdb ssl
 1. phpunit
 1. MIPS research
