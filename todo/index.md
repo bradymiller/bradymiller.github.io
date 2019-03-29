@@ -26,9 +26,10 @@ empty
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
 
 ### OpenEMR Issues
-* [High Priority](https://github.com/openemr/openemr/milestone/2)
-* [Normal Priority](https://github.com/openemr/openemr/milestone/4)
-* [Very Low Priority](https://github.com/openemr/openemr/milestone/5)
+* [High Priority Codebase](https://github.com/openemr/openemr/milestone/4)
+* [High Priority Devops](https://github.com/openemr/openemr-devops/milestone/1)
+* [Normal Priority](https://github.com/openemr/openemr/milestone/5)
+* [Very Low Priority](https://github.com/openemr/openemr/milestone/6)
 
 ### OpenEMR Project Admin
 1. Upgrade wiki (mediawiki) to most recent version.(R working on)
