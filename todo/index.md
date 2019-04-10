@@ -5,10 +5,14 @@ layout: default
 
 ### STAT
 1. request donations for mu3
-2. Issues (patient portal report to mPDF and get working(Issue was created))
-3. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
-4. remove agpl (1 of 3 done)
-5. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
+1. Issues (patient portal report to mPDF and get working(Issue was created))
+2. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
+1. remove agpl (1 of 3 done)
+1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
+1. Composer packages update
+1. token methods centralize/integrate
+1. CRSF support for api internal use
+1. get rid of html2pdf
 
 ### Expedited
 1. oe-blue-button-generate
