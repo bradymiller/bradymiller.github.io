@@ -12,6 +12,7 @@ layout: default
 1. Ensure api internal use works
 1. remove headers with sensitive information of oeHttp when simply used to collect outbound information (jsut change them to use guzzle is likely simplest solution)
 1. Allow DELETE requests in the dockers
+1. Fix log bug that is not showing parameters values when using binding.
 
 ### Expedited
 1. oe-blue-button-generate
