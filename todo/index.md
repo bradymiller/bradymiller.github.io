@@ -10,7 +10,7 @@ layout: default
 1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333) (SN sort of working on this with the Zend upgrade)
 1. CRSF support for api internal use
 1. Ensure api internal use works
-1. remove headers with sensitive information of oeHttp when simply used to collect outbound information (jsut change them to use guzzle is likely simplest solution)
+1. remove headers with sensitive information of oeHttp when used to collect/send outbound information
 1. Allow DELETE requests in the dockers
 
 ### Expedited
