@@ -11,6 +11,7 @@ layout: default
 1. CRSF support for api internal use
 1. Ensure api internal use works
 1. Allow DELETE requests in the dockers
+1. Fix redis in insane docker dev env
 
 ### Expedited
 1. oe-blue-button-generate
