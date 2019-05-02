@@ -7,10 +7,9 @@ layout: default
 1. request donations for mu3
 2. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
 1. remove agpl (2 of 3 done)
-1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333) (SN sort of working on this with the Zend upgrade)
-1. CRSF support for api internal use
-1. Ensure api internal use works
-1. Allow DELETE requests in the dockers
+1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333) (work on this after SN finishes Zend upgrade)
+1. CRSF support for api internal use (ongoing)
+1. Ensure api internal use works (ongoing)
 1. Fix redis in insane docker dev env
 
 ### Expedited
