@@ -10,7 +10,7 @@ layout: default
 1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333) (work on this after SN finishes Zend upgrade)
 1. CRSF support for api internal use (ongoing)
 1. Ensure api internal use works (ongoing)
-1. Fix redis in insane docker dev env
+1. Fix redis in insane docker dev env (broken in the new security enhanced dockers)
 
 ### Expedited
 1. oe-blue-button-generate
