@@ -11,6 +11,7 @@ layout: default
 1. CRSF support for api internal use (ongoing)
 1. Ensure api internal use works (ongoing)
 1. Fix redis in insane docker dev env (broken in the new security enhanced dockers)
+1. Remove annoying write permission to zend file after zend 3 update in codebase
 
 ### Expedited
 1. oe-blue-button-generate
