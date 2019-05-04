@@ -11,7 +11,7 @@ layout: default
 1. CRSF support for api internal use (ongoing)
 1. Ensure api internal use works (ongoing)
 1. Fix redis in insane docker dev env (broken in the new security enhanced dockers)
-1. Adjust 5.0.2 and flex dockers to only set write permissions for the 1 file and directory (https://github.com/openemr/openemr-devops/pull/191)
+1. Adjust 5.0.2 and flex-edge docker to only set write permissions for the 1 file and directory (https://github.com/openemr/openemr-devops/pull/191)
 1. Do a npm update run to ensure lock file is good
 
 ### Expedited
@@ -24,7 +24,7 @@ layout: default
 1. MU3 research
 
 ### Scheduled items to do
-empty
+1. After 5.0.2 release, adjust flex docker to only set write permissions for the 1 file and directory (___)
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
