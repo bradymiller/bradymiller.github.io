@@ -11,8 +11,7 @@ layout: default
 1. CRSF support for api internal use (ongoing)
 1. Ensure api internal use works (ongoing)
 1. Fix redis in insane docker dev env (broken in the new security enhanced dockers)
-1. Remove annoying write permission to zend file after zend 3 update in main codebase
-1. Adjust 5.0.2 and flex dockers to only set write permissions for the 1 file and directory (do 5.0.2 now and maybe do flex in the future to ensure all devs are working from newer codebase)
+1. Adjust 5.0.2 and flex dockers to only set write permissions for the 1 file and directory
 
 ### Expedited
 1. oe-blue-button-generate
