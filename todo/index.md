@@ -24,7 +24,7 @@ layout: default
 1. MU3 research
 
 ### Scheduled items to do
-1. After 5.0.2 release, adjust flex docker to only set write permissions for the 1 file and directory (___)
+1. After 5.0.2 release, adjust flex docker to only set write permissions for the 1 file and directory (https://github.com/openemr/openemr-devops/pull/192)
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
