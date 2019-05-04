@@ -11,7 +11,7 @@ layout: default
 1. CRSF support for api internal use (ongoing)
 1. Ensure api internal use works (ongoing)
 1. Fix redis in insane docker dev env (broken in the new security enhanced dockers)
-1. Adjust 5.0.2 and flex dockers to only set write permissions for the 1 file and directory
+1. Adjust 5.0.2 and flex dockers to only set write permissions for the 1 file and directory (https://github.com/openemr/openemr-devops/pull/191)
 
 ### Expedited
 1. oe-blue-button-generate
