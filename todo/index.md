@@ -13,7 +13,7 @@ layout: default
 ### Expedited
 1. request donations for mu3
 1. oe-blue-button-generate
-1. CSRF implementation ongoing.
+1. CSRF implementation ongoing
 1. Blog post for google cloud launcher
 1. couchdb ssl
 1. phpunit
