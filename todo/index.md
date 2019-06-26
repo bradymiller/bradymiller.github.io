@@ -22,6 +22,7 @@ layout: default
 
 ### Scheduled items to do
 1. After 5.0.2 release, adjust flex docker to only set write permissions for the 1 file and directory (https://github.com/openemr/openemr-devops/pull/192)
+1. Whenever update or build the docker, check if need to increment the `git clone https://github.com/letsencrypt/letsencrypt` branch that is collected. 
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
@@ -40,6 +41,7 @@ layout: default
 
 ### OpenEMR Next Release
 1. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents); test mechanism in ubuntu package; add and test mechanism to docker; update the apache config in flex dockers and demo farm after 5.0.2 release.
+1. Add `mysqli.allow_local_infile = On` setting to php.ini for 5.0.2 ubuntu package
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix.
 1. For next xampp package, add `Options -Indexes` to the apache config
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
