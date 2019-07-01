@@ -9,6 +9,7 @@ layout: default
 1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
 1. Audit API code couple times to ensure secure (0/3 done so far)
 1. Audit calendar code couple times to ensure secure (0/2 done so far)
+1. Finalized whether to use Strict or Lax for the cookie_samesite setting when creating session in php 7.3
 
 ### Expedited
 1. request donations for mu3
