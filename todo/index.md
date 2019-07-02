@@ -37,8 +37,8 @@ layout: default
 ### OpenEMR Project Admin
 1. Upgrade wiki (mediawiki) to most recent version.(R working on)
 
-### OEMR Organization
-1. Restructuring
+### OpenEMR Foundation
+1. Setting up the plumbing
 
 ### OpenEMR Next Release
 1. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents); test mechanism in ubuntu package; add and test mechanism to docker; update the apache config in flex dockers and demo farm after 5.0.2 release.
