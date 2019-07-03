@@ -4,6 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
+1. Update the acknowledgments page with new organization and landing web page (when ready)
 1. Prep for 5.0.2 release (next up is the branch)
 1. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
 1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
