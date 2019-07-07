@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Incorporate alpine 3.10 (using PHP 7.3); and ensure php7-sodium is installed (including the ubuntu package)
+1. Incorporate alpine 3.10 (using PHP 7.3); and ensure php7-sodium and php7-calendar is installed in alpine 3.9/3.10 and other dockers (including the ubuntu package).
 1. Update the acknowledgments page with new organization and landing web page (when ready)
 1. Prep for 5.0.2 release (next up is the branch)
 1. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
