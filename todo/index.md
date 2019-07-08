@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Incorporate alpine 3.10 (using PHP 7.3); and ensure php7-sodium and php7-calendar is installed in alpine 3.9/3.10 and other dockers (including the ubuntu package).
+1. Incorporate alpine 3.10 (using PHP 7.3); and ensure php7-sodium and php7-calendar is installed in alpine 3.9/3.10 and other dockers (including the ubuntu package). DONE except just need to ensure the ubuntu package has calendar and sodium php extensions by default (it likely does).
 1. Ensure samesite Strict is working well and consider changing this in the docker php.ini scripts for php 7.3+
 1. Update the acknowledgments page with new organization and landing web page (when ready)
 1. Prep for 5.0.2 release (next up is the branch)
@@ -44,7 +44,6 @@ layout: default
 
 ### OpenEMR Next Release
 1. Upgrade (move edi,era,letter_templates(migrate custom_pdf.php to base site dir),procedure_results to inside documents); test mechanism in ubuntu package; add and test mechanism to docker; update the apache config in flex dockers and demo farm after 5.0.2 release.
-1. For next ubuntu package, ensure it has php7-sodium and php7-calendar.
 1. Add `mysqli.allow_local_infile = On` setting to php.ini for 5.0.2 ubuntu package and xampp package
 1. Ensure 5.0.1 to 5.0.2 docker upgrade works with the new apache uid 1000 fix.
 1. For next xampp package, add `Options -Indexes` to the apache config
