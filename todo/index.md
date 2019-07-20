@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Prep for 5.0.2 release (next ups are: eye form updates; get docker to par and test ubuntu packaged)
+1. Prep for 5.0.2 release (next ups are: eye form updates; instance uuid mechanism; get docker to par and test ubuntu packaged)
 1. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
 1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
 1. Audit API code couple times to ensure secure (0/3 done so far)
