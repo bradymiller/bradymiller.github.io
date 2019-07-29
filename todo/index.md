@@ -42,6 +42,5 @@ layout: default
 1. Setting up the plumbing
 
 ### OpenEMR Next Release
-1. Add `mysqli.allow_local_infile = On` setting to php.ini for 5.0.2 ubuntu package and xampp package
 1. For next xampp package, add `Options -Indexes` to the apache config
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
