@@ -4,9 +4,9 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Release 5.0.2
+1. Release 5.0.2 deb package (the popups and php edit is not working), 5.0.2 xampp package
 1. 5.0.2 PR
-1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
+1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package (see 1 above).
 
 ### Expedited
 1. (note weird placement of whitelisting which may break dicom stuff if it's turned on)
