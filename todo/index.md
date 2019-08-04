@@ -4,16 +4,13 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Prep for 5.0.2 release (next up: last minute testing, then build final dockers/packages; prep PR)
-1. (note weird placement of whitelisting which will break all dicom stuff if it's turned on)
-1. snomed rf2 (main done but still need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
-1. Audit API code couple times to ensure secure (0/3 done so far)
-1. Audit calendar code couple times to ensure secure (0/2 done so far)
-1. Audit auth/sessions/cookie code couple times to ensure secure (0/2 done so far)
-1. Do more testing of the 5.0.2 docker and when upgrade docker from 5.0.1.
+1. Release 5.0.2
+1. 5.0.2 PR
 1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
 
 ### Expedited
+1. (note weird placement of whitelisting which may break dicom stuff if it's turned on)
+1. snomed rf2 (main done but still may need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
 1. request donations for mu3
 1. oe-blue-button-generate
 1. CSRF implementation ongoing
