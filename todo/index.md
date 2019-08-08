@@ -7,7 +7,8 @@ layout: default
 1. fix mailing list
 1. Release 5.0.2 deb package (the popups and php edit is not working)
 1. Release 5.0.2 xampp package
-1. 5.0.2 PR
+1. 5.0.2 release blog
+1. 5.0.2 release PR
 1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package (see 1 above).
 
 ### Expedited
