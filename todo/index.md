@@ -9,6 +9,7 @@ layout: default
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
 1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package (see 1 above).
+1. sherwin's sql inject thing fix
 
 ### Expedited
 1. (note weird placement of whitelisting which may break dicom stuff if it's turned on)
