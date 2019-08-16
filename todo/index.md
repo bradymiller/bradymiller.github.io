@@ -40,6 +40,7 @@ layout: default
 1. Upgrade wiki (mediawiki) to most recent version.(R working on)
 
 ### OpenEMR Foundation
+1. At next meeting, need to to votes for Sherwin and Stephen N to make their appt official.
 1. Setting up the plumbing
 
 ### OpenEMR Next Release
