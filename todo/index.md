@@ -4,6 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
+1. Fix mariadb dockers
 1. Release 5.0.2 deb package (the popups and php edit is not working)
 1. Release 5.0.2 xampp package
 1. 5.0.2 release security specific blog
