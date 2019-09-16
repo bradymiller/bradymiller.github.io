@@ -17,8 +17,6 @@ layout: default
 1. snomed rf2 (main done but still may need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
 1. request donations for mu3
 1. oe-blue-button-generate
-1. CSRF implementation ongoing
-1. Blog post for google cloud launcher
 1. couchdb ssl
 1. phpunit
 1. MIPS research
