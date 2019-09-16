@@ -4,11 +4,11 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Fix mariadb issue and release patch 1 and new docker/zip/tar packages (when done, then change docker examples back to mariadb)
-1. Release 5.0.2 deb package (the popups and php edit is not working)
-1. Release 5.0.2 xampp package
+1. Fix mariadb issue and release patch 1(aa6c88b0ab5a909df9127924b0dc6970)(branch and zip tested well) and new docker/zip(98dc4a7ad7841f4aabb46fcc4164bb90)/tar(1c76094532b27c95030eb9e712d90ba2)(PENDING testing) packages (when done, then change docker examples back to mariadb)
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
+1. Release 5.0.2 deb package (the popups and php edit is not working)
+1. Release 5.0.2 xampp package
 1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package (see 1 above).
 1. sherwin's sql inject thing fix
 
