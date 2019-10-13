@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Fix mariadb issue and release patch 1(md5sum)(branch and patch PENDING build and testing) and new docker/zip(md5sum)/tar(md5sum)(PENDING build and testing) packages (when done, then change docker examples back to mariadb)
+1. Release patch 1 (md5sum:f026ff19ac682dae4c5ff85c1dda9f5b) (branch test passed,and patch pending testing) and new docker/zip(md5sum)/tar(md5sum)(PENDING build and testing) packages (when done, then change docker examples back to mariadb)
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
 1. Release 5.0.2 deb package (the popups and php edit is not working)
