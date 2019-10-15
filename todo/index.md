@@ -23,7 +23,6 @@ layout: default
 1. MU3 research
 
 ### Scheduled items to do
-1. Change docker farm mariadb version to 10.4
 1. Whenever update or build the docker, check if need to increment the `git clone https://github.com/letsencrypt/letsencrypt` branch that is collected. 
 
 ### OpenEMR Code Reviews
