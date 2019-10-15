@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Release patch 1 (md5sum:f026ff19ac682dae4c5ff85c1dda9f5b) (branch test PASSED and patch PASSED) and new docker/zip(md5sum: aee25be40d8a4cfdf866ef8d3dac676c)/tar(md5sum: a238f73ce95307a3fda854a0f34352d2)(PENDING testing) packages (when done, then change docker examples back to mariadb)
+1. Release patch 1 (md5sum:f026ff19ac682dae4c5ff85c1dda9f5b) (branch test PASSED and patch PASSED) and new docker/zip(md5sum: aee25be40d8a4cfdf866ef8d3dac676c)/tar(md5sum: a238f73ce95307a3fda854a0f34352d2)(all PASSED) packages (when done, then change docker examples back to mariadb)
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
 1. Release 5.0.2 deb package (the popups and php edit is not working)
