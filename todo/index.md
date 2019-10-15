@@ -5,7 +5,7 @@ layout: default
 
 ### STAT
 1. Change docker examples and docker farm to mariadb 10.4
-1. Release 5.0.2 xampp package
+1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
 1. Release 5.0.2 deb package (the popups and php edit is not working); ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
@@ -40,5 +40,4 @@ layout: default
 1. Setting up the plumbing
 
 ### OpenEMR Next Release
-1. For next xampp package, add `Options -Indexes` to the apache config
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
