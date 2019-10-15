@@ -8,8 +8,7 @@ layout: default
 1. Release 5.0.2 xampp package
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
-1. Release 5.0.2 deb package (the popups and php edit is not working)
-1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package (see 1 above).
+1. Release 5.0.2 deb package (the popups and php edit is not working); ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
 1. sherwin's sql inject thing fix
 
 ### Expedited
