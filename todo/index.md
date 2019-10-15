@@ -4,11 +4,11 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Release patch 1 (md5sum:f026ff19ac682dae4c5ff85c1dda9f5b) (when done, then change docker examples back to mariadb)
+1. Change docker examples and docker farm to mariadb 10.4
+1. Release 5.0.2 xampp package
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
 1. Release 5.0.2 deb package (the popups and php edit is not working)
-1. Release 5.0.2 xampp package
 1. Ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package (see 1 above).
 1. sherwin's sql inject thing fix
 
@@ -23,7 +23,7 @@ layout: default
 1. MU3 research
 
 ### Scheduled items to do
-1. After release 5.0.2, change docker farm mariadb version to 10.4
+1. Change docker farm mariadb version to 10.4
 1. Whenever update or build the docker, check if need to increment the `git clone https://github.com/letsencrypt/letsencrypt` branch that is collected. 
 
 ### OpenEMR Code Reviews
