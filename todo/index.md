@@ -12,14 +12,18 @@ layout: default
 1. sherwin's sql inject thing fix
 
 ### Expedited
-1. (note weird placement of whitelisting which may break dicom stuff if it's turned on)
-1. snomed rf2 (main done but still may need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
 1. request donations for mu3
 1. oe-blue-button-generate
 1. couchdb ssl
 1. phpunit
 1. MIPS research
 1. MU3 research
+
+### Under Consideration
+1. use better random password generation for portal
+1. encrypt stored API tokens
+1. (note weird placement of whitelisting which may break dicom stuff if it's turned on)
+1. snomed rf2 (main done but still may need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
 
 ### Scheduled items to do
 1. Whenever update or build the docker, check if need to increment the `git clone https://github.com/letsencrypt/letsencrypt` branch that is collected. 
