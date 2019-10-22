@@ -20,7 +20,6 @@ layout: default
 1. MU3 research
 
 ### Under Consideration
-1. use better random password generation for portal (increase to 12 and random gen until ensure all char types are in it; place the function in RandomGenUtils called soemthing like portalGeneratePassword() )
 1. encrypt stored API tokens (only if they are not stored as a hash)
 1. (note weird placement of whitelisting which may break dicom stuff if it's turned on)
 1. snomed rf2 (main done but still may need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
