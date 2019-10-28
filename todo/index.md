@@ -4,6 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
+1. Test and release patch 2
 1. Change docker examples and docker farm to mariadb 10.4
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. 5.0.2 release security specific blog
