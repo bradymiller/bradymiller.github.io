@@ -5,12 +5,12 @@ layout: default
 
 ### STAT
 1. Test and release patch 2
-1. Change docker examples and docker farm to mariadb 10.4
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
 1. Release 5.0.2 deb package (the popups and php edit is not working); ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
 1. sherwin's sql inject thing fix
+1. Change docker farm to mariadb 10.4
 
 ### Expedited
 1. request donations for mu3
