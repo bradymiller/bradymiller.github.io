@@ -13,7 +13,6 @@ layout: default
 1. Change docker farm to mariadb 10.4
 
 ### Expedited
-1. Get a openldap docker in insane docker environment to allow easy testing: https://github.com/osixia/docker-openldap
 1. request donations for mu3
 1. oe-blue-button-generate
 1. couchdb ssl
