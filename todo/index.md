@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Test and release patch 2
+1. Test and release patch 2 (pending testing)
 1. AWS set up reserved instances of ec2/rds stuff to decrease costs
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. 5.0.2 release security specific blog
