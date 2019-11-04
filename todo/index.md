@@ -14,6 +14,7 @@ layout: default
 1. Change docker farm to mariadb 10.4
 
 ### Expedited
+1. Update OpenEMR's hashing mechanism: https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software#secure-php-passwords https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016 (do more research on this)
 1. request donations for mu3
 1. oe-blue-button-generate
 1. couchdb ssl
