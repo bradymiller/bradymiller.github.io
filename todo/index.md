@@ -5,7 +5,6 @@ layout: default
 
 ### STAT
 1. Test and release patch 2 (pending testing)
-1. AWS set up reserved instances of ec2/rds stuff to decrease costs (done; keeping reg db on demand since will hopefully go away in a couple months; waiting to hear back from rd on turning off 3 ec2 and 1 rds instances)
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
@@ -28,6 +27,7 @@ layout: default
 
 ### Scheduled items to do
 1. Whenever update or build the docker, check if need to increment the `git clone https://github.com/letsencrypt/letsencrypt` branch that is collected. 
+1. AWS has set up reserved instances of ec2/rds stuff to decrease costs (done; keeping reg db on demand since will hopefully go away in a couple months; waiting to hear back from rd on turning off 3 ec2 and 1 rds instances)
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
