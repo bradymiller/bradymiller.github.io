@@ -45,3 +45,4 @@ layout: default
 
 ### OpenEMR Next Release
 1. For next ubuntu package, don't secure files needed for install if auto-configuration was not done.(low priority)
+1. When release 5.0.3, the demo farm password reset will need a mode 3 since salts are now gone (and need to also update the last_update_password entry to NOW())
