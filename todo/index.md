@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. Test and release patch 2 (pending testing)
+1. Patch 2
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. 5.0.2 release security specific blog
 1. 5.0.2 release PR
