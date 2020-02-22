@@ -4,7 +4,7 @@ layout: default
 ## TODO lists
 
 ### STAT
-1.GSOC admin/mentor (add automated testing item; see if Tyler (css/js type item, maybe web componenets) and Zero (auto testing item) wish to mentor)
+1. GSOC admin/mentor (add automated testing item; see if Tyler (css/js type item, maybe web componenets) and Zero (auto testing item) wish to mentor)
 1. Patch 2
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. Release 5.0.2 deb package (the popups and php edit is not working); ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
