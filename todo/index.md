@@ -4,10 +4,9 @@ layout: default
 ## TODO lists
 
 ### STAT
+1.GSOC admin/mentor
 1. Patch 2
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
-1. 5.0.2 release security specific blog
-1. 5.0.2 release PR
 1. Release 5.0.2 deb package (the popups and php edit is not working); ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
 1. sherwin's sql inject thing fix
 1. Change docker farm to mariadb 10.4
@@ -26,7 +25,7 @@ layout: default
 
 ### Scheduled items to do
 1. Whenever update or build the docker, check if need to increment the `git clone https://github.com/letsencrypt/letsencrypt` branch that is collected. 
-1. AWS has set up reserved instances of ec2/rds stuff to decrease costs (done; keeping reg db on demand since will hopefully go away in a couple months; waiting to hear back from rd on turning off 3 ec2 and 1 rds instances)
+1. AWS has set up reserved instances of ec2/rds stuff to decrease costs (done; keeping reg db on demand since will hopefully go away in a couple months)
 
 ### OpenEMR Code Reviews
 * [Pull Requests](https://github.com/openemr/openemr/pulls)
