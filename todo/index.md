@@ -4,18 +4,17 @@ layout: default
 ## TODO lists
 
 ### STAT
-1. GSOC admin/mentor (add automated testing item; see if Tyler (css/js type item, maybe web componenets) and Zero (auto testing item) wish to mentor)
-1. Patch 2
+1. GSOC admin/mentor
+1. Patch 2 (when release, remove the mysql8 version limits at top of download page)
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. Release 5.0.2 deb package (the popups and php edit is not working); ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
-1. sherwin's sql inject thing fix
-1. Change docker farm to mariadb 10.4
 
 ### Expedited
+1. Change docker farm to mariadb 10.4
+1. sherwin's sql inject thing fix
 1. request donations for mu3
 1. oe-blue-button-generate
 1. couchdb ssl
-1. phpunit
 1. MIPS research
 1. MU3 research
 
