@@ -5,7 +5,7 @@ layout: default
 
 ### STAT
 1. GSOC admin/mentor
-1. Patch 2 (when release, remove the mysql8 version limits at top of download page)
+1. Patch 2 (when release, remove the mysql8 version limits at top of download page)(will need new packages since mysql 8 bug effects install)
 1. Release 5.0.2 xampp package (ensure add `Options -Indexes` to the apache config)
 1. Release 5.0.2 deb package (the popups and php edit is not working); ensure the mysqli.allow_local_infile setting works as expected in the ubuntu package.
 
