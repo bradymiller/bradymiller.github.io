@@ -23,7 +23,7 @@ layout: default
 1. snomed rf2 (main done but still may need to support in ccda stuff; https://github.com/openemr/openemr/blob/master/interface/modules/zend_modules/module/Carecoordination/src/Carecoordination/Model/EncounterccdadispatchTable.php#L2316-L2333)
 
 ### Scheduled items to do
-1. Whenever update or build the docker, check if need to increment the `git clone https://github.com/letsencrypt/letsencrypt` branch that is collected. 
+1. When Alpine 3.12 is released (these changes are now working in the Edge docker), make the following changes that were made in this Edge docker commit (this is because alpine edge/3.12 upgraded to py3-pip): https://github.com/openemr/openemr-devops/commit/6dd334c4f21be5c0af71a227100564319028baf9
 1. AWS has set up reserved instances of ec2/rds stuff to decrease costs (done; keeping reg db on demand since will hopefully go away in a couple months)
 
 ### OpenEMR Code Reviews
