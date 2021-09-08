@@ -7,6 +7,7 @@ layout: default
 1. routine stuff
 
 ### Expedited
+1. MU3
 1. couchdb ssl
 
 ### Under Consideration
